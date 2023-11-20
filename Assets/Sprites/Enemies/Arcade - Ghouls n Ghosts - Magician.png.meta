@@ -1,0 +1,1323 @@
+fileFormatVersion: 2
+guid: 77c2d1f5faee62b4a826cc7473350703
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 996273214428140861
+    second: Arcade - Ghouls n Ghosts - Magician_0
+  - first:
+      213: 4067186081690100522
+    second: Arcade - Ghouls n Ghosts - Magician_1
+  - first:
+      213: 6767675442767954571
+    second: Arcade - Ghouls n Ghosts - Magician_2
+  - first:
+      213: -748616935840439783
+    second: Arcade - Ghouls n Ghosts - Magician_3
+  - first:
+      213: -8487763402343121406
+    second: Arcade - Ghouls n Ghosts - Magician_4
+  - first:
+      213: -2738626468690274168
+    second: Arcade - Ghouls n Ghosts - Magician_5
+  - first:
+      213: -1115281243452110442
+    second: Arcade - Ghouls n Ghosts - Magician_6
+  - first:
+      213: -3835634463617217130
+    second: Arcade - Ghouls n Ghosts - Magician_7
+  - first:
+      213: 819189603835802146
+    second: Arcade - Ghouls n Ghosts - Magician_8
+  - first:
+      213: 6807284726988335945
+    second: Arcade - Ghouls n Ghosts - Magician_9
+  - first:
+      213: 7136823226350036477
+    second: Arcade - Ghouls n Ghosts - Magician_10
+  - first:
+      213: 166594868149305174
+    second: Arcade - Ghouls n Ghosts - Magician_11
+  - first:
+      213: -5409308570023879189
+    second: Arcade - Ghouls n Ghosts - Magician_12
+  - first:
+      213: -8619124600491456343
+    second: Arcade - Ghouls n Ghosts - Magician_13
+  - first:
+      213: -4345436009791459155
+    second: Arcade - Ghouls n Ghosts - Magician_14
+  - first:
+      213: -7952182596124079295
+    second: Arcade - Ghouls n Ghosts - Magician_15
+  - first:
+      213: -6686665302214619236
+    second: Arcade - Ghouls n Ghosts - Magician_16
+  - first:
+      213: 5747124874882960461
+    second: Arcade - Ghouls n Ghosts - Magician_17
+  - first:
+      213: -2859416548454921449
+    second: Arcade - Ghouls n Ghosts - Magician_18
+  - first:
+      213: 2376028989201905056
+    second: Arcade - Ghouls n Ghosts - Magician_19
+  - first:
+      213: -8575758911968681312
+    second: Arcade - Ghouls n Ghosts - Magician_20
+  - first:
+      213: -8392669094247597327
+    second: Arcade - Ghouls n Ghosts - Magician_21
+  - first:
+      213: -1891809659863920002
+    second: Arcade - Ghouls n Ghosts - Magician_22
+  - first:
+      213: 338176838315348349
+    second: Arcade - Ghouls n Ghosts - Magician_23
+  - first:
+      213: -8887241442287077177
+    second: Arcade - Ghouls n Ghosts - Magician_24
+  - first:
+      213: 7340703800287059109
+    second: Arcade - Ghouls n Ghosts - Magician_25
+  - first:
+      213: -1188716439134406546
+    second: Arcade - Ghouls n Ghosts - Magician_26
+  - first:
+      213: 968016189464134681
+    second: Arcade - Ghouls n Ghosts - Magician_27
+  - first:
+      213: 1910818651115969829
+    second: Arcade - Ghouls n Ghosts - Magician_28
+  - first:
+      213: -4361743487493158119
+    second: Arcade - Ghouls n Ghosts - Magician_29
+  - first:
+      213: -1724835614754954268
+    second: Arcade - Ghouls n Ghosts - Magician_30
+  - first:
+      213: -1257397821071533229
+    second: Arcade - Ghouls n Ghosts - Magician_31
+  - first:
+      213: -3146454630005947082
+    second: Arcade - Ghouls n Ghosts - Magician_32
+  - first:
+      213: -1159962602023416889
+    second: Arcade - Ghouls n Ghosts - Magician_33
+  - first:
+      213: -6522586454672906574
+    second: Arcade - Ghouls n Ghosts - Magician_34
+  - first:
+      213: 3191203542790054726
+    second: Arcade - Ghouls n Ghosts - Magician_35
+  - first:
+      213: 6217351046181093111
+    second: Arcade - Ghouls n Ghosts - Magician_36
+  - first:
+      213: 7268587738990682999
+    second: Arcade - Ghouls n Ghosts - Magician_37
+  - first:
+      213: -5964470415677150384
+    second: Arcade - Ghouls n Ghosts - Magician_38
+  - first:
+      213: -2330255335268064732
+    second: Arcade - Ghouls n Ghosts - Magician_39
+  - first:
+      213: 719939122158765260
+    second: Arcade - Ghouls n Ghosts - Magician_40
+  - first:
+      213: -8994630798911079297
+    second: Arcade - Ghouls n Ghosts - Magician_41
+  - first:
+      213: 8256770738571934639
+    second: Arcade - Ghouls n Ghosts - Magician_42
+  - first:
+      213: -1775858275078441141
+    second: Arcade - Ghouls n Ghosts - Magician_43
+  - first:
+      213: 1794666532543188735
+    second: Arcade - Ghouls n Ghosts - Magician_44
+  - first:
+      213: -1177191200239452446
+    second: Arcade - Ghouls n Ghosts - Magician_45
+  - first:
+      213: -7475910197556980480
+    second: Arcade - Ghouls n Ghosts - Magician_46
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Magician_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 63
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d35d935c53973dd00800000000000000
+      internalID: 996273214428140861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Magician_1
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 63
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a232d82413c817830800000000000000
+      internalID: 4067186081690100522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Magician_2
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 63
+        width: 47
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b82815165fc9bed50800000000000000
+      internalID: 6767675442767954571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Magician_3
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 63
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 912a36afcd06c95f0800000000000000
+      internalID: -748616935840439783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Magician_4
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 94
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20ef6c9d728653a80800000000000000
+      internalID: -8487763402343121406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Magician_5
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 63
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 888db319cb17ef9d0800000000000000
+      internalID: -2738626468690274168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Magician_6
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 98
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 699816b3e99b580f0800000000000000
+      internalID: -1115281243452110442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Magician_7
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 73
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69d89d307c615cac0800000000000000
+      internalID: -3835634463617217130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Magician_8
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 83
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 222735cba985e5b00800000000000000
+      internalID: 819189603835802146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Magician_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 36
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94be4158465587e50800000000000000
+      internalID: 6807284726988335945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Magician_10
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 46
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df5e95f69e61b0360800000000000000
+      internalID: 7136823226350036477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Magician_11
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 46
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65f3171662ddf4200800000000000000
+      internalID: 166594868149305174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Magician_12
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 46
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bed104be3864ee4b0800000000000000
+      internalID: -5409308570023879189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Magician_13
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 19
+        width: 60
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a840e887d7b26880800000000000000
+      internalID: -8619124600491456343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Magician_14
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 46
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da07032e8f8e1b3c0800000000000000
+      internalID: -4345436009791459155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Magician_15
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 46
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14b0bf0bf0c24a190800000000000000
+      internalID: -7952182596124079295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Magician_16
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 46
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9f4199c5513433a0800000000000000
+      internalID: -6686665302214619236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Magician_17
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 46
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4cc537cf93e1cf40800000000000000
+      internalID: 5747124874882960461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Magician_18
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 36
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71b887c8ccf4158d0800000000000000
+      internalID: -2859416548454921449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Magician_19
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 36
+        width: 42
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a5f865e6c959f020800000000000000
+      internalID: 2376028989201905056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Magician_20
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 36
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a267b4b4b8ccf880800000000000000
+      internalID: -8575758911968681312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Magician_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 27
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1faf8ffccef378b80800000000000000
+      internalID: -8392669094247597327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Magician_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 18
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7298293321feb5e0800000000000000
+      internalID: -1891809659863920002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Magician_23
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 18
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d711d0fea0271b400800000000000000
+      internalID: 338176838315348349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Magician_24
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 27
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c8395faefc2aa480800000000000000
+      internalID: -8887241442287077177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Magician_25
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 18
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ac5871b63b6fd560800000000000000
+      internalID: 7340703800287059109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Magician_26
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 18
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e68f9ba52b4d08fe0800000000000000
+      internalID: -1188716439134406546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Magician_27
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 27
+        width: 26
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91446d578951f6d00800000000000000
+      internalID: 968016189464134681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Magician_28
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 18
+        width: 26
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52d55f17077948a10800000000000000
+      internalID: 1910818651115969829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Magician_29
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 27
+        width: 26
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91bc89a5869f773c0800000000000000
+      internalID: -4361743487493158119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Magician_30
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 18
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e3a69e95272018e0800000000000000
+      internalID: -1724835614754954268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Magician_31
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 18
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35b5eadf753dc8ee0800000000000000
+      internalID: -1257397821071533229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Magician_32
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 18
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 635cc944f2c8554d0800000000000000
+      internalID: -3146454630005947082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Magician_33
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 18
+        width: 23
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cb08a1c82cf6efe0800000000000000
+      internalID: -1159962602023416889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Magician_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b662787d2e1b75a0800000000000000
+      internalID: -6522586454672906574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Magician_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64328f5e6be694c20800000000000000
+      internalID: 3191203542790054726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Magician_36
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 0
+        width: 26
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fef687e5d7784650800000000000000
+      internalID: 6217351046181093111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Magician_37
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 9
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 773ac49b9063fd460800000000000000
+      internalID: 7268587738990682999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Magician_38
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1
+        width: 39
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05bac3012c1f93da0800000000000000
+      internalID: -5964470415677150384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Magician_39
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 0
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42263696e1549afd0800000000000000
+      internalID: -2330255335268064732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Magician_40
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 0
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc40e2431dcbdf900800000000000000
+      internalID: 719939122158765260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Magician_41
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 9
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7cfd19a1f6ac2380800000000000000
+      internalID: -8994630798911079297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Magician_42
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 0
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fab7b609d31f59270800000000000000
+      internalID: 8256770738571934639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Magician_43
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 42
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b47f286ce42ea57e0800000000000000
+      internalID: -1775858275078441141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Magician_44
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 9
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffec48ae3bfe7e810800000000000000
+      internalID: 1794666532543188735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Magician_45
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 9
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eef20527d6c9afe0800000000000000
+      internalID: -1177191200239452446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Magician_46
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 9
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00555edc84b304890800000000000000
+      internalID: -7475910197556980480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Arcade - Ghouls n Ghosts - Magician_0: 996273214428140861
+      Arcade - Ghouls n Ghosts - Magician_1: 4067186081690100522
+      Arcade - Ghouls n Ghosts - Magician_10: 7136823226350036477
+      Arcade - Ghouls n Ghosts - Magician_11: 166594868149305174
+      Arcade - Ghouls n Ghosts - Magician_12: -5409308570023879189
+      Arcade - Ghouls n Ghosts - Magician_13: -8619124600491456343
+      Arcade - Ghouls n Ghosts - Magician_14: -4345436009791459155
+      Arcade - Ghouls n Ghosts - Magician_15: -7952182596124079295
+      Arcade - Ghouls n Ghosts - Magician_16: -6686665302214619236
+      Arcade - Ghouls n Ghosts - Magician_17: 5747124874882960461
+      Arcade - Ghouls n Ghosts - Magician_18: -2859416548454921449
+      Arcade - Ghouls n Ghosts - Magician_19: 2376028989201905056
+      Arcade - Ghouls n Ghosts - Magician_2: 6767675442767954571
+      Arcade - Ghouls n Ghosts - Magician_20: -8575758911968681312
+      Arcade - Ghouls n Ghosts - Magician_21: -8392669094247597327
+      Arcade - Ghouls n Ghosts - Magician_22: -1891809659863920002
+      Arcade - Ghouls n Ghosts - Magician_23: 338176838315348349
+      Arcade - Ghouls n Ghosts - Magician_24: -8887241442287077177
+      Arcade - Ghouls n Ghosts - Magician_25: 7340703800287059109
+      Arcade - Ghouls n Ghosts - Magician_26: -1188716439134406546
+      Arcade - Ghouls n Ghosts - Magician_27: 968016189464134681
+      Arcade - Ghouls n Ghosts - Magician_28: 1910818651115969829
+      Arcade - Ghouls n Ghosts - Magician_29: -4361743487493158119
+      Arcade - Ghouls n Ghosts - Magician_3: -748616935840439783
+      Arcade - Ghouls n Ghosts - Magician_30: -1724835614754954268
+      Arcade - Ghouls n Ghosts - Magician_31: -1257397821071533229
+      Arcade - Ghouls n Ghosts - Magician_32: -3146454630005947082
+      Arcade - Ghouls n Ghosts - Magician_33: -1159962602023416889
+      Arcade - Ghouls n Ghosts - Magician_34: -6522586454672906574
+      Arcade - Ghouls n Ghosts - Magician_35: 3191203542790054726
+      Arcade - Ghouls n Ghosts - Magician_36: 6217351046181093111
+      Arcade - Ghouls n Ghosts - Magician_37: 7268587738990682999
+      Arcade - Ghouls n Ghosts - Magician_38: -5964470415677150384
+      Arcade - Ghouls n Ghosts - Magician_39: -2330255335268064732
+      Arcade - Ghouls n Ghosts - Magician_4: -8487763402343121406
+      Arcade - Ghouls n Ghosts - Magician_40: 719939122158765260
+      Arcade - Ghouls n Ghosts - Magician_41: -8994630798911079297
+      Arcade - Ghouls n Ghosts - Magician_42: 8256770738571934639
+      Arcade - Ghouls n Ghosts - Magician_43: -1775858275078441141
+      Arcade - Ghouls n Ghosts - Magician_44: 1794666532543188735
+      Arcade - Ghouls n Ghosts - Magician_45: -1177191200239452446
+      Arcade - Ghouls n Ghosts - Magician_46: -7475910197556980480
+      Arcade - Ghouls n Ghosts - Magician_5: -2738626468690274168
+      Arcade - Ghouls n Ghosts - Magician_6: -1115281243452110442
+      Arcade - Ghouls n Ghosts - Magician_7: -3835634463617217130
+      Arcade - Ghouls n Ghosts - Magician_8: 819189603835802146
+      Arcade - Ghouls n Ghosts - Magician_9: 6807284726988335945
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

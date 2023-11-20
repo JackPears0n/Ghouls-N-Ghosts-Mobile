@@ -1,0 +1,1323 @@
+fileFormatVersion: 2
+guid: 6bc4473bb926647488655e1f056cd9f7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2872488660440950855
+    second: Arcade - Ghouls n Ghosts - Discus Magic_0
+  - first:
+      213: 6889026391817291847
+    second: Arcade - Ghouls n Ghosts - Discus Magic_1
+  - first:
+      213: 4152086579275445720
+    second: Arcade - Ghouls n Ghosts - Discus Magic_2
+  - first:
+      213: -604550611540573379
+    second: Arcade - Ghouls n Ghosts - Discus Magic_3
+  - first:
+      213: 2908683469180729576
+    second: Arcade - Ghouls n Ghosts - Discus Magic_4
+  - first:
+      213: -5078846542644997220
+    second: Arcade - Ghouls n Ghosts - Discus Magic_5
+  - first:
+      213: -5691235611967374853
+    second: Arcade - Ghouls n Ghosts - Discus Magic_6
+  - first:
+      213: 981710871333468512
+    second: Arcade - Ghouls n Ghosts - Discus Magic_7
+  - first:
+      213: 7857527385087247054
+    second: Arcade - Ghouls n Ghosts - Discus Magic_8
+  - first:
+      213: 151768297041024164
+    second: Arcade - Ghouls n Ghosts - Discus Magic_9
+  - first:
+      213: 7125191848070158877
+    second: Arcade - Ghouls n Ghosts - Discus Magic_10
+  - first:
+      213: -3955042340757024326
+    second: Arcade - Ghouls n Ghosts - Discus Magic_11
+  - first:
+      213: -5250951639925314397
+    second: Arcade - Ghouls n Ghosts - Discus Magic_12
+  - first:
+      213: 2365450701288217024
+    second: Arcade - Ghouls n Ghosts - Discus Magic_13
+  - first:
+      213: -8896659349176776868
+    second: Arcade - Ghouls n Ghosts - Discus Magic_14
+  - first:
+      213: 4990303935577184488
+    second: Arcade - Ghouls n Ghosts - Discus Magic_15
+  - first:
+      213: -5439927605021666889
+    second: Arcade - Ghouls n Ghosts - Discus Magic_16
+  - first:
+      213: -372789662693120626
+    second: Arcade - Ghouls n Ghosts - Discus Magic_17
+  - first:
+      213: 7516608821872339800
+    second: Arcade - Ghouls n Ghosts - Discus Magic_18
+  - first:
+      213: 4005692628851270733
+    second: Arcade - Ghouls n Ghosts - Discus Magic_19
+  - first:
+      213: 7428537294529783250
+    second: Arcade - Ghouls n Ghosts - Discus Magic_20
+  - first:
+      213: -5753144382909986949
+    second: Arcade - Ghouls n Ghosts - Discus Magic_21
+  - first:
+      213: -8420798532482956537
+    second: Arcade - Ghouls n Ghosts - Discus Magic_22
+  - first:
+      213: 3400744809924457643
+    second: Arcade - Ghouls n Ghosts - Discus Magic_23
+  - first:
+      213: -6670641107401300797
+    second: Arcade - Ghouls n Ghosts - Discus Magic_24
+  - first:
+      213: -4001077785172501402
+    second: Arcade - Ghouls n Ghosts - Discus Magic_25
+  - first:
+      213: -1833726409145285262
+    second: Arcade - Ghouls n Ghosts - Discus Magic_26
+  - first:
+      213: -8891226168442282975
+    second: Arcade - Ghouls n Ghosts - Discus Magic_27
+  - first:
+      213: -5571091665225670074
+    second: Arcade - Ghouls n Ghosts - Discus Magic_28
+  - first:
+      213: 6776926589700969852
+    second: Arcade - Ghouls n Ghosts - Discus Magic_29
+  - first:
+      213: -6539116633235141694
+    second: Arcade - Ghouls n Ghosts - Discus Magic_30
+  - first:
+      213: 8973824638442783395
+    second: Arcade - Ghouls n Ghosts - Discus Magic_31
+  - first:
+      213: 2385894643495847276
+    second: Arcade - Ghouls n Ghosts - Discus Magic_32
+  - first:
+      213: 5923508037398533607
+    second: Arcade - Ghouls n Ghosts - Discus Magic_33
+  - first:
+      213: 6418213145613535320
+    second: Arcade - Ghouls n Ghosts - Discus Magic_34
+  - first:
+      213: 6739765562264535852
+    second: Arcade - Ghouls n Ghosts - Discus Magic_35
+  - first:
+      213: -8810637006918569496
+    second: Arcade - Ghouls n Ghosts - Discus Magic_36
+  - first:
+      213: 1589851614560651806
+    second: Arcade - Ghouls n Ghosts - Discus Magic_37
+  - first:
+      213: 1583760230069364108
+    second: Arcade - Ghouls n Ghosts - Discus Magic_38
+  - first:
+      213: 6519738661440259320
+    second: Arcade - Ghouls n Ghosts - Discus Magic_39
+  - first:
+      213: 4705076921489371592
+    second: Arcade - Ghouls n Ghosts - Discus Magic_40
+  - first:
+      213: 5701379674324675340
+    second: Arcade - Ghouls n Ghosts - Discus Magic_41
+  - first:
+      213: 3965859246564493870
+    second: Arcade - Ghouls n Ghosts - Discus Magic_42
+  - first:
+      213: 1099193647609175262
+    second: Arcade - Ghouls n Ghosts - Discus Magic_43
+  - first:
+      213: -2826552772226516745
+    second: Arcade - Ghouls n Ghosts - Discus Magic_44
+  - first:
+      213: -1416317029678215956
+    second: Arcade - Ghouls n Ghosts - Discus Magic_45
+  - first:
+      213: 6976788050037102043
+    second: Arcade - Ghouls n Ghosts - Discus Magic_46
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Discus Magic_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 110
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b7541d48ced228d0800000000000000
+      internalID: -2872488660440950855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Discus Magic_1
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 107
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7488f84f00dba9f50800000000000000
+      internalID: 6889026391817291847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Discus Magic_2
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 78
+        width: 21
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d53162cebc2f9930800000000000000
+      internalID: 4152086579275445720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Discus Magic_3
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 67
+        width: 21
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d33016efb643c97f0800000000000000
+      internalID: -604550611540573379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Discus Magic_4
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 70
+        width: 21
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e871905438bd5820800000000000000
+      internalID: 2908683469180729576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Discus Magic_5
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 94
+        width: 21
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c939ce47aff4489b0800000000000000
+      internalID: -5078846542644997220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Discus Magic_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 130
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf9b1a74d5ba401b0800000000000000
+      internalID: -5691235611967374853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Discus Magic_7
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 94
+        width: 21
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06978fd06dcbf9d00800000000000000
+      internalID: 981710871333468512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Discus Magic_8
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 45
+        width: 21
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec28709968b8b0d60800000000000000
+      internalID: 7857527385087247054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Discus Magic_9
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 37
+        width: 21
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a4db4946703b1200800000000000000
+      internalID: 151768297041024164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Discus Magic_10
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 45
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1a1bb42c34c1e260800000000000000
+      internalID: 7125191848070158877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Discus Magic_11
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 46
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab15c8f12fddc19c0800000000000000
+      internalID: -3955042340757024326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Discus Magic_12
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 68
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ac2f71ed4fd027b0800000000000000
+      internalID: -5250951639925314397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Discus Magic_13
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 48
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c99bff41e4c3d020800000000000000
+      internalID: 2365450701288217024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Discus Magic_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 36
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5709ac5577b88480800000000000000
+      internalID: -8896659349176776868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Discus Magic_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 27
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e8df495dfe114540800000000000000
+      internalID: 4990303935577184488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Discus Magic_16
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 19
+        width: 39
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b197da4aae7184b0800000000000000
+      internalID: -5439927605021666889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Discus Magic_17
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 36
+        width: 55
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e852d33e6c593daf0800000000000000
+      internalID: -372789662693120626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Discus Magic_18
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 27
+        width: 26
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85ba44716eb505860800000000000000
+      internalID: 7516608821872339800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Discus Magic_19
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 27
+        width: 26
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d44a41e0934179730800000000000000
+      internalID: 4005692628851270733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Discus Magic_20
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 36
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d56031bf47771760800000000000000
+      internalID: 7428537294529783250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Discus Magic_21
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 36
+        width: 42
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b77cd1b4aa9b820b0800000000000000
+      internalID: -5753144382909986949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Discus Magic_22
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 36
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 703093a9950532b80800000000000000
+      internalID: -8420798532482956537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Discus Magic_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 18
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba4fc4ff26fd13f20800000000000000
+      internalID: 3400744809924457643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Discus Magic_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c42a31614f1d63a0800000000000000
+      internalID: -6670641107401300797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Discus Magic_25
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 18
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66c1618f3f05978c0800000000000000
+      internalID: -4001077785172501402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Discus Magic_26
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 9
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27584afdb8b4d86e0800000000000000
+      internalID: -1833726409145285262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Discus Magic_27
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1
+        width: 39
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12c175458e40c9480800000000000000
+      internalID: -8891226168442282975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Discus Magic_28
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 18
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 642a51bb5a18fa2b0800000000000000
+      internalID: -5571091665225670074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Discus Magic_29
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 18
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c759600e3da7c0e50800000000000000
+      internalID: 6776926589700969852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Discus Magic_30
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 18
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cbcb2b51146045a0800000000000000
+      internalID: -6539116633235141694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Discus Magic_31
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 9
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a2c70b96fd698c70800000000000000
+      internalID: 8973824638442783395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Discus Magic_32
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 18
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c65c31989866c1120800000000000000
+      internalID: 2385894643495847276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Discus Magic_33
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 18
+        width: 26
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e59f490d27843250800000000000000
+      internalID: 5923508037398533607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Discus Magic_34
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 18
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 858890dc9d2121950800000000000000
+      internalID: 6418213145613535320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Discus Magic_35
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 9
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c234030f115788d50800000000000000
+      internalID: 6739765562264535852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Discus Magic_36
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 18
+        width: 26
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e135bda2545ab580800000000000000
+      internalID: -8810637006918569496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Discus Magic_37
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 9
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1a087bbe99401610800000000000000
+      internalID: 1589851614560651806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Discus Magic_38
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 9
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c85eca2c985aaf510800000000000000
+      internalID: 1583760230069364108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Discus Magic_39
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 18
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f4078ff4c3ca7a50800000000000000
+      internalID: 6519738661440259320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Discus Magic_40
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 18
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c13342188acb4140800000000000000
+      internalID: 4705076921489371592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Discus Magic_41
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0b21c94b9e5f1f40800000000000000
+      internalID: 5701379674324675340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Discus Magic_42
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 0
+        width: 26
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2acca409ff890730800000000000000
+      internalID: 3965859246564493870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Discus Magic_43
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 0
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edc5c197cce114f00800000000000000
+      internalID: 1099193647609175262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Discus Magic_44
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 0
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f8fa88ba3116c8d0800000000000000
+      internalID: -2826552772226516745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Discus Magic_45
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 0
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cec81bc5a2b385ce0800000000000000
+      internalID: -1416317029678215956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Discus Magic_46
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 42
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd5d6a354c782d060800000000000000
+      internalID: 6976788050037102043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Arcade - Ghouls n Ghosts - Discus Magic_0: -2872488660440950855
+      Arcade - Ghouls n Ghosts - Discus Magic_1: 6889026391817291847
+      Arcade - Ghouls n Ghosts - Discus Magic_10: 7125191848070158877
+      Arcade - Ghouls n Ghosts - Discus Magic_11: -3955042340757024326
+      Arcade - Ghouls n Ghosts - Discus Magic_12: -5250951639925314397
+      Arcade - Ghouls n Ghosts - Discus Magic_13: 2365450701288217024
+      Arcade - Ghouls n Ghosts - Discus Magic_14: -8896659349176776868
+      Arcade - Ghouls n Ghosts - Discus Magic_15: 4990303935577184488
+      Arcade - Ghouls n Ghosts - Discus Magic_16: -5439927605021666889
+      Arcade - Ghouls n Ghosts - Discus Magic_17: -372789662693120626
+      Arcade - Ghouls n Ghosts - Discus Magic_18: 7516608821872339800
+      Arcade - Ghouls n Ghosts - Discus Magic_19: 4005692628851270733
+      Arcade - Ghouls n Ghosts - Discus Magic_2: 4152086579275445720
+      Arcade - Ghouls n Ghosts - Discus Magic_20: 7428537294529783250
+      Arcade - Ghouls n Ghosts - Discus Magic_21: -5753144382909986949
+      Arcade - Ghouls n Ghosts - Discus Magic_22: -8420798532482956537
+      Arcade - Ghouls n Ghosts - Discus Magic_23: 3400744809924457643
+      Arcade - Ghouls n Ghosts - Discus Magic_24: -6670641107401300797
+      Arcade - Ghouls n Ghosts - Discus Magic_25: -4001077785172501402
+      Arcade - Ghouls n Ghosts - Discus Magic_26: -1833726409145285262
+      Arcade - Ghouls n Ghosts - Discus Magic_27: -8891226168442282975
+      Arcade - Ghouls n Ghosts - Discus Magic_28: -5571091665225670074
+      Arcade - Ghouls n Ghosts - Discus Magic_29: 6776926589700969852
+      Arcade - Ghouls n Ghosts - Discus Magic_3: -604550611540573379
+      Arcade - Ghouls n Ghosts - Discus Magic_30: -6539116633235141694
+      Arcade - Ghouls n Ghosts - Discus Magic_31: 8973824638442783395
+      Arcade - Ghouls n Ghosts - Discus Magic_32: 2385894643495847276
+      Arcade - Ghouls n Ghosts - Discus Magic_33: 5923508037398533607
+      Arcade - Ghouls n Ghosts - Discus Magic_34: 6418213145613535320
+      Arcade - Ghouls n Ghosts - Discus Magic_35: 6739765562264535852
+      Arcade - Ghouls n Ghosts - Discus Magic_36: -8810637006918569496
+      Arcade - Ghouls n Ghosts - Discus Magic_37: 1589851614560651806
+      Arcade - Ghouls n Ghosts - Discus Magic_38: 1583760230069364108
+      Arcade - Ghouls n Ghosts - Discus Magic_39: 6519738661440259320
+      Arcade - Ghouls n Ghosts - Discus Magic_4: 2908683469180729576
+      Arcade - Ghouls n Ghosts - Discus Magic_40: 4705076921489371592
+      Arcade - Ghouls n Ghosts - Discus Magic_41: 5701379674324675340
+      Arcade - Ghouls n Ghosts - Discus Magic_42: 3965859246564493870
+      Arcade - Ghouls n Ghosts - Discus Magic_43: 1099193647609175262
+      Arcade - Ghouls n Ghosts - Discus Magic_44: -2826552772226516745
+      Arcade - Ghouls n Ghosts - Discus Magic_45: -1416317029678215956
+      Arcade - Ghouls n Ghosts - Discus Magic_46: 6976788050037102043
+      Arcade - Ghouls n Ghosts - Discus Magic_5: -5078846542644997220
+      Arcade - Ghouls n Ghosts - Discus Magic_6: -5691235611967374853
+      Arcade - Ghouls n Ghosts - Discus Magic_7: 981710871333468512
+      Arcade - Ghouls n Ghosts - Discus Magic_8: 7857527385087247054
+      Arcade - Ghouls n Ghosts - Discus Magic_9: 151768297041024164
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

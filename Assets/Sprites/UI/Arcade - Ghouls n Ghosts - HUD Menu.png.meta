@@ -1,0 +1,4498 @@
+fileFormatVersion: 2
+guid: 5df462a06f8a8334b9f3f7d48bdf67af
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6482440149258062057
+    second: Arcade - Ghouls n Ghosts - HUD Menu_0
+  - first:
+      213: -15737113719002990
+    second: Arcade - Ghouls n Ghosts - HUD Menu_1
+  - first:
+      213: -5338463463137431384
+    second: Arcade - Ghouls n Ghosts - HUD Menu_2
+  - first:
+      213: 6478851729736800731
+    second: Arcade - Ghouls n Ghosts - HUD Menu_3
+  - first:
+      213: 8459851202926750386
+    second: Arcade - Ghouls n Ghosts - HUD Menu_4
+  - first:
+      213: 4833293476566653941
+    second: Arcade - Ghouls n Ghosts - HUD Menu_5
+  - first:
+      213: -8817325200063649513
+    second: Arcade - Ghouls n Ghosts - HUD Menu_6
+  - first:
+      213: 5370255889315447823
+    second: Arcade - Ghouls n Ghosts - HUD Menu_7
+  - first:
+      213: -2797320764786884414
+    second: Arcade - Ghouls n Ghosts - HUD Menu_8
+  - first:
+      213: 3436518493781452865
+    second: Arcade - Ghouls n Ghosts - HUD Menu_9
+  - first:
+      213: 118092609433341272
+    second: Arcade - Ghouls n Ghosts - HUD Menu_10
+  - first:
+      213: 2975856438008087374
+    second: Arcade - Ghouls n Ghosts - HUD Menu_11
+  - first:
+      213: -6815726562475523696
+    second: Arcade - Ghouls n Ghosts - HUD Menu_12
+  - first:
+      213: -636882143448829093
+    second: Arcade - Ghouls n Ghosts - HUD Menu_13
+  - first:
+      213: 1768160065664839087
+    second: Arcade - Ghouls n Ghosts - HUD Menu_14
+  - first:
+      213: 6757890715507918966
+    second: Arcade - Ghouls n Ghosts - HUD Menu_15
+  - first:
+      213: 142921662410410794
+    second: Arcade - Ghouls n Ghosts - HUD Menu_16
+  - first:
+      213: 1092640418509617579
+    second: Arcade - Ghouls n Ghosts - HUD Menu_17
+  - first:
+      213: 1040076488936086548
+    second: Arcade - Ghouls n Ghosts - HUD Menu_18
+  - first:
+      213: 632954556698629309
+    second: Arcade - Ghouls n Ghosts - HUD Menu_19
+  - first:
+      213: -2263859470105357201
+    second: Arcade - Ghouls n Ghosts - HUD Menu_20
+  - first:
+      213: 3059028090471376668
+    second: Arcade - Ghouls n Ghosts - HUD Menu_21
+  - first:
+      213: -5082327696148168597
+    second: Arcade - Ghouls n Ghosts - HUD Menu_22
+  - first:
+      213: -7214225289043844634
+    second: Arcade - Ghouls n Ghosts - HUD Menu_23
+  - first:
+      213: -2198064621882887299
+    second: Arcade - Ghouls n Ghosts - HUD Menu_24
+  - first:
+      213: 6923487373262189662
+    second: Arcade - Ghouls n Ghosts - HUD Menu_25
+  - first:
+      213: -8009018299576936639
+    second: Arcade - Ghouls n Ghosts - HUD Menu_26
+  - first:
+      213: -6140559995156803828
+    second: Arcade - Ghouls n Ghosts - HUD Menu_27
+  - first:
+      213: 8316903349543773451
+    second: Arcade - Ghouls n Ghosts - HUD Menu_28
+  - first:
+      213: 6475553924629987542
+    second: Arcade - Ghouls n Ghosts - HUD Menu_29
+  - first:
+      213: -9170620956690457623
+    second: Arcade - Ghouls n Ghosts - HUD Menu_30
+  - first:
+      213: -7352331432698207007
+    second: Arcade - Ghouls n Ghosts - HUD Menu_31
+  - first:
+      213: 8998747323046860029
+    second: Arcade - Ghouls n Ghosts - HUD Menu_32
+  - first:
+      213: 3099465527310987191
+    second: Arcade - Ghouls n Ghosts - HUD Menu_33
+  - first:
+      213: 6076129252287564024
+    second: Arcade - Ghouls n Ghosts - HUD Menu_34
+  - first:
+      213: 8392415628708470337
+    second: Arcade - Ghouls n Ghosts - HUD Menu_35
+  - first:
+      213: 100071565591060374
+    second: Arcade - Ghouls n Ghosts - HUD Menu_36
+  - first:
+      213: -6211998818565784533
+    second: Arcade - Ghouls n Ghosts - HUD Menu_37
+  - first:
+      213: 5295498924527054827
+    second: Arcade - Ghouls n Ghosts - HUD Menu_38
+  - first:
+      213: 5233440111794194137
+    second: Arcade - Ghouls n Ghosts - HUD Menu_39
+  - first:
+      213: -6417067507284640502
+    second: Arcade - Ghouls n Ghosts - HUD Menu_40
+  - first:
+      213: 197688774115864190
+    second: Arcade - Ghouls n Ghosts - HUD Menu_41
+  - first:
+      213: 5661754738110167011
+    second: Arcade - Ghouls n Ghosts - HUD Menu_42
+  - first:
+      213: 103523431940430043
+    second: Arcade - Ghouls n Ghosts - HUD Menu_43
+  - first:
+      213: 8423840833156930371
+    second: Arcade - Ghouls n Ghosts - HUD Menu_44
+  - first:
+      213: 6978335657564188896
+    second: Arcade - Ghouls n Ghosts - HUD Menu_45
+  - first:
+      213: 6837826773812380067
+    second: Arcade - Ghouls n Ghosts - HUD Menu_46
+  - first:
+      213: -827427546369300858
+    second: Arcade - Ghouls n Ghosts - HUD Menu_47
+  - first:
+      213: 6429471406680406340
+    second: Arcade - Ghouls n Ghosts - HUD Menu_48
+  - first:
+      213: -3996185290237968584
+    second: Arcade - Ghouls n Ghosts - HUD Menu_49
+  - first:
+      213: -8314341396664733427
+    second: Arcade - Ghouls n Ghosts - HUD Menu_50
+  - first:
+      213: -8541929437289007956
+    second: Arcade - Ghouls n Ghosts - HUD Menu_51
+  - first:
+      213: -316101417601849875
+    second: Arcade - Ghouls n Ghosts - HUD Menu_52
+  - first:
+      213: -768033905057934317
+    second: Arcade - Ghouls n Ghosts - HUD Menu_53
+  - first:
+      213: -4315430763144961250
+    second: Arcade - Ghouls n Ghosts - HUD Menu_54
+  - first:
+      213: 3735387479083773273
+    second: Arcade - Ghouls n Ghosts - HUD Menu_55
+  - first:
+      213: -3265262900635475299
+    second: Arcade - Ghouls n Ghosts - HUD Menu_56
+  - first:
+      213: 1792023899215017095
+    second: Arcade - Ghouls n Ghosts - HUD Menu_57
+  - first:
+      213: -8106140315203130604
+    second: Arcade - Ghouls n Ghosts - HUD Menu_58
+  - first:
+      213: -9116666601951409688
+    second: Arcade - Ghouls n Ghosts - HUD Menu_59
+  - first:
+      213: 4178018893514168248
+    second: Arcade - Ghouls n Ghosts - HUD Menu_60
+  - first:
+      213: -6489167899432498782
+    second: Arcade - Ghouls n Ghosts - HUD Menu_61
+  - first:
+      213: -5050118880874994435
+    second: Arcade - Ghouls n Ghosts - HUD Menu_62
+  - first:
+      213: 4267916873817978443
+    second: Arcade - Ghouls n Ghosts - HUD Menu_63
+  - first:
+      213: 3694778927975183103
+    second: Arcade - Ghouls n Ghosts - HUD Menu_64
+  - first:
+      213: -6334820592806968160
+    second: Arcade - Ghouls n Ghosts - HUD Menu_65
+  - first:
+      213: -2708227588543351839
+    second: Arcade - Ghouls n Ghosts - HUD Menu_66
+  - first:
+      213: 3900344969157909808
+    second: Arcade - Ghouls n Ghosts - HUD Menu_67
+  - first:
+      213: 465783958824870996
+    second: Arcade - Ghouls n Ghosts - HUD Menu_68
+  - first:
+      213: 3390057915069069635
+    second: Arcade - Ghouls n Ghosts - HUD Menu_69
+  - first:
+      213: -2058354229971423507
+    second: Arcade - Ghouls n Ghosts - HUD Menu_70
+  - first:
+      213: -1337284687541497574
+    second: Arcade - Ghouls n Ghosts - HUD Menu_71
+  - first:
+      213: -6695097665012908931
+    second: Arcade - Ghouls n Ghosts - HUD Menu_72
+  - first:
+      213: -7219709465379585471
+    second: Arcade - Ghouls n Ghosts - HUD Menu_73
+  - first:
+      213: 5399907055880375632
+    second: Arcade - Ghouls n Ghosts - HUD Menu_74
+  - first:
+      213: 1995184374028789491
+    second: Arcade - Ghouls n Ghosts - HUD Menu_75
+  - first:
+      213: -135780481179151378
+    second: Arcade - Ghouls n Ghosts - HUD Menu_76
+  - first:
+      213: -2506990297487196642
+    second: Arcade - Ghouls n Ghosts - HUD Menu_77
+  - first:
+      213: -754599908187436526
+    second: Arcade - Ghouls n Ghosts - HUD Menu_78
+  - first:
+      213: 6713280104465708820
+    second: Arcade - Ghouls n Ghosts - HUD Menu_79
+  - first:
+      213: 2658400215678506669
+    second: Arcade - Ghouls n Ghosts - HUD Menu_80
+  - first:
+      213: 8616756933990748448
+    second: Arcade - Ghouls n Ghosts - HUD Menu_81
+  - first:
+      213: 8925464136253282505
+    second: Arcade - Ghouls n Ghosts - HUD Menu_82
+  - first:
+      213: 4077652297221229279
+    second: Arcade - Ghouls n Ghosts - HUD Menu_83
+  - first:
+      213: 8927700078746085435
+    second: Arcade - Ghouls n Ghosts - HUD Menu_84
+  - first:
+      213: -8485014931173960060
+    second: Arcade - Ghouls n Ghosts - HUD Menu_85
+  - first:
+      213: 958195578174253185
+    second: Arcade - Ghouls n Ghosts - HUD Menu_86
+  - first:
+      213: -2078322740594056951
+    second: Arcade - Ghouls n Ghosts - HUD Menu_87
+  - first:
+      213: 6598946290433399822
+    second: Arcade - Ghouls n Ghosts - HUD Menu_88
+  - first:
+      213: 8402296510527131403
+    second: Arcade - Ghouls n Ghosts - HUD Menu_89
+  - first:
+      213: -119899491611794649
+    second: Arcade - Ghouls n Ghosts - HUD Menu_90
+  - first:
+      213: 3773157587799438335
+    second: Arcade - Ghouls n Ghosts - HUD Menu_91
+  - first:
+      213: 5623754836405191091
+    second: Arcade - Ghouls n Ghosts - HUD Menu_92
+  - first:
+      213: 8302312752840437101
+    second: Arcade - Ghouls n Ghosts - HUD Menu_93
+  - first:
+      213: -757392174870280018
+    second: Arcade - Ghouls n Ghosts - HUD Menu_94
+  - first:
+      213: 294180698968828709
+    second: Arcade - Ghouls n Ghosts - HUD Menu_95
+  - first:
+      213: -2582491702879232379
+    second: Arcade - Ghouls n Ghosts - HUD Menu_96
+  - first:
+      213: -7568050833067341316
+    second: Arcade - Ghouls n Ghosts - HUD Menu_97
+  - first:
+      213: -3548006275626715242
+    second: Arcade - Ghouls n Ghosts - HUD Menu_98
+  - first:
+      213: 5331068727354205485
+    second: Arcade - Ghouls n Ghosts - HUD Menu_99
+  - first:
+      213: -7584730759412788854
+    second: Arcade - Ghouls n Ghosts - HUD Menu_100
+  - first:
+      213: 560991162467463622
+    second: Arcade - Ghouls n Ghosts - HUD Menu_101
+  - first:
+      213: -8637633142193261735
+    second: Arcade - Ghouls n Ghosts - HUD Menu_102
+  - first:
+      213: 8679371309826546321
+    second: Arcade - Ghouls n Ghosts - HUD Menu_103
+  - first:
+      213: 6665974990609819443
+    second: Arcade - Ghouls n Ghosts - HUD Menu_104
+  - first:
+      213: -1989439743202396514
+    second: Arcade - Ghouls n Ghosts - HUD Menu_105
+  - first:
+      213: 505686639440328233
+    second: Arcade - Ghouls n Ghosts - HUD Menu_106
+  - first:
+      213: -7971184954131375414
+    second: Arcade - Ghouls n Ghosts - HUD Menu_107
+  - first:
+      213: 7249009101214527850
+    second: Arcade - Ghouls n Ghosts - HUD Menu_108
+  - first:
+      213: 5554277765355405264
+    second: Arcade - Ghouls n Ghosts - HUD Menu_109
+  - first:
+      213: -2690488704670031097
+    second: Arcade - Ghouls n Ghosts - HUD Menu_110
+  - first:
+      213: -173610866142302446
+    second: Arcade - Ghouls n Ghosts - HUD Menu_111
+  - first:
+      213: -6056590432736994478
+    second: Arcade - Ghouls n Ghosts - HUD Menu_112
+  - first:
+      213: -2668894046812473540
+    second: Arcade - Ghouls n Ghosts - HUD Menu_113
+  - first:
+      213: 8869618207979812747
+    second: Arcade - Ghouls n Ghosts - HUD Menu_114
+  - first:
+      213: -4657060323976993819
+    second: Arcade - Ghouls n Ghosts - HUD Menu_115
+  - first:
+      213: 5758846339864161244
+    second: Arcade - Ghouls n Ghosts - HUD Menu_116
+  - first:
+      213: -1035771887798008491
+    second: Arcade - Ghouls n Ghosts - HUD Menu_117
+  - first:
+      213: -2397056481831459162
+    second: Arcade - Ghouls n Ghosts - HUD Menu_118
+  - first:
+      213: -8948445732047246028
+    second: Arcade - Ghouls n Ghosts - HUD Menu_119
+  - first:
+      213: 1905903923044573269
+    second: Arcade - Ghouls n Ghosts - HUD Menu_120
+  - first:
+      213: -2439847261289388995
+    second: Arcade - Ghouls n Ghosts - HUD Menu_121
+  - first:
+      213: -5303774306966854112
+    second: Arcade - Ghouls n Ghosts - HUD Menu_122
+  - first:
+      213: 303874720948550106
+    second: Arcade - Ghouls n Ghosts - HUD Menu_123
+  - first:
+      213: 1769576387017507847
+    second: Arcade - Ghouls n Ghosts - HUD Menu_124
+  - first:
+      213: -5870877941396989200
+    second: Arcade - Ghouls n Ghosts - HUD Menu_125
+  - first:
+      213: -6371143356112923045
+    second: Arcade - Ghouls n Ghosts - HUD Menu_126
+  - first:
+      213: -7844148226982748278
+    second: Arcade - Ghouls n Ghosts - HUD Menu_127
+  - first:
+      213: 5717526215253897661
+    second: Arcade - Ghouls n Ghosts - HUD Menu_128
+  - first:
+      213: -9070559639082048916
+    second: Arcade - Ghouls n Ghosts - HUD Menu_129
+  - first:
+      213: 2784141127241375082
+    second: Arcade - Ghouls n Ghosts - HUD Menu_130
+  - first:
+      213: -1023386961257448730
+    second: Arcade - Ghouls n Ghosts - HUD Menu_131
+  - first:
+      213: -5300116870014518467
+    second: Arcade - Ghouls n Ghosts - HUD Menu_132
+  - first:
+      213: -7019557631952820187
+    second: Arcade - Ghouls n Ghosts - HUD Menu_133
+  - first:
+      213: 188501641677237830
+    second: Arcade - Ghouls n Ghosts - HUD Menu_134
+  - first:
+      213: -6939923506388853821
+    second: Arcade - Ghouls n Ghosts - HUD Menu_135
+  - first:
+      213: -7365429247137057219
+    second: Arcade - Ghouls n Ghosts - HUD Menu_136
+  - first:
+      213: 6000607891501109187
+    second: Arcade - Ghouls n Ghosts - HUD Menu_137
+  - first:
+      213: 6301733273805677161
+    second: Arcade - Ghouls n Ghosts - HUD Menu_138
+  - first:
+      213: -3561501778204604925
+    second: Arcade - Ghouls n Ghosts - HUD Menu_139
+  - first:
+      213: 5305360309879679997
+    second: Arcade - Ghouls n Ghosts - HUD Menu_140
+  - first:
+      213: -3589291006319713832
+    second: Arcade - Ghouls n Ghosts - HUD Menu_141
+  - first:
+      213: 2626629218923333879
+    second: Arcade - Ghouls n Ghosts - HUD Menu_142
+  - first:
+      213: 3581713868847181312
+    second: Arcade - Ghouls n Ghosts - HUD Menu_143
+  - first:
+      213: 3051289026014054624
+    second: Arcade - Ghouls n Ghosts - HUD Menu_144
+  - first:
+      213: -3035910732562393061
+    second: Arcade - Ghouls n Ghosts - HUD Menu_145
+  - first:
+      213: 4773849260867963016
+    second: Arcade - Ghouls n Ghosts - HUD Menu_146
+  - first:
+      213: -6301875849874655929
+    second: Arcade - Ghouls n Ghosts - HUD Menu_147
+  - first:
+      213: 3170847591628168091
+    second: Arcade - Ghouls n Ghosts - HUD Menu_148
+  - first:
+      213: -4571342809324660360
+    second: Arcade - Ghouls n Ghosts - HUD Menu_149
+  - first:
+      213: 5337468355927002861
+    second: Arcade - Ghouls n Ghosts - HUD Menu_150
+  - first:
+      213: -254915688133375837
+    second: Arcade - Ghouls n Ghosts - HUD Menu_151
+  - first:
+      213: 6843547825574481084
+    second: Arcade - Ghouls n Ghosts - HUD Menu_152
+  - first:
+      213: -3725698498514300290
+    second: Arcade - Ghouls n Ghosts - HUD Menu_153
+  - first:
+      213: 474251839513698405
+    second: Arcade - Ghouls n Ghosts - HUD Menu_154
+  - first:
+      213: 8022601119605848754
+    second: Arcade - Ghouls n Ghosts - HUD Menu_155
+  - first:
+      213: 1207187313727508024
+    second: Arcade - Ghouls n Ghosts - HUD Menu_156
+  - first:
+      213: 1060931806066542786
+    second: Arcade - Ghouls n Ghosts - HUD Menu_157
+  - first:
+      213: 3556786975978800568
+    second: Arcade - Ghouls n Ghosts - HUD Menu_158
+  - first:
+      213: -3786187303056318669
+    second: Arcade - Ghouls n Ghosts - HUD Menu_159
+  - first:
+      213: 3793354053201207455
+    second: Arcade - Ghouls n Ghosts - HUD Menu_160
+  - first:
+      213: 261753058971701387
+    second: Arcade - Ghouls n Ghosts - HUD Menu_161
+  - first:
+      213: 2382138681991630903
+    second: Arcade - Ghouls n Ghosts - HUD Menu_162
+  - first:
+      213: 1876145624450099753
+    second: Arcade - Ghouls n Ghosts - HUD Menu_163
+  - first:
+      213: -5134744367810863478
+    second: Arcade - Ghouls n Ghosts - HUD Menu_164
+  - first:
+      213: 3603638211625529119
+    second: Arcade - Ghouls n Ghosts - HUD Menu_165
+  - first:
+      213: -568731394307468717
+    second: Arcade - Ghouls n Ghosts - HUD Menu_166
+  - first:
+      213: -5580645148657259644
+    second: Arcade - Ghouls n Ghosts - HUD Menu_167
+  - first:
+      213: 3010249769077605773
+    second: Arcade - Ghouls n Ghosts - HUD Menu_168
+  - first:
+      213: -6127666493665302014
+    second: Arcade - Ghouls n Ghosts - HUD Menu_169
+  - first:
+      213: 417293419468250925
+    second: Arcade - Ghouls n Ghosts - HUD Menu_170
+  - first:
+      213: 4155019554196886419
+    second: Arcade - Ghouls n Ghosts - HUD Menu_171
+  - first:
+      213: 8840409738035738672
+    second: Arcade - Ghouls n Ghosts - HUD Menu_172
+  - first:
+      213: 3551520533626447246
+    second: Arcade - Ghouls n Ghosts - HUD Menu_173
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - HUD Menu_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 434
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e8c14668f046f950800000000000000
+      internalID: 6482440149258062057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - HUD Menu_1
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 434
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2982dfead2718cff0800000000000000
+      internalID: -15737113719002990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - HUD Menu_2
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 434
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a0ba41c3c7f9e5b0800000000000000
+      internalID: -5338463463137431384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - HUD Menu_3
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 434
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd9136f525189e950800000000000000
+      internalID: 6478851729736800731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - HUD Menu_4
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 434
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ba2c1bc8dd676570800000000000000
+      internalID: 8459851202926750386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - HUD Menu_5
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 434
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fbd7fd1fce431340800000000000000
+      internalID: 4833293476566653941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - HUD Menu_6
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 434
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7192b1d527192a580800000000000000
+      internalID: -8817325200063649513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - HUD Menu_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 401
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f04c89b474bf68a40800000000000000
+      internalID: 5370255889315447823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - HUD Menu_8
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 401
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c0cd04d59bed29d0800000000000000
+      internalID: -2797320764786884414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - HUD Menu_9
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 401
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14867e5dc57f0bf20800000000000000
+      internalID: 3436518493781452865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - HUD Menu_10
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 401
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85d8fd34a9c83a100800000000000000
+      internalID: 118092609433341272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - HUD Menu_11
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 401
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e430802e9ad5c4920800000000000000
+      internalID: 2975856438008087374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - HUD Menu_12
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 401
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 091c37d7dcca961a0800000000000000
+      internalID: -6815726562475523696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - HUD Menu_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 368
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5371fb90175927f0800000000000000
+      internalID: -636882143448829093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - HUD Menu_14
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 368
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fadebfb2634c98810800000000000000
+      internalID: 1768160065664839087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - HUD Menu_15
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 368
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67882c80dc9d8cd50800000000000000
+      internalID: 6757890715507918966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - HUD Menu_16
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 368
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2b4ea6ae72cbf100800000000000000
+      internalID: 142921662410410794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - HUD Menu_17
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 368
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba9ff7ceba6d92f00800000000000000
+      internalID: 1092640418509617579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - HUD Menu_18
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 368
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41c554e5e081f6e00800000000000000
+      internalID: 1040076488936086548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - HUD Menu_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 335
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db49cf6d0d4b8c800800000000000000
+      internalID: 632954556698629309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - HUD Menu_20
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 335
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6457fe6ec72590e0800000000000000
+      internalID: -2263859470105357201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - HUD Menu_21
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 335
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c17ec7247d9d37a20800000000000000
+      internalID: 3059028090471376668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - HUD Menu_22
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 335
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6085fe33e1f779b0800000000000000
+      internalID: -5082327696148168597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - HUD Menu_23
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 335
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e1e6ec725ce1eb90800000000000000
+      internalID: -7214225289043844634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - HUD Menu_24
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 335
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d73315b4fd7ee71e0800000000000000
+      internalID: -2198064621882887299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - HUD Menu_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 321
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e54f132751b251060800000000000000
+      internalID: 6923487373262189662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - HUD Menu_26
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 321
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1471d164a404ad090800000000000000
+      internalID: -8009018299576936639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - HUD Menu_27
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 321
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0f44bee73958caa0800000000000000
+      internalID: -6140559995156803828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - HUD Menu_28
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 321
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0520d418839b6370800000000000000
+      internalID: 8316903349543773451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - HUD Menu_29
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 320
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d005794cf9cdd950800000000000000
+      internalID: 6475553924629987542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - HUD Menu_30
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 320
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eb56b2f3d86bb080800000000000000
+      internalID: -9170620956690457623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - HUD Menu_31
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 320
+        width: 82
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e4a51b248547f990800000000000000
+      internalID: -7352331432698207007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - HUD Menu_32
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 311
+        width: 48
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df494bd4309f1ec70800000000000000
+      internalID: 8998747323046860029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - HUD Menu_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 304
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bfa0f4b973830b20800000000000000
+      internalID: 3099465527310987191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - HUD Menu_34
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 304
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f8c5fbbc5fb25450800000000000000
+      internalID: 6076129252287564024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - HUD Menu_35
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 304
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14eda94ac89d77470800000000000000
+      internalID: 8392415628708470337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - HUD Menu_36
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 304
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69f1c270f86836100800000000000000
+      internalID: 100071565591060374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - HUD Menu_37
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 303
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2c7d32bcfb8ac9a0800000000000000
+      internalID: -6211998818565784533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - HUD Menu_38
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 303
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: befe5e017346d7940800000000000000
+      internalID: 5295498924527054827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - HUD Menu_39
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 303
+        width: 82
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d606c0cd0ae0a840800000000000000
+      internalID: 5233440111794194137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - HUD Menu_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 287
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0df898e91ff1f6a0800000000000000
+      internalID: -6417067507284640502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - HUD Menu_41
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 287
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7e224584e45eb200800000000000000
+      internalID: 197688774115864190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - HUD Menu_42
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 287
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e7f072efe7929e40800000000000000
+      internalID: 5661754738110167011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - HUD Menu_43
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 287
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd81dba430acf6100800000000000000
+      internalID: 103523431940430043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - HUD Menu_44
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 286
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34bdfb83b9e77e470800000000000000
+      internalID: 8423840833156930371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - HUD Menu_45
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 286
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e03e88ce4708d060800000000000000
+      internalID: 6978335657564188896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - HUD Menu_46
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 286
+        width: 82
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a10eb0f837d4ee50800000000000000
+      internalID: 6837826773812380067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - HUD Menu_47
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 284
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 686e84dc7036484f0800000000000000
+      internalID: -827427546369300858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - HUD Menu_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 270
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44977b8fd221a3950800000000000000
+      internalID: 6429471406680406340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - HUD Menu_49
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 270
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83f79b6b6a2ba88c0800000000000000
+      internalID: -3996185290237968584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - HUD Menu_50
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 270
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d01397e0d868d9c80800000000000000
+      internalID: -8314341396664733427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - HUD Menu_51
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 270
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca4bfe11f68f47980800000000000000
+      internalID: -8541929437289007956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - HUD Menu_52
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 269
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de528da7f6bfc9bf0800000000000000
+      internalID: -316101417601849875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - HUD Menu_53
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 269
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 314d0998b356755f0800000000000000
+      internalID: -768033905057934317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - HUD Menu_54
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 269
+        width: 82
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e13a3f5c5928c14c0800000000000000
+      internalID: -4315430763144961250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - HUD Menu_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 253
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95dea3d0f13c6d330800000000000000
+      internalID: 3735387479083773273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - HUD Menu_56
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 253
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d926c5521b47fa2d0800000000000000
+      internalID: -3265262900635475299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - HUD Menu_57
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 253
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 784b8b5ed3c8ed810800000000000000
+      internalID: 1792023899215017095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - HUD Menu_58
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 253
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41b28dcd454318f80800000000000000
+      internalID: -8106140315203130604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - HUD Menu_59
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 252
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e9c40717081b7180800000000000000
+      internalID: -9116666601951409688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - HUD Menu_60
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 252
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b758cc2c0e4bf930800000000000000
+      internalID: 4178018893514168248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - HUD Menu_61
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 252
+        width: 82
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a945723d28d1f5a0800000000000000
+      internalID: -6489167899432498782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - HUD Menu_62
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 236
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df4e3ff62af5ae9b0800000000000000
+      internalID: -5050118880874994435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - HUD Menu_63
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 236
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b46f0dac8cfaa3b30800000000000000
+      internalID: 4267916873817978443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - HUD Menu_64
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 236
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff23f85fbdd764330800000000000000
+      internalID: 3694778927975183103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - HUD Menu_65
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 236
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a449e1fb323618a0800000000000000
+      internalID: -6334820592806968160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - HUD Menu_66
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 235
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e3f5f56b517a6ad0800000000000000
+      internalID: -2708227588543351839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - HUD Menu_67
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 235
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03d9324a51fc02630800000000000000
+      internalID: 3900344969157909808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - HUD Menu_68
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 235
+        width: 82
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 454e4dfea0cc67600800000000000000
+      internalID: 465783958824870996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - HUD Menu_69
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 219
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34971b366b7eb0f20800000000000000
+      internalID: 3390057915069069635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - HUD Menu_70
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 219
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dee61a4cbb14f63e0800000000000000
+      internalID: -2058354229971423507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - HUD Menu_71
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 219
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a11158379a2017de0800000000000000
+      internalID: -1337284687541497574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - HUD Menu_72
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 219
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7cbb54552c3613a0800000000000000
+      internalID: -6695097665012908931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - HUD Menu_73
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 218
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 142468e2e707ecb90800000000000000
+      internalID: -7219709465379585471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - HUD Menu_74
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 218
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05d00ed7bd250fa40800000000000000
+      internalID: 5399907055880375632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - HUD Menu_75
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 218
+        width: 82
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f665630e9150bb10800000000000000
+      internalID: 1995184374028789491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - HUD Menu_76
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 202
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee392eb2f5c9d1ef0800000000000000
+      internalID: -135780481179151378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - HUD Menu_77
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 202
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1ebce66b91653dd0800000000000000
+      internalID: -2506990297487196642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - HUD Menu_78
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 202
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21a02fca16f1785f0800000000000000
+      internalID: -754599908187436526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - HUD Menu_79
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 202
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4173060cfac5a2d50800000000000000
+      internalID: 6713280104465708820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - HUD Menu_80
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 201
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da6d65e49e884e420800000000000000
+      internalID: 2658400215678506669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - HUD Menu_81
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 201
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 021176627ced49770800000000000000
+      internalID: 8616756933990748448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - HUD Menu_82
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 201
+        width: 82
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c89dd0c75e9ddb70800000000000000
+      internalID: 8925464136253282505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - HUD Menu_83
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 185
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fda4d65f82bb69830800000000000000
+      internalID: 4077652297221229279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - HUD Menu_84
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 185
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3823eeabef85eb70800000000000000
+      internalID: 8927700078746085435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - HUD Menu_85
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 185
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4869d7920eb2f3a80800000000000000
+      internalID: -8485014931173960060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - HUD Menu_86
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 185
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1882d663dc13c4d00800000000000000
+      internalID: 958195578174253185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - HUD Menu_87
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 184
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90166469a705823e0800000000000000
+      internalID: -2078322740594056951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - HUD Menu_88
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 184
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0c1a2d30ba249b50800000000000000
+      internalID: 6598946290433399822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - HUD Menu_89
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 184
+        width: 82
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0f4977b824fa9470800000000000000
+      internalID: 8402296510527131403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - HUD Menu_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 168
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 723aab13c08065ef0800000000000000
+      internalID: -119899491611794649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - HUD Menu_91
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 168
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff3fa56c5d2fc5430800000000000000
+      internalID: 3773157587799438335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - HUD Menu_92
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 168
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b101df4a379b0e40800000000000000
+      internalID: 5623754836405191091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - HUD Menu_93
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 168
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6def3f067db73370800000000000000
+      internalID: 8302312752840437101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - HUD Menu_94
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 167
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea8423d64d33d75f0800000000000000
+      internalID: -757392174870280018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - HUD Menu_95
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 167
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52b20dd79c3251400800000000000000
+      internalID: 294180698968828709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - HUD Menu_96
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 167
+        width: 82
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58e5d769a75292cd0800000000000000
+      internalID: -2582491702879232379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - HUD Menu_97
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 151
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf90ce45dd1e8f690800000000000000
+      internalID: -7568050833067341316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - HUD Menu_98
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 151
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 697b9682713f2cec0800000000000000
+      internalID: -3548006275626715242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - HUD Menu_99
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 151
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d25242723c2cbf940800000000000000
+      internalID: 5331068727354205485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - HUD Menu_100
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 151
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a81d8385f8f9db690800000000000000
+      internalID: -7584730759412788854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - HUD Menu_101
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 150
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c1b1017d7a09c700800000000000000
+      internalID: 560991162467463622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - HUD Menu_102
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 150
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 953fd6bdb66f02880800000000000000
+      internalID: -8637633142193261735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - HUD Menu_103
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 150
+        width: 82
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19a9de39832537870800000000000000
+      internalID: 8679371309826546321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - HUD Menu_104
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 134
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 337afe4afec428c50800000000000000
+      internalID: 6665974990609819443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - HUD Menu_105
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 134
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e96706418171464e0800000000000000
+      internalID: -1989439743202396514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - HUD Menu_106
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 134
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 926708fb15f840700800000000000000
+      internalID: 505686639440328233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - HUD Menu_107
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 134
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aca9f027489a06190800000000000000
+      internalID: -7971184954131375414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - HUD Menu_108
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 133
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a613773ee57a99460800000000000000
+      internalID: 7249009101214527850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - HUD Menu_109
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 133
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dffbd32332c41d40800000000000000
+      internalID: 5554277765355405264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - HUD Menu_110
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 133
+        width: 82
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70321f527c679aad0800000000000000
+      internalID: -2690488704670031097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - HUD Menu_111
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 117
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21fa07a46d5379df0800000000000000
+      internalID: -173610866142302446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - HUD Menu_112
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 117
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25b9ea2371ba2fba0800000000000000
+      internalID: -6056590432736994478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - HUD Menu_113
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 117
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c37769c310f26fad0800000000000000
+      internalID: -2668894046812473540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - HUD Menu_114
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 117
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8739f354c6371b70800000000000000
+      internalID: 8869618207979812747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - HUD Menu_115
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 116
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e329cb3f4cce5fb0800000000000000
+      internalID: -4657060323976993819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - HUD Menu_116
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 116
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdb69a30c388bef40800000000000000
+      internalID: 5758846339864161244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - HUD Menu_117
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 116
+        width: 82
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 555c67fa4f230a1f0800000000000000
+      internalID: -1035771887798008491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - HUD Menu_118
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 100
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a663e574d1fbbed0800000000000000
+      internalID: -2397056481831459162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - HUD Menu_119
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 100
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43da671840cb0d380800000000000000
+      internalID: -8948445732047246028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - HUD Menu_120
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 100
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55068152581237a10800000000000000
+      internalID: 1905903923044573269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - HUD Menu_121
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 100
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d34e2acb7dbe32ed0800000000000000
+      internalID: -2439847261289388995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - HUD Menu_122
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 99
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 026a5605e553566b0800000000000000
+      internalID: -5303774306966854112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - HUD Menu_123
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 99
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad9fb5ed274973400800000000000000
+      internalID: 303874720948550106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - HUD Menu_124
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 99
+        width: 82
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 704091f295cce8810800000000000000
+      internalID: 1769576387017507847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - HUD Menu_125
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 83
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fa1b571e93768ea0800000000000000
+      internalID: -5870877941396989200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - HUD Menu_126
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 83
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b569cc59fd62597a0800000000000000
+      internalID: -6371143356112923045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - HUD Menu_127
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 83
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8fde256fbcf32390800000000000000
+      internalID: -7844148226982748278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - HUD Menu_128
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 83
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db1313ecccbb85f40800000000000000
+      internalID: 5717526215253897661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - HUD Menu_129
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 82
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c62e48ee016ee1280800000000000000
+      internalID: -9070559639082048916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - HUD Menu_130
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 82
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6d17cdaa9143a620800000000000000
+      internalID: 2784141127241375082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - HUD Menu_131
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 82
+        width: 82
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eabb7a1bf23cc1f0800000000000000
+      internalID: -1023386961257448730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - HUD Menu_132
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 66
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3bbab6b9c33276b0800000000000000
+      internalID: -5300116870014518467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - HUD Menu_133
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 66
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 528e1136685859e90800000000000000
+      internalID: -7019557631952820187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - HUD Menu_134
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 66
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64eefbf8e31bd9200800000000000000
+      internalID: 188501641677237830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - HUD Menu_135
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 66
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cb1f49175070bf90800000000000000
+      internalID: -6939923506388853821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - HUD Menu_136
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 65
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d367f1a9f1db8c990800000000000000
+      internalID: -7365429247137057219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - HUD Menu_137
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 65
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cf4451b511764350800000000000000
+      internalID: 6000607891501109187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - HUD Menu_138
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 65
+        width: 82
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96262764601447750800000000000000
+      internalID: 6301733273805677161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - HUD Menu_139
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 49
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 306413b9001039ec0800000000000000
+      internalID: -3561501778204604925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - HUD Menu_140
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 49
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfba5d3c71d60a940800000000000000
+      internalID: 5305360309879679997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - HUD Menu_141
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 49
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d12fccb8d6403ec0800000000000000
+      internalID: -3589291006319713832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - HUD Menu_142
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 49
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f8469eab59a37420800000000000000
+      internalID: 2626629218923333879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - HUD Menu_143
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 48
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00ee9b779cdc4b130800000000000000
+      internalID: 3581713868847181312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - HUD Menu_144
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 48
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e88d96e33b585a20800000000000000
+      internalID: 3051289026014054624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - HUD Menu_145
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 82
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1892df06474ed5d0800000000000000
+      internalID: -3035910732562393061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - HUD Menu_146
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 36
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 888cb4d1c9e104240800000000000000
+      internalID: 4773849260867963016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - HUD Menu_147
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 27
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 745bb95ad4d3b88a0800000000000000
+      internalID: -6301875849874655929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - HUD Menu_148
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 27
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9b56efa51d110c20800000000000000
+      internalID: 3170847591628168091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - HUD Menu_149
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 28
+        width: 60
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 879daa75fe35f80c0800000000000000
+      internalID: -4571342809324660360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - HUD Menu_150
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 27
+        width: 26
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deecaeac03f721a40800000000000000
+      internalID: 5337468355927002861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - HUD Menu_151
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 27
+        width: 26
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a8c221488b567cf0800000000000000
+      internalID: -254915688133375837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - HUD Menu_152
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 36
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbc83ca1d7a29fe50800000000000000
+      internalID: 6843547825574481084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - HUD Menu_153
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 36
+        width: 42
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7259d784f8ab4cc0800000000000000
+      internalID: -3725698498514300290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - HUD Menu_154
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 36
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5602a4c0981e49600800000000000000
+      internalID: 474251839513698405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - HUD Menu_155
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 18
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2baf1c47631065f60800000000000000
+      internalID: 8022601119605848754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - HUD Menu_156
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83e0614477ac0c010800000000000000
+      internalID: 1207187313727508024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - HUD Menu_157
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 18
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c882874bdf29be00800000000000000
+      internalID: 1060931806066542786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - HUD Menu_158
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 9
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b5c3f4f8ee3c5130800000000000000
+      internalID: 3556786975978800568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - HUD Menu_159
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 9
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33fdb3c35b2c47bc0800000000000000
+      internalID: -3786187303056318669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - HUD Menu_160
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 18
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f90a850d963b4a430800000000000000
+      internalID: 3793354053201207455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - HUD Menu_161
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 18
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8051e2350fe1a300800000000000000
+      internalID: 261753058971701387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - HUD Menu_162
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 10
+        width: 31
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73014d9928e0f0120800000000000000
+      internalID: 2382138681991630903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - HUD Menu_163
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 9
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92a60445188690a10800000000000000
+      internalID: 1876145624450099753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - HUD Menu_164
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 18
+        width: 42
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8e1238d339bdb8b0800000000000000
+      internalID: -5134744367810863478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - HUD Menu_165
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 9
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1fa6fe4cd1b20230800000000000000
+      internalID: 3603638211625529119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - HUD Menu_166
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 9
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 352d0b56fc57b18f0800000000000000
+      internalID: -568731394307468717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - HUD Menu_167
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 9
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48be6c80ec09d82b0800000000000000
+      internalID: -5580645148657259644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - HUD Menu_168
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d85821b473e86c920800000000000000
+      internalID: 3010249769077605773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - HUD Menu_169
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 0
+        width: 26
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20a240f2ac726faa0800000000000000
+      internalID: -6127666493665302014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - HUD Menu_170
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 0
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2f538277268ac500800000000000000
+      internalID: 417293419468250925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - HUD Menu_171
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 0
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39315b2354899a930800000000000000
+      internalID: 4155019554196886419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - HUD Menu_172
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 0
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 038368871d17faa70800000000000000
+      internalID: 8840409738035738672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - HUD Menu_173
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 42
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e856f4bcb19894130800000000000000
+      internalID: 3551520533626447246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Arcade - Ghouls n Ghosts - HUD Menu_0: 6482440149258062057
+      Arcade - Ghouls n Ghosts - HUD Menu_1: -15737113719002990
+      Arcade - Ghouls n Ghosts - HUD Menu_10: 118092609433341272
+      Arcade - Ghouls n Ghosts - HUD Menu_100: -7584730759412788854
+      Arcade - Ghouls n Ghosts - HUD Menu_101: 560991162467463622
+      Arcade - Ghouls n Ghosts - HUD Menu_102: -8637633142193261735
+      Arcade - Ghouls n Ghosts - HUD Menu_103: 8679371309826546321
+      Arcade - Ghouls n Ghosts - HUD Menu_104: 6665974990609819443
+      Arcade - Ghouls n Ghosts - HUD Menu_105: -1989439743202396514
+      Arcade - Ghouls n Ghosts - HUD Menu_106: 505686639440328233
+      Arcade - Ghouls n Ghosts - HUD Menu_107: -7971184954131375414
+      Arcade - Ghouls n Ghosts - HUD Menu_108: 7249009101214527850
+      Arcade - Ghouls n Ghosts - HUD Menu_109: 5554277765355405264
+      Arcade - Ghouls n Ghosts - HUD Menu_11: 2975856438008087374
+      Arcade - Ghouls n Ghosts - HUD Menu_110: -2690488704670031097
+      Arcade - Ghouls n Ghosts - HUD Menu_111: -173610866142302446
+      Arcade - Ghouls n Ghosts - HUD Menu_112: -6056590432736994478
+      Arcade - Ghouls n Ghosts - HUD Menu_113: -2668894046812473540
+      Arcade - Ghouls n Ghosts - HUD Menu_114: 8869618207979812747
+      Arcade - Ghouls n Ghosts - HUD Menu_115: -4657060323976993819
+      Arcade - Ghouls n Ghosts - HUD Menu_116: 5758846339864161244
+      Arcade - Ghouls n Ghosts - HUD Menu_117: -1035771887798008491
+      Arcade - Ghouls n Ghosts - HUD Menu_118: -2397056481831459162
+      Arcade - Ghouls n Ghosts - HUD Menu_119: -8948445732047246028
+      Arcade - Ghouls n Ghosts - HUD Menu_12: -6815726562475523696
+      Arcade - Ghouls n Ghosts - HUD Menu_120: 1905903923044573269
+      Arcade - Ghouls n Ghosts - HUD Menu_121: -2439847261289388995
+      Arcade - Ghouls n Ghosts - HUD Menu_122: -5303774306966854112
+      Arcade - Ghouls n Ghosts - HUD Menu_123: 303874720948550106
+      Arcade - Ghouls n Ghosts - HUD Menu_124: 1769576387017507847
+      Arcade - Ghouls n Ghosts - HUD Menu_125: -5870877941396989200
+      Arcade - Ghouls n Ghosts - HUD Menu_126: -6371143356112923045
+      Arcade - Ghouls n Ghosts - HUD Menu_127: -7844148226982748278
+      Arcade - Ghouls n Ghosts - HUD Menu_128: 5717526215253897661
+      Arcade - Ghouls n Ghosts - HUD Menu_129: -9070559639082048916
+      Arcade - Ghouls n Ghosts - HUD Menu_13: -636882143448829093
+      Arcade - Ghouls n Ghosts - HUD Menu_130: 2784141127241375082
+      Arcade - Ghouls n Ghosts - HUD Menu_131: -1023386961257448730
+      Arcade - Ghouls n Ghosts - HUD Menu_132: -5300116870014518467
+      Arcade - Ghouls n Ghosts - HUD Menu_133: -7019557631952820187
+      Arcade - Ghouls n Ghosts - HUD Menu_134: 188501641677237830
+      Arcade - Ghouls n Ghosts - HUD Menu_135: -6939923506388853821
+      Arcade - Ghouls n Ghosts - HUD Menu_136: -7365429247137057219
+      Arcade - Ghouls n Ghosts - HUD Menu_137: 6000607891501109187
+      Arcade - Ghouls n Ghosts - HUD Menu_138: 6301733273805677161
+      Arcade - Ghouls n Ghosts - HUD Menu_139: -3561501778204604925
+      Arcade - Ghouls n Ghosts - HUD Menu_14: 1768160065664839087
+      Arcade - Ghouls n Ghosts - HUD Menu_140: 5305360309879679997
+      Arcade - Ghouls n Ghosts - HUD Menu_141: -3589291006319713832
+      Arcade - Ghouls n Ghosts - HUD Menu_142: 2626629218923333879
+      Arcade - Ghouls n Ghosts - HUD Menu_143: 3581713868847181312
+      Arcade - Ghouls n Ghosts - HUD Menu_144: 3051289026014054624
+      Arcade - Ghouls n Ghosts - HUD Menu_145: -3035910732562393061
+      Arcade - Ghouls n Ghosts - HUD Menu_146: 4773849260867963016
+      Arcade - Ghouls n Ghosts - HUD Menu_147: -6301875849874655929
+      Arcade - Ghouls n Ghosts - HUD Menu_148: 3170847591628168091
+      Arcade - Ghouls n Ghosts - HUD Menu_149: -4571342809324660360
+      Arcade - Ghouls n Ghosts - HUD Menu_15: 6757890715507918966
+      Arcade - Ghouls n Ghosts - HUD Menu_150: 5337468355927002861
+      Arcade - Ghouls n Ghosts - HUD Menu_151: -254915688133375837
+      Arcade - Ghouls n Ghosts - HUD Menu_152: 6843547825574481084
+      Arcade - Ghouls n Ghosts - HUD Menu_153: -3725698498514300290
+      Arcade - Ghouls n Ghosts - HUD Menu_154: 474251839513698405
+      Arcade - Ghouls n Ghosts - HUD Menu_155: 8022601119605848754
+      Arcade - Ghouls n Ghosts - HUD Menu_156: 1207187313727508024
+      Arcade - Ghouls n Ghosts - HUD Menu_157: 1060931806066542786
+      Arcade - Ghouls n Ghosts - HUD Menu_158: 3556786975978800568
+      Arcade - Ghouls n Ghosts - HUD Menu_159: -3786187303056318669
+      Arcade - Ghouls n Ghosts - HUD Menu_16: 142921662410410794
+      Arcade - Ghouls n Ghosts - HUD Menu_160: 3793354053201207455
+      Arcade - Ghouls n Ghosts - HUD Menu_161: 261753058971701387
+      Arcade - Ghouls n Ghosts - HUD Menu_162: 2382138681991630903
+      Arcade - Ghouls n Ghosts - HUD Menu_163: 1876145624450099753
+      Arcade - Ghouls n Ghosts - HUD Menu_164: -5134744367810863478
+      Arcade - Ghouls n Ghosts - HUD Menu_165: 3603638211625529119
+      Arcade - Ghouls n Ghosts - HUD Menu_166: -568731394307468717
+      Arcade - Ghouls n Ghosts - HUD Menu_167: -5580645148657259644
+      Arcade - Ghouls n Ghosts - HUD Menu_168: 3010249769077605773
+      Arcade - Ghouls n Ghosts - HUD Menu_169: -6127666493665302014
+      Arcade - Ghouls n Ghosts - HUD Menu_17: 1092640418509617579
+      Arcade - Ghouls n Ghosts - HUD Menu_170: 417293419468250925
+      Arcade - Ghouls n Ghosts - HUD Menu_171: 4155019554196886419
+      Arcade - Ghouls n Ghosts - HUD Menu_172: 8840409738035738672
+      Arcade - Ghouls n Ghosts - HUD Menu_173: 3551520533626447246
+      Arcade - Ghouls n Ghosts - HUD Menu_18: 1040076488936086548
+      Arcade - Ghouls n Ghosts - HUD Menu_19: 632954556698629309
+      Arcade - Ghouls n Ghosts - HUD Menu_2: -5338463463137431384
+      Arcade - Ghouls n Ghosts - HUD Menu_20: -2263859470105357201
+      Arcade - Ghouls n Ghosts - HUD Menu_21: 3059028090471376668
+      Arcade - Ghouls n Ghosts - HUD Menu_22: -5082327696148168597
+      Arcade - Ghouls n Ghosts - HUD Menu_23: -7214225289043844634
+      Arcade - Ghouls n Ghosts - HUD Menu_24: -2198064621882887299
+      Arcade - Ghouls n Ghosts - HUD Menu_25: 6923487373262189662
+      Arcade - Ghouls n Ghosts - HUD Menu_26: -8009018299576936639
+      Arcade - Ghouls n Ghosts - HUD Menu_27: -6140559995156803828
+      Arcade - Ghouls n Ghosts - HUD Menu_28: 8316903349543773451
+      Arcade - Ghouls n Ghosts - HUD Menu_29: 6475553924629987542
+      Arcade - Ghouls n Ghosts - HUD Menu_3: 6478851729736800731
+      Arcade - Ghouls n Ghosts - HUD Menu_30: -9170620956690457623
+      Arcade - Ghouls n Ghosts - HUD Menu_31: -7352331432698207007
+      Arcade - Ghouls n Ghosts - HUD Menu_32: 8998747323046860029
+      Arcade - Ghouls n Ghosts - HUD Menu_33: 3099465527310987191
+      Arcade - Ghouls n Ghosts - HUD Menu_34: 6076129252287564024
+      Arcade - Ghouls n Ghosts - HUD Menu_35: 8392415628708470337
+      Arcade - Ghouls n Ghosts - HUD Menu_36: 100071565591060374
+      Arcade - Ghouls n Ghosts - HUD Menu_37: -6211998818565784533
+      Arcade - Ghouls n Ghosts - HUD Menu_38: 5295498924527054827
+      Arcade - Ghouls n Ghosts - HUD Menu_39: 5233440111794194137
+      Arcade - Ghouls n Ghosts - HUD Menu_4: 8459851202926750386
+      Arcade - Ghouls n Ghosts - HUD Menu_40: -6417067507284640502
+      Arcade - Ghouls n Ghosts - HUD Menu_41: 197688774115864190
+      Arcade - Ghouls n Ghosts - HUD Menu_42: 5661754738110167011
+      Arcade - Ghouls n Ghosts - HUD Menu_43: 103523431940430043
+      Arcade - Ghouls n Ghosts - HUD Menu_44: 8423840833156930371
+      Arcade - Ghouls n Ghosts - HUD Menu_45: 6978335657564188896
+      Arcade - Ghouls n Ghosts - HUD Menu_46: 6837826773812380067
+      Arcade - Ghouls n Ghosts - HUD Menu_47: -827427546369300858
+      Arcade - Ghouls n Ghosts - HUD Menu_48: 6429471406680406340
+      Arcade - Ghouls n Ghosts - HUD Menu_49: -3996185290237968584
+      Arcade - Ghouls n Ghosts - HUD Menu_5: 4833293476566653941
+      Arcade - Ghouls n Ghosts - HUD Menu_50: -8314341396664733427
+      Arcade - Ghouls n Ghosts - HUD Menu_51: -8541929437289007956
+      Arcade - Ghouls n Ghosts - HUD Menu_52: -316101417601849875
+      Arcade - Ghouls n Ghosts - HUD Menu_53: -768033905057934317
+      Arcade - Ghouls n Ghosts - HUD Menu_54: -4315430763144961250
+      Arcade - Ghouls n Ghosts - HUD Menu_55: 3735387479083773273
+      Arcade - Ghouls n Ghosts - HUD Menu_56: -3265262900635475299
+      Arcade - Ghouls n Ghosts - HUD Menu_57: 1792023899215017095
+      Arcade - Ghouls n Ghosts - HUD Menu_58: -8106140315203130604
+      Arcade - Ghouls n Ghosts - HUD Menu_59: -9116666601951409688
+      Arcade - Ghouls n Ghosts - HUD Menu_6: -8817325200063649513
+      Arcade - Ghouls n Ghosts - HUD Menu_60: 4178018893514168248
+      Arcade - Ghouls n Ghosts - HUD Menu_61: -6489167899432498782
+      Arcade - Ghouls n Ghosts - HUD Menu_62: -5050118880874994435
+      Arcade - Ghouls n Ghosts - HUD Menu_63: 4267916873817978443
+      Arcade - Ghouls n Ghosts - HUD Menu_64: 3694778927975183103
+      Arcade - Ghouls n Ghosts - HUD Menu_65: -6334820592806968160
+      Arcade - Ghouls n Ghosts - HUD Menu_66: -2708227588543351839
+      Arcade - Ghouls n Ghosts - HUD Menu_67: 3900344969157909808
+      Arcade - Ghouls n Ghosts - HUD Menu_68: 465783958824870996
+      Arcade - Ghouls n Ghosts - HUD Menu_69: 3390057915069069635
+      Arcade - Ghouls n Ghosts - HUD Menu_7: 5370255889315447823
+      Arcade - Ghouls n Ghosts - HUD Menu_70: -2058354229971423507
+      Arcade - Ghouls n Ghosts - HUD Menu_71: -1337284687541497574
+      Arcade - Ghouls n Ghosts - HUD Menu_72: -6695097665012908931
+      Arcade - Ghouls n Ghosts - HUD Menu_73: -7219709465379585471
+      Arcade - Ghouls n Ghosts - HUD Menu_74: 5399907055880375632
+      Arcade - Ghouls n Ghosts - HUD Menu_75: 1995184374028789491
+      Arcade - Ghouls n Ghosts - HUD Menu_76: -135780481179151378
+      Arcade - Ghouls n Ghosts - HUD Menu_77: -2506990297487196642
+      Arcade - Ghouls n Ghosts - HUD Menu_78: -754599908187436526
+      Arcade - Ghouls n Ghosts - HUD Menu_79: 6713280104465708820
+      Arcade - Ghouls n Ghosts - HUD Menu_8: -2797320764786884414
+      Arcade - Ghouls n Ghosts - HUD Menu_80: 2658400215678506669
+      Arcade - Ghouls n Ghosts - HUD Menu_81: 8616756933990748448
+      Arcade - Ghouls n Ghosts - HUD Menu_82: 8925464136253282505
+      Arcade - Ghouls n Ghosts - HUD Menu_83: 4077652297221229279
+      Arcade - Ghouls n Ghosts - HUD Menu_84: 8927700078746085435
+      Arcade - Ghouls n Ghosts - HUD Menu_85: -8485014931173960060
+      Arcade - Ghouls n Ghosts - HUD Menu_86: 958195578174253185
+      Arcade - Ghouls n Ghosts - HUD Menu_87: -2078322740594056951
+      Arcade - Ghouls n Ghosts - HUD Menu_88: 6598946290433399822
+      Arcade - Ghouls n Ghosts - HUD Menu_89: 8402296510527131403
+      Arcade - Ghouls n Ghosts - HUD Menu_9: 3436518493781452865
+      Arcade - Ghouls n Ghosts - HUD Menu_90: -119899491611794649
+      Arcade - Ghouls n Ghosts - HUD Menu_91: 3773157587799438335
+      Arcade - Ghouls n Ghosts - HUD Menu_92: 5623754836405191091
+      Arcade - Ghouls n Ghosts - HUD Menu_93: 8302312752840437101
+      Arcade - Ghouls n Ghosts - HUD Menu_94: -757392174870280018
+      Arcade - Ghouls n Ghosts - HUD Menu_95: 294180698968828709
+      Arcade - Ghouls n Ghosts - HUD Menu_96: -2582491702879232379
+      Arcade - Ghouls n Ghosts - HUD Menu_97: -7568050833067341316
+      Arcade - Ghouls n Ghosts - HUD Menu_98: -3548006275626715242
+      Arcade - Ghouls n Ghosts - HUD Menu_99: 5331068727354205485
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

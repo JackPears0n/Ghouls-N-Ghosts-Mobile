@@ -1,0 +1,1223 @@
+fileFormatVersion: 2
+guid: 6937a971de2e9f14790d343907e4f8cd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5651059027649370213
+    second: Arcade - Ghouls n Ghosts - Spear Magic_0
+  - first:
+      213: -3607058656885886544
+    second: Arcade - Ghouls n Ghosts - Spear Magic_1
+  - first:
+      213: -1027189124680379632
+    second: Arcade - Ghouls n Ghosts - Spear Magic_2
+  - first:
+      213: 1450048936222448849
+    second: Arcade - Ghouls n Ghosts - Spear Magic_3
+  - first:
+      213: 7284456502334832869
+    second: Arcade - Ghouls n Ghosts - Spear Magic_4
+  - first:
+      213: -8931564737343666689
+    second: Arcade - Ghouls n Ghosts - Spear Magic_5
+  - first:
+      213: 7516842852879181393
+    second: Arcade - Ghouls n Ghosts - Spear Magic_6
+  - first:
+      213: -137933920192864940
+    second: Arcade - Ghouls n Ghosts - Spear Magic_7
+  - first:
+      213: -7316387601934720898
+    second: Arcade - Ghouls n Ghosts - Spear Magic_8
+  - first:
+      213: 685374275827559036
+    second: Arcade - Ghouls n Ghosts - Spear Magic_9
+  - first:
+      213: -4949520670840047540
+    second: Arcade - Ghouls n Ghosts - Spear Magic_10
+  - first:
+      213: -3624439357999593387
+    second: Arcade - Ghouls n Ghosts - Spear Magic_11
+  - first:
+      213: 5120565195918039398
+    second: Arcade - Ghouls n Ghosts - Spear Magic_12
+  - first:
+      213: -7889023181206548161
+    second: Arcade - Ghouls n Ghosts - Spear Magic_13
+  - first:
+      213: -3020515856043331461
+    second: Arcade - Ghouls n Ghosts - Spear Magic_14
+  - first:
+      213: 6986476354571204587
+    second: Arcade - Ghouls n Ghosts - Spear Magic_15
+  - first:
+      213: 9041014187537466577
+    second: Arcade - Ghouls n Ghosts - Spear Magic_16
+  - first:
+      213: 4317553496474476504
+    second: Arcade - Ghouls n Ghosts - Spear Magic_17
+  - first:
+      213: -1039605693634965550
+    second: Arcade - Ghouls n Ghosts - Spear Magic_18
+  - first:
+      213: 2585783132384712396
+    second: Arcade - Ghouls n Ghosts - Spear Magic_19
+  - first:
+      213: -3914076466170064420
+    second: Arcade - Ghouls n Ghosts - Spear Magic_20
+  - first:
+      213: 7720612466869623593
+    second: Arcade - Ghouls n Ghosts - Spear Magic_21
+  - first:
+      213: -6495562796749688647
+    second: Arcade - Ghouls n Ghosts - Spear Magic_22
+  - first:
+      213: -6163766388405396440
+    second: Arcade - Ghouls n Ghosts - Spear Magic_23
+  - first:
+      213: 1959101398790805455
+    second: Arcade - Ghouls n Ghosts - Spear Magic_24
+  - first:
+      213: -4174420970698521597
+    second: Arcade - Ghouls n Ghosts - Spear Magic_25
+  - first:
+      213: -1981568057940265641
+    second: Arcade - Ghouls n Ghosts - Spear Magic_26
+  - first:
+      213: -2241934753058681708
+    second: Arcade - Ghouls n Ghosts - Spear Magic_27
+  - first:
+      213: 4265373224795011444
+    second: Arcade - Ghouls n Ghosts - Spear Magic_28
+  - first:
+      213: 4849290151820439285
+    second: Arcade - Ghouls n Ghosts - Spear Magic_29
+  - first:
+      213: -896537133094886327
+    second: Arcade - Ghouls n Ghosts - Spear Magic_30
+  - first:
+      213: -2990218647905480282
+    second: Arcade - Ghouls n Ghosts - Spear Magic_31
+  - first:
+      213: -2474707024219632557
+    second: Arcade - Ghouls n Ghosts - Spear Magic_32
+  - first:
+      213: -6951621979967609100
+    second: Arcade - Ghouls n Ghosts - Spear Magic_33
+  - first:
+      213: -973211424229224258
+    second: Arcade - Ghouls n Ghosts - Spear Magic_34
+  - first:
+      213: 3267153767814517814
+    second: Arcade - Ghouls n Ghosts - Spear Magic_35
+  - first:
+      213: 1561522145798741316
+    second: Arcade - Ghouls n Ghosts - Spear Magic_36
+  - first:
+      213: 5651483929291668898
+    second: Arcade - Ghouls n Ghosts - Spear Magic_37
+  - first:
+      213: 6138521506162340474
+    second: Arcade - Ghouls n Ghosts - Spear Magic_38
+  - first:
+      213: -6508561316260443355
+    second: Arcade - Ghouls n Ghosts - Spear Magic_39
+  - first:
+      213: -4341483046205034470
+    second: Arcade - Ghouls n Ghosts - Spear Magic_40
+  - first:
+      213: -7510104850997334884
+    second: Arcade - Ghouls n Ghosts - Spear Magic_41
+  - first:
+      213: 7365521599737682552
+    second: Arcade - Ghouls n Ghosts - Spear Magic_42
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Spear Magic_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 94
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b97e13441c76391b0800000000000000
+      internalID: -5651059027649370213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Spear Magic_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 94
+        width: 23
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b1b158334721fdc0800000000000000
+      internalID: -3607058656885886544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Spear Magic_2
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 94
+        width: 25
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0131842fee0beb1f0800000000000000
+      internalID: -1027189124680379632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Spear Magic_3
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 110
+        width: 50
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dcd87623db9f1410800000000000000
+      internalID: 1450048936222448849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Spear Magic_4
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 110
+        width: 50
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e0c37b1896971560800000000000000
+      internalID: 7284456502334832869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Spear Magic_5
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 110
+        width: 50
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff5c93e5135bc0480800000000000000
+      internalID: -8931564737343666689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Spear Magic_6
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 54
+        width: 43
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1562c4eafb0315860800000000000000
+      internalID: 7516842852879181393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Spear Magic_7
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 58
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45d5d6494d5f51ef0800000000000000
+      internalID: -137933920192864940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Spear Magic_8
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 50
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e70eb9b6d38f67a90800000000000000
+      internalID: -7316387601934720898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Spear Magic_9
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 61
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7a64e8c540f28900800000000000000
+      internalID: 685374275827559036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Spear Magic_10
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 51
+        width: 39
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c48302e6c25cf4bb0800000000000000
+      internalID: -4949520670840047540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Spear Magic_11
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 45
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5584d746b9763bdc0800000000000000
+      internalID: -3624439357999593387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Spear Magic_12
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 45
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6695cef6ae6ef0740800000000000000
+      internalID: 5120565195918039398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Spear Magic_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 36
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f319c5be63f848290800000000000000
+      internalID: -7889023181206548161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Spear Magic_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 27
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b703a1215d8f416d0800000000000000
+      internalID: -3020515856043331461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Spear Magic_15
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 27
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be7f1e18a33f4f060800000000000000
+      internalID: 6986476354571204587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Spear Magic_16
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 28
+        width: 60
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d400719082287d70800000000000000
+      internalID: 9041014187537466577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Spear Magic_17
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 27
+        width: 26
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8df5b1897080beb30800000000000000
+      internalID: 4317553496474476504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Spear Magic_18
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 27
+        width: 26
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2df0a6431249291f0800000000000000
+      internalID: -1039605693634965550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Spear Magic_19
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 36
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc6dcff0f0c82e320800000000000000
+      internalID: 2585783132384712396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Spear Magic_20
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 36
+        width: 42
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd1973211386ea9c0800000000000000
+      internalID: -3914076466170064420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Spear Magic_21
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 36
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92b57301220252b60800000000000000
+      internalID: 7720612466869623593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Spear Magic_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 18
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b0fd732d002bd5a0800000000000000
+      internalID: -6495562796749688647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Spear Magic_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82c9a947027e57aa0800000000000000
+      internalID: -6163766388405396440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Spear Magic_24
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 18
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc795e9a750203b10800000000000000
+      internalID: 1959101398790805455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Spear Magic_25
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 9
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 304c2928e3a7116c0800000000000000
+      internalID: -4174420970698521597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Spear Magic_26
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 9
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 755b530a95e0084e0800000000000000
+      internalID: -1981568057940265641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Spear Magic_27
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 18
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49c855a683c03e0e0800000000000000
+      internalID: -2241934753058681708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Spear Magic_28
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 18
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4797e5a5956a13b30800000000000000
+      internalID: 4265373224795011444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Spear Magic_29
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 10
+        width: 47
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5feae0053b32c4340800000000000000
+      internalID: 4849290151820439285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Spear Magic_30
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 9
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 944aeed3a3cde83f0800000000000000
+      internalID: -896537133094886327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Spear Magic_31
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 9
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a158da8bfb9086d0800000000000000
+      internalID: -2990218647905480282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Spear Magic_32
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 18
+        width: 26
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35c8932b21318add0800000000000000
+      internalID: -2474707024219632557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Spear Magic_33
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 18
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f6ab37f3a0e68f90800000000000000
+      internalID: -6951621979967609100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Spear Magic_34
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 9
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb0177fad557e72f0800000000000000
+      internalID: -973211424229224258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Spear Magic_35
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 18
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 634d92daa03475d20800000000000000
+      internalID: 3267153767814517814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Spear Magic_36
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 9
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44d5d394e14aba510800000000000000
+      internalID: 1561522145798741316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Spear Magic_37
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ad324bd0ba1e6e40800000000000000
+      internalID: 5651483929291668898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Spear Magic_38
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 0
+        width: 26
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a72f6ec59c8603550800000000000000
+      internalID: 6138521506162340474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Spear Magic_39
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 0
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52b827977f1fca5a0800000000000000
+      internalID: -6508561316260443355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Spear Magic_40
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 0
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a107190fb24ffb3c0800000000000000
+      internalID: -4341483046205034470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Spear Magic_41
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 0
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9cad52ad6fb6c790800000000000000
+      internalID: -7510104850997334884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Spear Magic_42
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 42
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87ad4d9eed6973660800000000000000
+      internalID: 7365521599737682552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Arcade - Ghouls n Ghosts - Spear Magic_0: -5651059027649370213
+      Arcade - Ghouls n Ghosts - Spear Magic_1: -3607058656885886544
+      Arcade - Ghouls n Ghosts - Spear Magic_10: -4949520670840047540
+      Arcade - Ghouls n Ghosts - Spear Magic_11: -3624439357999593387
+      Arcade - Ghouls n Ghosts - Spear Magic_12: 5120565195918039398
+      Arcade - Ghouls n Ghosts - Spear Magic_13: -7889023181206548161
+      Arcade - Ghouls n Ghosts - Spear Magic_14: -3020515856043331461
+      Arcade - Ghouls n Ghosts - Spear Magic_15: 6986476354571204587
+      Arcade - Ghouls n Ghosts - Spear Magic_16: 9041014187537466577
+      Arcade - Ghouls n Ghosts - Spear Magic_17: 4317553496474476504
+      Arcade - Ghouls n Ghosts - Spear Magic_18: -1039605693634965550
+      Arcade - Ghouls n Ghosts - Spear Magic_19: 2585783132384712396
+      Arcade - Ghouls n Ghosts - Spear Magic_2: -1027189124680379632
+      Arcade - Ghouls n Ghosts - Spear Magic_20: -3914076466170064420
+      Arcade - Ghouls n Ghosts - Spear Magic_21: 7720612466869623593
+      Arcade - Ghouls n Ghosts - Spear Magic_22: -6495562796749688647
+      Arcade - Ghouls n Ghosts - Spear Magic_23: -6163766388405396440
+      Arcade - Ghouls n Ghosts - Spear Magic_24: 1959101398790805455
+      Arcade - Ghouls n Ghosts - Spear Magic_25: -4174420970698521597
+      Arcade - Ghouls n Ghosts - Spear Magic_26: -1981568057940265641
+      Arcade - Ghouls n Ghosts - Spear Magic_27: -2241934753058681708
+      Arcade - Ghouls n Ghosts - Spear Magic_28: 4265373224795011444
+      Arcade - Ghouls n Ghosts - Spear Magic_29: 4849290151820439285
+      Arcade - Ghouls n Ghosts - Spear Magic_3: 1450048936222448849
+      Arcade - Ghouls n Ghosts - Spear Magic_30: -896537133094886327
+      Arcade - Ghouls n Ghosts - Spear Magic_31: -2990218647905480282
+      Arcade - Ghouls n Ghosts - Spear Magic_32: -2474707024219632557
+      Arcade - Ghouls n Ghosts - Spear Magic_33: -6951621979967609100
+      Arcade - Ghouls n Ghosts - Spear Magic_34: -973211424229224258
+      Arcade - Ghouls n Ghosts - Spear Magic_35: 3267153767814517814
+      Arcade - Ghouls n Ghosts - Spear Magic_36: 1561522145798741316
+      Arcade - Ghouls n Ghosts - Spear Magic_37: 5651483929291668898
+      Arcade - Ghouls n Ghosts - Spear Magic_38: 6138521506162340474
+      Arcade - Ghouls n Ghosts - Spear Magic_39: -6508561316260443355
+      Arcade - Ghouls n Ghosts - Spear Magic_4: 7284456502334832869
+      Arcade - Ghouls n Ghosts - Spear Magic_40: -4341483046205034470
+      Arcade - Ghouls n Ghosts - Spear Magic_41: -7510104850997334884
+      Arcade - Ghouls n Ghosts - Spear Magic_42: 7365521599737682552
+      Arcade - Ghouls n Ghosts - Spear Magic_5: -8931564737343666689
+      Arcade - Ghouls n Ghosts - Spear Magic_6: 7516842852879181393
+      Arcade - Ghouls n Ghosts - Spear Magic_7: -137933920192864940
+      Arcade - Ghouls n Ghosts - Spear Magic_8: -7316387601934720898
+      Arcade - Ghouls n Ghosts - Spear Magic_9: 685374275827559036
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

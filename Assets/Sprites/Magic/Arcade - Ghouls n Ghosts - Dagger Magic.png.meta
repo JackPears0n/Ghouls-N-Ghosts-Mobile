@@ -1,0 +1,1598 @@
+fileFormatVersion: 2
+guid: 9c83b9b4967bb7a4cb8214212379023c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2365405586838301258
+    second: Arcade - Ghouls n Ghosts - Dagger Magic_0
+  - first:
+      213: 8579819224399791332
+    second: Arcade - Ghouls n Ghosts - Dagger Magic_1
+  - first:
+      213: -2331142347840135552
+    second: Arcade - Ghouls n Ghosts - Dagger Magic_2
+  - first:
+      213: -1871577129724220475
+    second: Arcade - Ghouls n Ghosts - Dagger Magic_3
+  - first:
+      213: 8609820786366448376
+    second: Arcade - Ghouls n Ghosts - Dagger Magic_4
+  - first:
+      213: 1291302346969512145
+    second: Arcade - Ghouls n Ghosts - Dagger Magic_5
+  - first:
+      213: 5818004601662974073
+    second: Arcade - Ghouls n Ghosts - Dagger Magic_6
+  - first:
+      213: 7900170268261764730
+    second: Arcade - Ghouls n Ghosts - Dagger Magic_7
+  - first:
+      213: -6767042390280793922
+    second: Arcade - Ghouls n Ghosts - Dagger Magic_8
+  - first:
+      213: 441204688931581709
+    second: Arcade - Ghouls n Ghosts - Dagger Magic_9
+  - first:
+      213: 6794013526532049214
+    second: Arcade - Ghouls n Ghosts - Dagger Magic_10
+  - first:
+      213: 8833286117995856261
+    second: Arcade - Ghouls n Ghosts - Dagger Magic_11
+  - first:
+      213: 3956045786219348898
+    second: Arcade - Ghouls n Ghosts - Dagger Magic_12
+  - first:
+      213: 1057282322637097457
+    second: Arcade - Ghouls n Ghosts - Dagger Magic_13
+  - first:
+      213: 6193531931582177271
+    second: Arcade - Ghouls n Ghosts - Dagger Magic_14
+  - first:
+      213: 2137599396230866151
+    second: Arcade - Ghouls n Ghosts - Dagger Magic_15
+  - first:
+      213: 1051399973903027082
+    second: Arcade - Ghouls n Ghosts - Dagger Magic_16
+  - first:
+      213: -5525325280677571381
+    second: Arcade - Ghouls n Ghosts - Dagger Magic_17
+  - first:
+      213: -4588774072104689287
+    second: Arcade - Ghouls n Ghosts - Dagger Magic_18
+  - first:
+      213: 7630571016814676403
+    second: Arcade - Ghouls n Ghosts - Dagger Magic_19
+  - first:
+      213: -4695996403486417771
+    second: Arcade - Ghouls n Ghosts - Dagger Magic_20
+  - first:
+      213: 6510213795105520200
+    second: Arcade - Ghouls n Ghosts - Dagger Magic_21
+  - first:
+      213: 2942207506388644547
+    second: Arcade - Ghouls n Ghosts - Dagger Magic_22
+  - first:
+      213: -2246511862911688671
+    second: Arcade - Ghouls n Ghosts - Dagger Magic_23
+  - first:
+      213: -8432609446198197583
+    second: Arcade - Ghouls n Ghosts - Dagger Magic_24
+  - first:
+      213: -6894799000508388184
+    second: Arcade - Ghouls n Ghosts - Dagger Magic_25
+  - first:
+      213: -716444046950984009
+    second: Arcade - Ghouls n Ghosts - Dagger Magic_26
+  - first:
+      213: 635821712049432315
+    second: Arcade - Ghouls n Ghosts - Dagger Magic_27
+  - first:
+      213: -1206076895064939462
+    second: Arcade - Ghouls n Ghosts - Dagger Magic_28
+  - first:
+      213: 8503058379090921
+    second: Arcade - Ghouls n Ghosts - Dagger Magic_29
+  - first:
+      213: -1031828723953155314
+    second: Arcade - Ghouls n Ghosts - Dagger Magic_30
+  - first:
+      213: -115555131658781844
+    second: Arcade - Ghouls n Ghosts - Dagger Magic_31
+  - first:
+      213: -4243815820951752568
+    second: Arcade - Ghouls n Ghosts - Dagger Magic_32
+  - first:
+      213: 1545869829858747680
+    second: Arcade - Ghouls n Ghosts - Dagger Magic_33
+  - first:
+      213: 7373525024594573620
+    second: Arcade - Ghouls n Ghosts - Dagger Magic_34
+  - first:
+      213: 4388444838584091775
+    second: Arcade - Ghouls n Ghosts - Dagger Magic_35
+  - first:
+      213: -891141271270508372
+    second: Arcade - Ghouls n Ghosts - Dagger Magic_36
+  - first:
+      213: -5353055060176537081
+    second: Arcade - Ghouls n Ghosts - Dagger Magic_37
+  - first:
+      213: -5620517626796444703
+    second: Arcade - Ghouls n Ghosts - Dagger Magic_38
+  - first:
+      213: 545540162907053822
+    second: Arcade - Ghouls n Ghosts - Dagger Magic_39
+  - first:
+      213: -3340681259542435158
+    second: Arcade - Ghouls n Ghosts - Dagger Magic_40
+  - first:
+      213: 150612717347610109
+    second: Arcade - Ghouls n Ghosts - Dagger Magic_41
+  - first:
+      213: 5689135918752597341
+    second: Arcade - Ghouls n Ghosts - Dagger Magic_42
+  - first:
+      213: 62192147279457395
+    second: Arcade - Ghouls n Ghosts - Dagger Magic_43
+  - first:
+      213: 5418908238344610017
+    second: Arcade - Ghouls n Ghosts - Dagger Magic_44
+  - first:
+      213: -2237619395557774356
+    second: Arcade - Ghouls n Ghosts - Dagger Magic_45
+  - first:
+      213: 1785649271092779078
+    second: Arcade - Ghouls n Ghosts - Dagger Magic_46
+  - first:
+      213: 872245877344725958
+    second: Arcade - Ghouls n Ghosts - Dagger Magic_47
+  - first:
+      213: 1342736476655960509
+    second: Arcade - Ghouls n Ghosts - Dagger Magic_48
+  - first:
+      213: 2727631759391866408
+    second: Arcade - Ghouls n Ghosts - Dagger Magic_49
+  - first:
+      213: -6733157458530240730
+    second: Arcade - Ghouls n Ghosts - Dagger Magic_50
+  - first:
+      213: 268495633774672146
+    second: Arcade - Ghouls n Ghosts - Dagger Magic_51
+  - first:
+      213: 5218986982221566825
+    second: Arcade - Ghouls n Ghosts - Dagger Magic_52
+  - first:
+      213: -2645195889088026815
+    second: Arcade - Ghouls n Ghosts - Dagger Magic_53
+  - first:
+      213: 7549551799823026399
+    second: Arcade - Ghouls n Ghosts - Dagger Magic_54
+  - first:
+      213: -4011934085825918835
+    second: Arcade - Ghouls n Ghosts - Dagger Magic_55
+  - first:
+      213: 3682334484917652591
+    second: Arcade - Ghouls n Ghosts - Dagger Magic_56
+  - first:
+      213: 3909182242334290056
+    second: Arcade - Ghouls n Ghosts - Dagger Magic_57
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Dagger Magic_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 241
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4aa83949db93d020800000000000000
+      internalID: 2365405586838301258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Dagger Magic_1
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 245
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e4ca637024a11770800000000000000
+      internalID: 8579819224399791332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Dagger Magic_2
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 241
+        width: 35
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08e5e14b26e16afd0800000000000000
+      internalID: -2331142347840135552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Dagger Magic_3
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 241
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cbea0d3482d606e0800000000000000
+      internalID: -1871577129724220475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Dagger Magic_4
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 246
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f2852f636a3c7770800000000000000
+      internalID: 8609820786366448376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Dagger Magic_5
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 241
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d8feb894a0abe110800000000000000
+      internalID: 1291302346969512145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Dagger Magic_6
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 192
+        width: 34
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 978a5bf2c54bdb050800000000000000
+      internalID: 5818004601662974073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Dagger Magic_7
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 191
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7e48d8800b03ad60800000000000000
+      internalID: 7900170268261764730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Dagger Magic_8
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 195
+        width: 47
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb09d43acc2a612a0800000000000000
+      internalID: -6767042390280793922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Dagger Magic_9
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 194
+        width: 42
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0fe005b3597f1600800000000000000
+      internalID: 441204688931581709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Dagger Magic_10
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 192
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3944206e4f294e50800000000000000
+      internalID: 6794013526532049214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Dagger Magic_11
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 192
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 581488e6ce2269a70800000000000000
+      internalID: 8833286117995856261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Dagger Magic_12
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 143
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a309cabea2b6e630800000000000000
+      internalID: 3956045786219348898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Dagger Magic_13
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 143
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f98514bba83cae00800000000000000
+      internalID: 1057282322637097457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Dagger Magic_14
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 143
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ff9efe1a78d3f550800000000000000
+      internalID: 6193531931582177271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Dagger Magic_15
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 148
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e42e6c43574aad10800000000000000
+      internalID: 2137599396230866151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Dagger Magic_16
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 159
+        width: 33
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8b4859a4b2579e00800000000000000
+      internalID: 1051399973903027082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Dagger Magic_17
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 143
+        width: 37
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc45ab08ee91253b0800000000000000
+      internalID: -5525325280677571381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Dagger Magic_18
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 94
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9716da53b466150c0800000000000000
+      internalID: -4588774072104689287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Dagger Magic_19
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 94
+        width: 41
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b941aa49eb35e960800000000000000
+      internalID: 7630571016814676403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Dagger Magic_20
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 94
+        width: 34
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59c1ea7c62874deb0800000000000000
+      internalID: -4695996403486417771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Dagger Magic_21
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 94
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84abc1d34fce85a50800000000000000
+      internalID: 6510213795105520200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Dagger Magic_22
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 94
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c278c97322d4d820800000000000000
+      internalID: 2942207506388644547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Dagger Magic_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 36
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 120a27bfc59c2d0e0800000000000000
+      internalID: -2246511862911688671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Dagger Magic_24
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 45
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b2c0c5f26a59fa80800000000000000
+      internalID: -8432609446198197583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Dagger Magic_25
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 28
+        width: 55
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8acaaf8d6d0c050a0800000000000000
+      internalID: -6894799000508388184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Dagger Magic_26
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 45
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b61b086fedae06f0800000000000000
+      internalID: -716444046950984009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Dagger Magic_27
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 40
+        width: 43
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf6ef277a74e2d800800000000000000
+      internalID: 635821712049432315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Dagger Magic_28
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 36
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3429d93477234fe0800000000000000
+      internalID: -1206076895064939462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Dagger Magic_29
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 36
+        width: 42
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eba03e8c753e1000800000000000000
+      internalID: 8503058379090921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Dagger Magic_30
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 45
+        width: 44
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e034abf0e353ea1f0800000000000000
+      internalID: -1031828723953155314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Dagger Magic_31
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 36
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6b31815837756ef0800000000000000
+      internalID: -115555131658781844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Dagger Magic_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 27
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 880fcfbdeffea15c0800000000000000
+      internalID: -4243815820951752568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Dagger Magic_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 18
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02569bd7b68047510800000000000000
+      internalID: 1545869829858747680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Dagger Magic_34
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 18
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 439b96971f5045660800000000000000
+      internalID: 7373525024594573620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Dagger Magic_35
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 27
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7483386453e6ec30800000000000000
+      internalID: 4388444838584091775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Dagger Magic_36
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 18
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca83b393cb702a3f0800000000000000
+      internalID: -891141271270508372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Dagger Magic_37
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 18
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70af113d8c026b5b0800000000000000
+      internalID: -5353055060176537081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Dagger Magic_38
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 10
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e3f9f84ff8eff1b0800000000000000
+      internalID: -5620517626796444703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Dagger Magic_39
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 27
+        width: 26
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efe98c443e5229700800000000000000
+      internalID: 545540162907053822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Dagger Magic_40
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 18
+        width: 42
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaa2b29181483a1d0800000000000000
+      internalID: -3340681259542435158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Dagger Magic_41
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 27
+        width: 26
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfd192ce775171200800000000000000
+      internalID: 150612717347610109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Dagger Magic_42
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 18
+        width: 26
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d550a2cc9fed3fe40800000000000000
+      internalID: 5689135918752597341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Dagger Magic_43
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 18
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37c296ead63fcd000800000000000000
+      internalID: 62192147279457395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Dagger Magic_44
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 18
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e0e7f80554d33b40800000000000000
+      internalID: 5418908238344610017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Dagger Magic_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceb2141e30162f0e0800000000000000
+      internalID: -2237619395557774356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Dagger Magic_46
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6489be02d86e7c810800000000000000
+      internalID: 1785649271092779078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Dagger Magic_47
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 0
+        width: 26
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cb6eeb0107da1c00800000000000000
+      internalID: 872245877344725958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Dagger Magic_48
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 9
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db1c90e16bb52a210800000000000000
+      internalID: 1342736476655960509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Dagger Magic_49
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 9
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82e30a032ae7ad520800000000000000
+      internalID: 2727631759391866408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Dagger Magic_50
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 0
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 627788b17f40f82a0800000000000000
+      internalID: -6733157458530240730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Dagger Magic_51
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 0
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 219f1ea3b53e9b300800000000000000
+      internalID: 268495633774672146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Dagger Magic_52
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 9
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96354ba42019d6840800000000000000
+      internalID: 5218986982221566825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Dagger Magic_53
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 0
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 147a59d8a506a4bd0800000000000000
+      internalID: -2645195889088026815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Dagger Magic_54
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 42
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd8ccd9dc5565c860800000000000000
+      internalID: 7549551799823026399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Dagger Magic_55
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 9
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d888010843fb258c0800000000000000
+      internalID: -4011934085825918835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Dagger Magic_56
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 9
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6c00b544b74a1330800000000000000
+      internalID: 3682334484917652591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Dagger Magic_57
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 9
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 880b994a984304630800000000000000
+      internalID: 3909182242334290056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Arcade - Ghouls n Ghosts - Dagger Magic_0: 2365405586838301258
+      Arcade - Ghouls n Ghosts - Dagger Magic_1: 8579819224399791332
+      Arcade - Ghouls n Ghosts - Dagger Magic_10: 6794013526532049214
+      Arcade - Ghouls n Ghosts - Dagger Magic_11: 8833286117995856261
+      Arcade - Ghouls n Ghosts - Dagger Magic_12: 3956045786219348898
+      Arcade - Ghouls n Ghosts - Dagger Magic_13: 1057282322637097457
+      Arcade - Ghouls n Ghosts - Dagger Magic_14: 6193531931582177271
+      Arcade - Ghouls n Ghosts - Dagger Magic_15: 2137599396230866151
+      Arcade - Ghouls n Ghosts - Dagger Magic_16: 1051399973903027082
+      Arcade - Ghouls n Ghosts - Dagger Magic_17: -5525325280677571381
+      Arcade - Ghouls n Ghosts - Dagger Magic_18: -4588774072104689287
+      Arcade - Ghouls n Ghosts - Dagger Magic_19: 7630571016814676403
+      Arcade - Ghouls n Ghosts - Dagger Magic_2: -2331142347840135552
+      Arcade - Ghouls n Ghosts - Dagger Magic_20: -4695996403486417771
+      Arcade - Ghouls n Ghosts - Dagger Magic_21: 6510213795105520200
+      Arcade - Ghouls n Ghosts - Dagger Magic_22: 2942207506388644547
+      Arcade - Ghouls n Ghosts - Dagger Magic_23: -2246511862911688671
+      Arcade - Ghouls n Ghosts - Dagger Magic_24: -8432609446198197583
+      Arcade - Ghouls n Ghosts - Dagger Magic_25: -6894799000508388184
+      Arcade - Ghouls n Ghosts - Dagger Magic_26: -716444046950984009
+      Arcade - Ghouls n Ghosts - Dagger Magic_27: 635821712049432315
+      Arcade - Ghouls n Ghosts - Dagger Magic_28: -1206076895064939462
+      Arcade - Ghouls n Ghosts - Dagger Magic_29: 8503058379090921
+      Arcade - Ghouls n Ghosts - Dagger Magic_3: -1871577129724220475
+      Arcade - Ghouls n Ghosts - Dagger Magic_30: -1031828723953155314
+      Arcade - Ghouls n Ghosts - Dagger Magic_31: -115555131658781844
+      Arcade - Ghouls n Ghosts - Dagger Magic_32: -4243815820951752568
+      Arcade - Ghouls n Ghosts - Dagger Magic_33: 1545869829858747680
+      Arcade - Ghouls n Ghosts - Dagger Magic_34: 7373525024594573620
+      Arcade - Ghouls n Ghosts - Dagger Magic_35: 4388444838584091775
+      Arcade - Ghouls n Ghosts - Dagger Magic_36: -891141271270508372
+      Arcade - Ghouls n Ghosts - Dagger Magic_37: -5353055060176537081
+      Arcade - Ghouls n Ghosts - Dagger Magic_38: -5620517626796444703
+      Arcade - Ghouls n Ghosts - Dagger Magic_39: 545540162907053822
+      Arcade - Ghouls n Ghosts - Dagger Magic_4: 8609820786366448376
+      Arcade - Ghouls n Ghosts - Dagger Magic_40: -3340681259542435158
+      Arcade - Ghouls n Ghosts - Dagger Magic_41: 150612717347610109
+      Arcade - Ghouls n Ghosts - Dagger Magic_42: 5689135918752597341
+      Arcade - Ghouls n Ghosts - Dagger Magic_43: 62192147279457395
+      Arcade - Ghouls n Ghosts - Dagger Magic_44: 5418908238344610017
+      Arcade - Ghouls n Ghosts - Dagger Magic_45: -2237619395557774356
+      Arcade - Ghouls n Ghosts - Dagger Magic_46: 1785649271092779078
+      Arcade - Ghouls n Ghosts - Dagger Magic_47: 872245877344725958
+      Arcade - Ghouls n Ghosts - Dagger Magic_48: 1342736476655960509
+      Arcade - Ghouls n Ghosts - Dagger Magic_49: 2727631759391866408
+      Arcade - Ghouls n Ghosts - Dagger Magic_5: 1291302346969512145
+      Arcade - Ghouls n Ghosts - Dagger Magic_50: -6733157458530240730
+      Arcade - Ghouls n Ghosts - Dagger Magic_51: 268495633774672146
+      Arcade - Ghouls n Ghosts - Dagger Magic_52: 5218986982221566825
+      Arcade - Ghouls n Ghosts - Dagger Magic_53: -2645195889088026815
+      Arcade - Ghouls n Ghosts - Dagger Magic_54: 7549551799823026399
+      Arcade - Ghouls n Ghosts - Dagger Magic_55: -4011934085825918835
+      Arcade - Ghouls n Ghosts - Dagger Magic_56: 3682334484917652591
+      Arcade - Ghouls n Ghosts - Dagger Magic_57: 3909182242334290056
+      Arcade - Ghouls n Ghosts - Dagger Magic_6: 5818004601662974073
+      Arcade - Ghouls n Ghosts - Dagger Magic_7: 7900170268261764730
+      Arcade - Ghouls n Ghosts - Dagger Magic_8: -6767042390280793922
+      Arcade - Ghouls n Ghosts - Dagger Magic_9: 441204688931581709
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

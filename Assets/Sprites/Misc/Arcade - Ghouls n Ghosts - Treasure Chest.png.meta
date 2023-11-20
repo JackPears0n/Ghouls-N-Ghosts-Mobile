@@ -1,0 +1,1348 @@
+fileFormatVersion: 2
+guid: 3d702537c6ad4d947a39f8eab124c4fe
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1966110242274164311
+    second: Arcade - Ghouls n Ghosts - Treasure Chest_0
+  - first:
+      213: -4429865847637026659
+    second: Arcade - Ghouls n Ghosts - Treasure Chest_1
+  - first:
+      213: -2102755138194801645
+    second: Arcade - Ghouls n Ghosts - Treasure Chest_2
+  - first:
+      213: -7176574438846532386
+    second: Arcade - Ghouls n Ghosts - Treasure Chest_3
+  - first:
+      213: -704169459837808815
+    second: Arcade - Ghouls n Ghosts - Treasure Chest_4
+  - first:
+      213: -7833637483305637814
+    second: Arcade - Ghouls n Ghosts - Treasure Chest_5
+  - first:
+      213: -3267203736243045712
+    second: Arcade - Ghouls n Ghosts - Treasure Chest_6
+  - first:
+      213: 1356941701933823249
+    second: Arcade - Ghouls n Ghosts - Treasure Chest_7
+  - first:
+      213: 917875074469807215
+    second: Arcade - Ghouls n Ghosts - Treasure Chest_8
+  - first:
+      213: 3962000453685783218
+    second: Arcade - Ghouls n Ghosts - Treasure Chest_9
+  - first:
+      213: -8547641108257959038
+    second: Arcade - Ghouls n Ghosts - Treasure Chest_10
+  - first:
+      213: 6005002898670796169
+    second: Arcade - Ghouls n Ghosts - Treasure Chest_11
+  - first:
+      213: -8106565898596511000
+    second: Arcade - Ghouls n Ghosts - Treasure Chest_12
+  - first:
+      213: -1985530699889352385
+    second: Arcade - Ghouls n Ghosts - Treasure Chest_13
+  - first:
+      213: 1808749811268690002
+    second: Arcade - Ghouls n Ghosts - Treasure Chest_14
+  - first:
+      213: -6194670225013255826
+    second: Arcade - Ghouls n Ghosts - Treasure Chest_15
+  - first:
+      213: -1692555267578814071
+    second: Arcade - Ghouls n Ghosts - Treasure Chest_16
+  - first:
+      213: -3242592464659618828
+    second: Arcade - Ghouls n Ghosts - Treasure Chest_17
+  - first:
+      213: -8898309129666824169
+    second: Arcade - Ghouls n Ghosts - Treasure Chest_18
+  - first:
+      213: 4947000811356562703
+    second: Arcade - Ghouls n Ghosts - Treasure Chest_19
+  - first:
+      213: 2475932450399572027
+    second: Arcade - Ghouls n Ghosts - Treasure Chest_20
+  - first:
+      213: 2169850328833319687
+    second: Arcade - Ghouls n Ghosts - Treasure Chest_21
+  - first:
+      213: 2722645244579068043
+    second: Arcade - Ghouls n Ghosts - Treasure Chest_22
+  - first:
+      213: -9026041125695658719
+    second: Arcade - Ghouls n Ghosts - Treasure Chest_23
+  - first:
+      213: 5756473538119844357
+    second: Arcade - Ghouls n Ghosts - Treasure Chest_24
+  - first:
+      213: 3080699076730858219
+    second: Arcade - Ghouls n Ghosts - Treasure Chest_25
+  - first:
+      213: 907584715382250570
+    second: Arcade - Ghouls n Ghosts - Treasure Chest_26
+  - first:
+      213: 7356026522703260109
+    second: Arcade - Ghouls n Ghosts - Treasure Chest_27
+  - first:
+      213: -1641205331581804765
+    second: Arcade - Ghouls n Ghosts - Treasure Chest_28
+  - first:
+      213: -3604533267458316788
+    second: Arcade - Ghouls n Ghosts - Treasure Chest_29
+  - first:
+      213: 2902698764152342101
+    second: Arcade - Ghouls n Ghosts - Treasure Chest_30
+  - first:
+      213: 3370343361204756678
+    second: Arcade - Ghouls n Ghosts - Treasure Chest_31
+  - first:
+      213: 5540532813892980712
+    second: Arcade - Ghouls n Ghosts - Treasure Chest_32
+  - first:
+      213: 2032467706857127817
+    second: Arcade - Ghouls n Ghosts - Treasure Chest_33
+  - first:
+      213: -4765121063368410620
+    second: Arcade - Ghouls n Ghosts - Treasure Chest_34
+  - first:
+      213: 2459523631775554795
+    second: Arcade - Ghouls n Ghosts - Treasure Chest_35
+  - first:
+      213: -4286543749511981683
+    second: Arcade - Ghouls n Ghosts - Treasure Chest_36
+  - first:
+      213: -1817748285898347583
+    second: Arcade - Ghouls n Ghosts - Treasure Chest_37
+  - first:
+      213: 2479404423759300759
+    second: Arcade - Ghouls n Ghosts - Treasure Chest_38
+  - first:
+      213: -7528314267601273109
+    second: Arcade - Ghouls n Ghosts - Treasure Chest_39
+  - first:
+      213: 842920956155780235
+    second: Arcade - Ghouls n Ghosts - Treasure Chest_40
+  - first:
+      213: 5386675693894207102
+    second: Arcade - Ghouls n Ghosts - Treasure Chest_41
+  - first:
+      213: -8185590605028410092
+    second: Arcade - Ghouls n Ghosts - Treasure Chest_42
+  - first:
+      213: 7456014488594714433
+    second: Arcade - Ghouls n Ghosts - Treasure Chest_43
+  - first:
+      213: 1804767141241055511
+    second: Arcade - Ghouls n Ghosts - Treasure Chest_44
+  - first:
+      213: -7626073277471121592
+    second: Arcade - Ghouls n Ghosts - Treasure Chest_45
+  - first:
+      213: -827615678027047190
+    second: Arcade - Ghouls n Ghosts - Treasure Chest_46
+  - first:
+      213: -3935261271378174332
+    second: Arcade - Ghouls n Ghosts - Treasure Chest_47
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Treasure Chest_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 79
+        width: 32
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a1cdfbc629f6b4e0800000000000000
+      internalID: -1966110242274164311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Treasure Chest_1
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 79
+        width: 34
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d98d5f46b74f582c0800000000000000
+      internalID: -4429865847637026659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Treasure Chest_2
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 46
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31c754ab75381d2e0800000000000000
+      internalID: -2102755138194801645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Treasure Chest_3
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 79
+        width: 34
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed4776c229fa76c90800000000000000
+      internalID: -7176574438846532386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Treasure Chest_4
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 48
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15f40bc6b994a36f0800000000000000
+      internalID: -704169459837808815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Treasure Chest_5
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 79
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a48e16c9634594390800000000000000
+      internalID: -7833637483305637814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Treasure Chest_6
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 62
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ba7764238f88a2d0800000000000000
+      internalID: -3267203736243045712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Treasure Chest_7
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 79
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 115fdacd943d4d210800000000000000
+      internalID: 1356941701933823249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Treasure Chest_8
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 66
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6445f16482fcbc00800000000000000
+      internalID: 917875074469807215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Treasure Chest_9
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 46
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2baa0e9cb6adbf630800000000000000
+      internalID: 3962000453685783218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Treasure Chest_10
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 61
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28312ca03bda06980800000000000000
+      internalID: -8547641108257959038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Treasure Chest_11
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 66
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98db67a025e065350800000000000000
+      internalID: 6005002898670796169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Treasure Chest_12
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 64
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e21cd10441bf7f80800000000000000
+      internalID: -8106565898596511000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Treasure Chest_13
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 68
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f316676295af174e0800000000000000
+      internalID: -1985530699889352385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Treasure Chest_14
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 47
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 250a934ce58f91910800000000000000
+      internalID: 1808749811268690002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Treasure Chest_15
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 46
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e615569404c180aa0800000000000000
+      internalID: -6194670225013255826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Treasure Chest_16
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 52
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 981af31a3f5d288e0800000000000000
+      internalID: -1692555267578814071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Treasure Chest_17
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 47
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f3ea98555ffff2d0800000000000000
+      internalID: -3242592464659618828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Treasure Chest_18
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 47
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 718f798edfad28480800000000000000
+      internalID: -8898309129666824169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Treasure Chest_19
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 37
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f052a70170747a440800000000000000
+      internalID: 4947000811356562703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Treasure Chest_20
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 28
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b30dde112774c5220800000000000000
+      internalID: 2475932450399572027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Treasure Chest_21
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 28
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 703efd1b06bdc1e10800000000000000
+      internalID: 2169850328833319687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Treasure Chest_22
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 29
+        width: 60
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b88ba8cbc67c8c520800000000000000
+      internalID: 2722645244579068043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Treasure Chest_23
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 28
+        width: 26
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 125e7de0b6f0db280800000000000000
+      internalID: -9026041125695658719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Treasure Chest_24
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 28
+        width: 26
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 502c19e0f2a13ef40800000000000000
+      internalID: 5756473538119844357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Treasure Chest_25
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 37
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beaaa60fc77d0ca20800000000000000
+      internalID: 3080699076730858219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Treasure Chest_26
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 37
+        width: 42
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4cdee37d73689c00800000000000000
+      internalID: 907584715382250570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Treasure Chest_27
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 37
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc96414062bd51660800000000000000
+      internalID: 7356026522703260109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Treasure Chest_28
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 19
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32fd69742744939e0800000000000000
+      internalID: -1641205331581804765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Treasure Chest_29
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 10
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c06a11447102afdc0800000000000000
+      internalID: -3604533267458316788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Treasure Chest_30
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 19
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55604479525784820800000000000000
+      internalID: 2902698764152342101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Treasure Chest_31
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 10
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c0a4bf1e6dd5ce20800000000000000
+      internalID: 3370343361204756678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Treasure Chest_32
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 10
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ef8c7e3d3de3ec40800000000000000
+      internalID: 5540532813892980712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Treasure Chest_33
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 19
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98ffba46c96c43c10800000000000000
+      internalID: 2032467706857127817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Treasure Chest_34
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 19
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40ab13ab3a3eeddb0800000000000000
+      internalID: -4765121063368410620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Treasure Chest_35
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 11
+        width: 71
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bec19a446bbf12220800000000000000
+      internalID: 2459523631775554795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Treasure Chest_36
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 10
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d85da20cb232384c0800000000000000
+      internalID: -4286543749511981683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Treasure Chest_37
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 10
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cb24f7909f06c6e0800000000000000
+      internalID: -1817748285898347583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Treasure Chest_38
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 19
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79884bcdf2d986220800000000000000
+      internalID: 2479404423759300759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Treasure Chest_39
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 10
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beefe127f0e068790800000000000000
+      internalID: -7528314267601273109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Treasure Chest_40
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 19
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8cd565c428a2bb00800000000000000
+      internalID: 842920956155780235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Treasure Chest_41
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 10
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e768bc6f00151ca40800000000000000
+      internalID: 5386675693894207102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Treasure Chest_42
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41db18eb6b0f66e80800000000000000
+      internalID: -8185590605028410092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Treasure Chest_43
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1
+        width: 26
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14f8ad87ca5197760800000000000000
+      internalID: 7456014488594714433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Treasure Chest_44
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 1
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71968f32722db0910800000000000000
+      internalID: 1804767141241055511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Treasure Chest_45
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 1
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84f1c3142ceba2690800000000000000
+      internalID: -7626073277471121592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Treasure Chest_46
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 1
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aee57acfce7b384f0800000000000000
+      internalID: -827615678027047190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Treasure Chest_47
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 1
+        width: 42
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48ed62d39b42369c0800000000000000
+      internalID: -3935261271378174332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Arcade - Ghouls n Ghosts - Treasure Chest_0: -1966110242274164311
+      Arcade - Ghouls n Ghosts - Treasure Chest_1: -4429865847637026659
+      Arcade - Ghouls n Ghosts - Treasure Chest_10: -8547641108257959038
+      Arcade - Ghouls n Ghosts - Treasure Chest_11: 6005002898670796169
+      Arcade - Ghouls n Ghosts - Treasure Chest_12: -8106565898596511000
+      Arcade - Ghouls n Ghosts - Treasure Chest_13: -1985530699889352385
+      Arcade - Ghouls n Ghosts - Treasure Chest_14: 1808749811268690002
+      Arcade - Ghouls n Ghosts - Treasure Chest_15: -6194670225013255826
+      Arcade - Ghouls n Ghosts - Treasure Chest_16: -1692555267578814071
+      Arcade - Ghouls n Ghosts - Treasure Chest_17: -3242592464659618828
+      Arcade - Ghouls n Ghosts - Treasure Chest_18: -8898309129666824169
+      Arcade - Ghouls n Ghosts - Treasure Chest_19: 4947000811356562703
+      Arcade - Ghouls n Ghosts - Treasure Chest_2: -2102755138194801645
+      Arcade - Ghouls n Ghosts - Treasure Chest_20: 2475932450399572027
+      Arcade - Ghouls n Ghosts - Treasure Chest_21: 2169850328833319687
+      Arcade - Ghouls n Ghosts - Treasure Chest_22: 2722645244579068043
+      Arcade - Ghouls n Ghosts - Treasure Chest_23: -9026041125695658719
+      Arcade - Ghouls n Ghosts - Treasure Chest_24: 5756473538119844357
+      Arcade - Ghouls n Ghosts - Treasure Chest_25: 3080699076730858219
+      Arcade - Ghouls n Ghosts - Treasure Chest_26: 907584715382250570
+      Arcade - Ghouls n Ghosts - Treasure Chest_27: 7356026522703260109
+      Arcade - Ghouls n Ghosts - Treasure Chest_28: -1641205331581804765
+      Arcade - Ghouls n Ghosts - Treasure Chest_29: -3604533267458316788
+      Arcade - Ghouls n Ghosts - Treasure Chest_3: -7176574438846532386
+      Arcade - Ghouls n Ghosts - Treasure Chest_30: 2902698764152342101
+      Arcade - Ghouls n Ghosts - Treasure Chest_31: 3370343361204756678
+      Arcade - Ghouls n Ghosts - Treasure Chest_32: 5540532813892980712
+      Arcade - Ghouls n Ghosts - Treasure Chest_33: 2032467706857127817
+      Arcade - Ghouls n Ghosts - Treasure Chest_34: -4765121063368410620
+      Arcade - Ghouls n Ghosts - Treasure Chest_35: 2459523631775554795
+      Arcade - Ghouls n Ghosts - Treasure Chest_36: -4286543749511981683
+      Arcade - Ghouls n Ghosts - Treasure Chest_37: -1817748285898347583
+      Arcade - Ghouls n Ghosts - Treasure Chest_38: 2479404423759300759
+      Arcade - Ghouls n Ghosts - Treasure Chest_39: -7528314267601273109
+      Arcade - Ghouls n Ghosts - Treasure Chest_4: -704169459837808815
+      Arcade - Ghouls n Ghosts - Treasure Chest_40: 842920956155780235
+      Arcade - Ghouls n Ghosts - Treasure Chest_41: 5386675693894207102
+      Arcade - Ghouls n Ghosts - Treasure Chest_42: -8185590605028410092
+      Arcade - Ghouls n Ghosts - Treasure Chest_43: 7456014488594714433
+      Arcade - Ghouls n Ghosts - Treasure Chest_44: 1804767141241055511
+      Arcade - Ghouls n Ghosts - Treasure Chest_45: -7626073277471121592
+      Arcade - Ghouls n Ghosts - Treasure Chest_46: -827615678027047190
+      Arcade - Ghouls n Ghosts - Treasure Chest_47: -3935261271378174332
+      Arcade - Ghouls n Ghosts - Treasure Chest_5: -7833637483305637814
+      Arcade - Ghouls n Ghosts - Treasure Chest_6: -3267203736243045712
+      Arcade - Ghouls n Ghosts - Treasure Chest_7: 1356941701933823249
+      Arcade - Ghouls n Ghosts - Treasure Chest_8: 917875074469807215
+      Arcade - Ghouls n Ghosts - Treasure Chest_9: 3962000453685783218
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

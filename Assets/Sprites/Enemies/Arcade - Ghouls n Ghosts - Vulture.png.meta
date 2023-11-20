@@ -1,0 +1,1573 @@
+fileFormatVersion: 2
+guid: 4f9db6e706569d445bcac812a048d9bd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 735002126628822457
+    second: Arcade - Ghouls n Ghosts - Vulture_0
+  - first:
+      213: -751720217807209660
+    second: Arcade - Ghouls n Ghosts - Vulture_1
+  - first:
+      213: -7134659866361498408
+    second: Arcade - Ghouls n Ghosts - Vulture_2
+  - first:
+      213: -4771390120637656878
+    second: Arcade - Ghouls n Ghosts - Vulture_3
+  - first:
+      213: 1826117028655059292
+    second: Arcade - Ghouls n Ghosts - Vulture_4
+  - first:
+      213: 5583605688015526154
+    second: Arcade - Ghouls n Ghosts - Vulture_5
+  - first:
+      213: -7713480602162625744
+    second: Arcade - Ghouls n Ghosts - Vulture_6
+  - first:
+      213: -330593702511859476
+    second: Arcade - Ghouls n Ghosts - Vulture_7
+  - first:
+      213: -7911422271255198811
+    second: Arcade - Ghouls n Ghosts - Vulture_8
+  - first:
+      213: -821525621199467860
+    second: Arcade - Ghouls n Ghosts - Vulture_9
+  - first:
+      213: 5529856204972801724
+    second: Arcade - Ghouls n Ghosts - Vulture_10
+  - first:
+      213: 3383781497071078268
+    second: Arcade - Ghouls n Ghosts - Vulture_11
+  - first:
+      213: 1525737330213097031
+    second: Arcade - Ghouls n Ghosts - Vulture_12
+  - first:
+      213: -2976560939822705945
+    second: Arcade - Ghouls n Ghosts - Vulture_13
+  - first:
+      213: -311968810873108962
+    second: Arcade - Ghouls n Ghosts - Vulture_14
+  - first:
+      213: -8197180156185750754
+    second: Arcade - Ghouls n Ghosts - Vulture_15
+  - first:
+      213: -3291934131880762277
+    second: Arcade - Ghouls n Ghosts - Vulture_16
+  - first:
+      213: 2126798943796030683
+    second: Arcade - Ghouls n Ghosts - Vulture_17
+  - first:
+      213: 5045155349345438721
+    second: Arcade - Ghouls n Ghosts - Vulture_18
+  - first:
+      213: 4479295399316449528
+    second: Arcade - Ghouls n Ghosts - Vulture_19
+  - first:
+      213: 3115054279553121268
+    second: Arcade - Ghouls n Ghosts - Vulture_20
+  - first:
+      213: 432541812516072362
+    second: Arcade - Ghouls n Ghosts - Vulture_21
+  - first:
+      213: 4909044633642347949
+    second: Arcade - Ghouls n Ghosts - Vulture_22
+  - first:
+      213: -4684390101016774436
+    second: Arcade - Ghouls n Ghosts - Vulture_23
+  - first:
+      213: 126473032668892517
+    second: Arcade - Ghouls n Ghosts - Vulture_24
+  - first:
+      213: -3577351062373872436
+    second: Arcade - Ghouls n Ghosts - Vulture_25
+  - first:
+      213: 1655947152890448702
+    second: Arcade - Ghouls n Ghosts - Vulture_26
+  - first:
+      213: -8836489532925888324
+    second: Arcade - Ghouls n Ghosts - Vulture_27
+  - first:
+      213: 2469213856448319655
+    second: Arcade - Ghouls n Ghosts - Vulture_28
+  - first:
+      213: 7522354630205685778
+    second: Arcade - Ghouls n Ghosts - Vulture_29
+  - first:
+      213: -5449125645403007061
+    second: Arcade - Ghouls n Ghosts - Vulture_30
+  - first:
+      213: 1139613464117194515
+    second: Arcade - Ghouls n Ghosts - Vulture_31
+  - first:
+      213: 6106657256604916122
+    second: Arcade - Ghouls n Ghosts - Vulture_32
+  - first:
+      213: -5524850785069284545
+    second: Arcade - Ghouls n Ghosts - Vulture_33
+  - first:
+      213: 5984299420710384141
+    second: Arcade - Ghouls n Ghosts - Vulture_34
+  - first:
+      213: -1256192840479196751
+    second: Arcade - Ghouls n Ghosts - Vulture_35
+  - first:
+      213: 9069480925893711556
+    second: Arcade - Ghouls n Ghosts - Vulture_36
+  - first:
+      213: 399726361995983952
+    second: Arcade - Ghouls n Ghosts - Vulture_37
+  - first:
+      213: -1286992355493004180
+    second: Arcade - Ghouls n Ghosts - Vulture_38
+  - first:
+      213: 5160722880622154951
+    second: Arcade - Ghouls n Ghosts - Vulture_39
+  - first:
+      213: -1999231314003813192
+    second: Arcade - Ghouls n Ghosts - Vulture_40
+  - first:
+      213: 2938599599047042781
+    second: Arcade - Ghouls n Ghosts - Vulture_41
+  - first:
+      213: 8683155660625197793
+    second: Arcade - Ghouls n Ghosts - Vulture_42
+  - first:
+      213: -8638282020448155618
+    second: Arcade - Ghouls n Ghosts - Vulture_43
+  - first:
+      213: -5254463151505073243
+    second: Arcade - Ghouls n Ghosts - Vulture_44
+  - first:
+      213: -3958744601662098965
+    second: Arcade - Ghouls n Ghosts - Vulture_45
+  - first:
+      213: 698512350741960549
+    second: Arcade - Ghouls n Ghosts - Vulture_46
+  - first:
+      213: -1441211680601193388
+    second: Arcade - Ghouls n Ghosts - Vulture_47
+  - first:
+      213: -8333503986342767761
+    second: Arcade - Ghouls n Ghosts - Vulture_48
+  - first:
+      213: 3933418509296659338
+    second: Arcade - Ghouls n Ghosts - Vulture_49
+  - first:
+      213: 3375407071953800159
+    second: Arcade - Ghouls n Ghosts - Vulture_50
+  - first:
+      213: 5765790008195177834
+    second: Arcade - Ghouls n Ghosts - Vulture_51
+  - first:
+      213: 7852671177902268162
+    second: Arcade - Ghouls n Ghosts - Vulture_52
+  - first:
+      213: -3986681593086682076
+    second: Arcade - Ghouls n Ghosts - Vulture_53
+  - first:
+      213: -6902265256183626092
+    second: Arcade - Ghouls n Ghosts - Vulture_54
+  - first:
+      213: 3286470506015783927
+    second: Arcade - Ghouls n Ghosts - Vulture_55
+  - first:
+      213: -1825564297054328301
+    second: Arcade - Ghouls n Ghosts - Vulture_56
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Vulture_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 226
+        width: 46
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bd1eda3a80433a00800000000000000
+      internalID: 735002126628822457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Vulture_1
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 226
+        width: 38
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44b3f17d17a5195f0800000000000000
+      internalID: -751720217807209660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Vulture_2
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 226
+        width: 34
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d4794017a89cfc90800000000000000
+      internalID: -7134659866361498408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Vulture_3
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 226
+        width: 47
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d0959617fd98cdb0800000000000000
+      internalID: -4771390120637656878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Vulture_4
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 226
+        width: 47
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c51d64b23cba75910800000000000000
+      internalID: 1826117028655059292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Vulture_5
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 193
+        width: 47
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0914004ac3fc7d40800000000000000
+      internalID: 5583605688015526154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Vulture_6
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 193
+        width: 45
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0330b36924634f490800000000000000
+      internalID: -7713480602162625744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Vulture_7
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 193
+        width: 35
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce8acc477ce796bf0800000000000000
+      internalID: -330593702511859476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Vulture_8
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 193
+        width: 49
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a348bd5c5bf43290800000000000000
+      internalID: -7911422271255198811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Vulture_9
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 195
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caa0686dcca5994f0800000000000000
+      internalID: -821525621199467860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Vulture_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 162
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbeb4648beefdbc40800000000000000
+      internalID: 5529856204972801724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Vulture_11
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 160
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7b0672f75b95fe20800000000000000
+      internalID: 3383781497071078268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Vulture_12
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 160
+        width: 39
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74e87e3a4028c2510800000000000000
+      internalID: 1525737330213097031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Vulture_13
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 160
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e29091889121b6d0800000000000000
+      internalID: -2976560939822705945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Vulture_14
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 160
+        width: 37
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1648e6f40aababf0800000000000000
+      internalID: -311968810873108962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Vulture_15
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 120
+        width: 44
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e13daa61414cd3e80800000000000000
+      internalID: -8197180156185750754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Vulture_16
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 123
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5463453953b052d0800000000000000
+      internalID: -3291934131880762277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Vulture_17
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 122
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdc63a10f58e38d10800000000000000
+      internalID: 2126798943796030683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Vulture_18
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 111
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10c85625f0ef30640800000000000000
+      internalID: 5045155349345438721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Vulture_19
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 111
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f86c40fe67a92e30800000000000000
+      internalID: 4479295399316449528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Vulture_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 78
+        width: 57
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fbf2dcec55ea3b20800000000000000
+      internalID: 3115054279553121268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Vulture_21
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 78
+        width: 57
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aab268d9c72b00600800000000000000
+      internalID: 432541812516072362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Vulture_22
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 97
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dad2ac6c51e602440800000000000000
+      internalID: 4909044633642347949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Vulture_23
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 78
+        width: 54
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd8f987a504bdfeb0800000000000000
+      internalID: -4684390101016774436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Vulture_24
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 80
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56d45e99d8251c100800000000000000
+      internalID: 126473032668892517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Vulture_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 37
+        width: 58
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cccc6529922ba5ec0800000000000000
+      internalID: -3577351062373872436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Vulture_26
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 48
+        width: 63
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3bcad6792b1bf610800000000000000
+      internalID: 1655947152890448702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Vulture_27
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 49
+        width: 62
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb8be78669b7e5580800000000000000
+      internalID: -8836489532925888324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Vulture_28
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 62
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a013148be8644220800000000000000
+      internalID: 2469213856448319655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Vulture_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 36
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 210cce75ea5c46860800000000000000
+      internalID: 7522354630205685778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Vulture_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 27
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba75841a811d064b0800000000000000
+      internalID: -5449125645403007061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Vulture_31
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 19
+        width: 39
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31f25fd5868b0df00800000000000000
+      internalID: 1139613464117194515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Vulture_32
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 36
+        width: 55
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a995ff0ab643fb450800000000000000
+      internalID: 6106657256604916122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Vulture_33
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 22
+        width: 26
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3348ee9b79c353b0800000000000000
+      internalID: -5524850785069284545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Vulture_34
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 27
+        width: 26
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d02b401fd908c0350800000000000000
+      internalID: 5984299420710384141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Vulture_35
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 36
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b939d5644b119ee0800000000000000
+      internalID: -1256192840479196751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Vulture_36
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 36
+        width: 42
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c6531599d44ddd70800000000000000
+      internalID: 9069480925893711556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Vulture_37
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 36
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05c3126220d1c8500800000000000000
+      internalID: 399726361995983952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Vulture_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 18
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6c323e754fa32ee0800000000000000
+      internalID: -1286992355493004180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Vulture_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c4d6b30e129e9740800000000000000
+      internalID: 5160722880622154951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Vulture_40
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 18
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bc17f856bd4144e0800000000000000
+      internalID: -1999231314003813192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Vulture_41
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 9
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd6ed4614c008c820800000000000000
+      internalID: 2938599599047042781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Vulture_42
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1
+        width: 39
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eabcf86114c08870800000000000000
+      internalID: 8683155660625197793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Vulture_43
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 18
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e184b8d1548ae1880800000000000000
+      internalID: -8638282020448155618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Vulture_44
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 18
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ab19216a956417b0800000000000000
+      internalID: -5254463151505073243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Vulture_45
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 9
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be17f6552c6bf09c0800000000000000
+      internalID: -3958744601662098965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Vulture_46
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 18
+        width: 26
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5679239384d91b900800000000000000
+      internalID: 698512350741960549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Vulture_47
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 18
+        width: 39
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4544f93cc99cffbe0800000000000000
+      internalID: -1441211680601193388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Vulture_48
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 9
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f63dcb7f642795c80800000000000000
+      internalID: -8333503986342767761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Vulture_49
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 9
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8be2974b4f469630800000000000000
+      internalID: 3933418509296659338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Vulture_50
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 9
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdbc52829dad7de20800000000000000
+      internalID: 3375407071953800159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Vulture_51
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6d58f7c673340050800000000000000
+      internalID: 5765790008195177834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Vulture_52
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 0
+        width: 26
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20f10d0c4da4afc60800000000000000
+      internalID: 7852671177902268162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Vulture_53
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 0
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42cda73a6367ca8c0800000000000000
+      internalID: -3986681593086682076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Vulture_54
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 0
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49687abb15a3630a0800000000000000
+      internalID: -6902265256183626092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Vulture_55
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 0
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fb7ed34383eb9d20800000000000000
+      internalID: 3286470506015783927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Vulture_56
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 42
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31ae07fa1fa4aa6e0800000000000000
+      internalID: -1825564297054328301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Arcade - Ghouls n Ghosts - Vulture_0: 735002126628822457
+      Arcade - Ghouls n Ghosts - Vulture_1: -751720217807209660
+      Arcade - Ghouls n Ghosts - Vulture_10: 5529856204972801724
+      Arcade - Ghouls n Ghosts - Vulture_11: 3383781497071078268
+      Arcade - Ghouls n Ghosts - Vulture_12: 1525737330213097031
+      Arcade - Ghouls n Ghosts - Vulture_13: -2976560939822705945
+      Arcade - Ghouls n Ghosts - Vulture_14: -311968810873108962
+      Arcade - Ghouls n Ghosts - Vulture_15: -8197180156185750754
+      Arcade - Ghouls n Ghosts - Vulture_16: -3291934131880762277
+      Arcade - Ghouls n Ghosts - Vulture_17: 2126798943796030683
+      Arcade - Ghouls n Ghosts - Vulture_18: 5045155349345438721
+      Arcade - Ghouls n Ghosts - Vulture_19: 4479295399316449528
+      Arcade - Ghouls n Ghosts - Vulture_2: -7134659866361498408
+      Arcade - Ghouls n Ghosts - Vulture_20: 3115054279553121268
+      Arcade - Ghouls n Ghosts - Vulture_21: 432541812516072362
+      Arcade - Ghouls n Ghosts - Vulture_22: 4909044633642347949
+      Arcade - Ghouls n Ghosts - Vulture_23: -4684390101016774436
+      Arcade - Ghouls n Ghosts - Vulture_24: 126473032668892517
+      Arcade - Ghouls n Ghosts - Vulture_25: -3577351062373872436
+      Arcade - Ghouls n Ghosts - Vulture_26: 1655947152890448702
+      Arcade - Ghouls n Ghosts - Vulture_27: -8836489532925888324
+      Arcade - Ghouls n Ghosts - Vulture_28: 2469213856448319655
+      Arcade - Ghouls n Ghosts - Vulture_29: 7522354630205685778
+      Arcade - Ghouls n Ghosts - Vulture_3: -4771390120637656878
+      Arcade - Ghouls n Ghosts - Vulture_30: -5449125645403007061
+      Arcade - Ghouls n Ghosts - Vulture_31: 1139613464117194515
+      Arcade - Ghouls n Ghosts - Vulture_32: 6106657256604916122
+      Arcade - Ghouls n Ghosts - Vulture_33: -5524850785069284545
+      Arcade - Ghouls n Ghosts - Vulture_34: 5984299420710384141
+      Arcade - Ghouls n Ghosts - Vulture_35: -1256192840479196751
+      Arcade - Ghouls n Ghosts - Vulture_36: 9069480925893711556
+      Arcade - Ghouls n Ghosts - Vulture_37: 399726361995983952
+      Arcade - Ghouls n Ghosts - Vulture_38: -1286992355493004180
+      Arcade - Ghouls n Ghosts - Vulture_39: 5160722880622154951
+      Arcade - Ghouls n Ghosts - Vulture_4: 1826117028655059292
+      Arcade - Ghouls n Ghosts - Vulture_40: -1999231314003813192
+      Arcade - Ghouls n Ghosts - Vulture_41: 2938599599047042781
+      Arcade - Ghouls n Ghosts - Vulture_42: 8683155660625197793
+      Arcade - Ghouls n Ghosts - Vulture_43: -8638282020448155618
+      Arcade - Ghouls n Ghosts - Vulture_44: -5254463151505073243
+      Arcade - Ghouls n Ghosts - Vulture_45: -3958744601662098965
+      Arcade - Ghouls n Ghosts - Vulture_46: 698512350741960549
+      Arcade - Ghouls n Ghosts - Vulture_47: -1441211680601193388
+      Arcade - Ghouls n Ghosts - Vulture_48: -8333503986342767761
+      Arcade - Ghouls n Ghosts - Vulture_49: 3933418509296659338
+      Arcade - Ghouls n Ghosts - Vulture_5: 5583605688015526154
+      Arcade - Ghouls n Ghosts - Vulture_50: 3375407071953800159
+      Arcade - Ghouls n Ghosts - Vulture_51: 5765790008195177834
+      Arcade - Ghouls n Ghosts - Vulture_52: 7852671177902268162
+      Arcade - Ghouls n Ghosts - Vulture_53: -3986681593086682076
+      Arcade - Ghouls n Ghosts - Vulture_54: -6902265256183626092
+      Arcade - Ghouls n Ghosts - Vulture_55: 3286470506015783927
+      Arcade - Ghouls n Ghosts - Vulture_56: -1825564297054328301
+      Arcade - Ghouls n Ghosts - Vulture_6: -7713480602162625744
+      Arcade - Ghouls n Ghosts - Vulture_7: -330593702511859476
+      Arcade - Ghouls n Ghosts - Vulture_8: -7911422271255198811
+      Arcade - Ghouls n Ghosts - Vulture_9: -821525621199467860
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

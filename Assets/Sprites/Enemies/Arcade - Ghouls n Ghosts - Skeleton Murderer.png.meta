@@ -1,0 +1,1773 @@
+fileFormatVersion: 2
+guid: f4c1c08ba9088f742a2dae077a7dad3a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -513793947437933218
+    second: Arcade - Ghouls n Ghosts - Skeleton Murderer_0
+  - first:
+      213: 4209517651095147944
+    second: Arcade - Ghouls n Ghosts - Skeleton Murderer_1
+  - first:
+      213: -521323163710607423
+    second: Arcade - Ghouls n Ghosts - Skeleton Murderer_2
+  - first:
+      213: 5752120313224857548
+    second: Arcade - Ghouls n Ghosts - Skeleton Murderer_3
+  - first:
+      213: 8450166554706645600
+    second: Arcade - Ghouls n Ghosts - Skeleton Murderer_4
+  - first:
+      213: -5771667956797556063
+    second: Arcade - Ghouls n Ghosts - Skeleton Murderer_5
+  - first:
+      213: -5044016219277814861
+    second: Arcade - Ghouls n Ghosts - Skeleton Murderer_6
+  - first:
+      213: -1446837842156633439
+    second: Arcade - Ghouls n Ghosts - Skeleton Murderer_7
+  - first:
+      213: 2798378732471268170
+    second: Arcade - Ghouls n Ghosts - Skeleton Murderer_8
+  - first:
+      213: 7505240228149070031
+    second: Arcade - Ghouls n Ghosts - Skeleton Murderer_9
+  - first:
+      213: -1383075582514687891
+    second: Arcade - Ghouls n Ghosts - Skeleton Murderer_10
+  - first:
+      213: -8609853053756780311
+    second: Arcade - Ghouls n Ghosts - Skeleton Murderer_11
+  - first:
+      213: -7815671505844722103
+    second: Arcade - Ghouls n Ghosts - Skeleton Murderer_12
+  - first:
+      213: -7011962159176772478
+    second: Arcade - Ghouls n Ghosts - Skeleton Murderer_13
+  - first:
+      213: 1998988098356432482
+    second: Arcade - Ghouls n Ghosts - Skeleton Murderer_14
+  - first:
+      213: -8637213897765340840
+    second: Arcade - Ghouls n Ghosts - Skeleton Murderer_15
+  - first:
+      213: 6315321420572798148
+    second: Arcade - Ghouls n Ghosts - Skeleton Murderer_16
+  - first:
+      213: -4662799453265511728
+    second: Arcade - Ghouls n Ghosts - Skeleton Murderer_17
+  - first:
+      213: 6807303761896013101
+    second: Arcade - Ghouls n Ghosts - Skeleton Murderer_18
+  - first:
+      213: 3857283762283754849
+    second: Arcade - Ghouls n Ghosts - Skeleton Murderer_19
+  - first:
+      213: -6747384610051041117
+    second: Arcade - Ghouls n Ghosts - Skeleton Murderer_20
+  - first:
+      213: -8699511516190349829
+    second: Arcade - Ghouls n Ghosts - Skeleton Murderer_21
+  - first:
+      213: -7105554514882854614
+    second: Arcade - Ghouls n Ghosts - Skeleton Murderer_22
+  - first:
+      213: -907519264882556896
+    second: Arcade - Ghouls n Ghosts - Skeleton Murderer_23
+  - first:
+      213: -1672161819327219793
+    second: Arcade - Ghouls n Ghosts - Skeleton Murderer_24
+  - first:
+      213: -7969402777162023693
+    second: Arcade - Ghouls n Ghosts - Skeleton Murderer_25
+  - first:
+      213: -1084057083690719416
+    second: Arcade - Ghouls n Ghosts - Skeleton Murderer_26
+  - first:
+      213: 6082722783892951436
+    second: Arcade - Ghouls n Ghosts - Skeleton Murderer_27
+  - first:
+      213: 737662618758108293
+    second: Arcade - Ghouls n Ghosts - Skeleton Murderer_28
+  - first:
+      213: -5812638325151675232
+    second: Arcade - Ghouls n Ghosts - Skeleton Murderer_29
+  - first:
+      213: -2689072591248269047
+    second: Arcade - Ghouls n Ghosts - Skeleton Murderer_30
+  - first:
+      213: -8986120990599826775
+    second: Arcade - Ghouls n Ghosts - Skeleton Murderer_31
+  - first:
+      213: 1449419779145540115
+    second: Arcade - Ghouls n Ghosts - Skeleton Murderer_32
+  - first:
+      213: 5763229152643692202
+    second: Arcade - Ghouls n Ghosts - Skeleton Murderer_33
+  - first:
+      213: -9132460813693348486
+    second: Arcade - Ghouls n Ghosts - Skeleton Murderer_34
+  - first:
+      213: -5600901633350818653
+    second: Arcade - Ghouls n Ghosts - Skeleton Murderer_35
+  - first:
+      213: 6590454877478791178
+    second: Arcade - Ghouls n Ghosts - Skeleton Murderer_36
+  - first:
+      213: -3052013545384331001
+    second: Arcade - Ghouls n Ghosts - Skeleton Murderer_37
+  - first:
+      213: -3283155236448486977
+    second: Arcade - Ghouls n Ghosts - Skeleton Murderer_38
+  - first:
+      213: -4790681296666794381
+    second: Arcade - Ghouls n Ghosts - Skeleton Murderer_39
+  - first:
+      213: 7037926841058695634
+    second: Arcade - Ghouls n Ghosts - Skeleton Murderer_40
+  - first:
+      213: -71027625219493754
+    second: Arcade - Ghouls n Ghosts - Skeleton Murderer_41
+  - first:
+      213: -778700434214384634
+    second: Arcade - Ghouls n Ghosts - Skeleton Murderer_42
+  - first:
+      213: -8337883688476314817
+    second: Arcade - Ghouls n Ghosts - Skeleton Murderer_43
+  - first:
+      213: 5845115683446806687
+    second: Arcade - Ghouls n Ghosts - Skeleton Murderer_44
+  - first:
+      213: 3279851881325211458
+    second: Arcade - Ghouls n Ghosts - Skeleton Murderer_45
+  - first:
+      213: 8142241586917537262
+    second: Arcade - Ghouls n Ghosts - Skeleton Murderer_46
+  - first:
+      213: -5301838416593237781
+    second: Arcade - Ghouls n Ghosts - Skeleton Murderer_47
+  - first:
+      213: 6765664393865696630
+    second: Arcade - Ghouls n Ghosts - Skeleton Murderer_48
+  - first:
+      213: -7469640294785041149
+    second: Arcade - Ghouls n Ghosts - Skeleton Murderer_49
+  - first:
+      213: -7870823051063788520
+    second: Arcade - Ghouls n Ghosts - Skeleton Murderer_50
+  - first:
+      213: -1049380202741582275
+    second: Arcade - Ghouls n Ghosts - Skeleton Murderer_51
+  - first:
+      213: 574626812011053653
+    second: Arcade - Ghouls n Ghosts - Skeleton Murderer_52
+  - first:
+      213: -6968298521453395484
+    second: Arcade - Ghouls n Ghosts - Skeleton Murderer_53
+  - first:
+      213: -3234725454829407986
+    second: Arcade - Ghouls n Ghosts - Skeleton Murderer_54
+  - first:
+      213: 3525822945429157680
+    second: Arcade - Ghouls n Ghosts - Skeleton Murderer_55
+  - first:
+      213: -1304264704670768280
+    second: Arcade - Ghouls n Ghosts - Skeleton Murderer_56
+  - first:
+      213: 7609889624997077520
+    second: Arcade - Ghouls n Ghosts - Skeleton Murderer_57
+  - first:
+      213: 8285869341407428782
+    second: Arcade - Ghouls n Ghosts - Skeleton Murderer_58
+  - first:
+      213: 3974993315680858870
+    second: Arcade - Ghouls n Ghosts - Skeleton Murderer_59
+  - first:
+      213: 5404821064465473797
+    second: Arcade - Ghouls n Ghosts - Skeleton Murderer_60
+  - first:
+      213: -766450443079547212
+    second: Arcade - Ghouls n Ghosts - Skeleton Murderer_61
+  - first:
+      213: 4216328335654202899
+    second: Arcade - Ghouls n Ghosts - Skeleton Murderer_62
+  - first:
+      213: 955062358660817829
+    second: Arcade - Ghouls n Ghosts - Skeleton Murderer_63
+  - first:
+      213: -1645679559401025954
+    second: Arcade - Ghouls n Ghosts - Skeleton Murderer_64
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Skeleton Murderer_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 440
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5d57338023aed8f0800000000000000
+      internalID: -513793947437933218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Skeleton Murderer_1
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 437
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a5534d20063b6a30800000000000000
+      internalID: 4209517651095147944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Skeleton Murderer_2
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 440
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cfa8dd3853e3c8f0800000000000000
+      internalID: -521323163710607423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Skeleton Murderer_3
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 437
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc78317e2f2a3df40800000000000000
+      internalID: 5752120313224857548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Skeleton Murderer_4
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 390
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0621d2ae5b5054570800000000000000
+      internalID: 8450166554706645600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Skeleton Murderer_5
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 388
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aab399a29ae6efa0800000000000000
+      internalID: -5771667956797556063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Skeleton Murderer_6
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 388
+        width: 46
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b313a019fd000ab0800000000000000
+      internalID: -5044016219277814861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Skeleton Murderer_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 347
+        width: 40
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a249a2f5accbebe0800000000000000
+      internalID: -1446837842156633439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Skeleton Murderer_8
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 339
+        width: 49
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4335f771a6d5d620800000000000000
+      internalID: 2798378732471268170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Skeleton Murderer_9
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 339
+        width: 49
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc80cc81938f72860800000000000000
+      internalID: 7505240228149070031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Skeleton Murderer_10
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 339
+        width: 49
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6012b6e5145ecce0800000000000000
+      internalID: -1383075582514687891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Skeleton Murderer_11
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 290
+        width: 49
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e0d38ab348a38880800000000000000
+      internalID: -8609853053756780311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Skeleton Murderer_12
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 290
+        width: 49
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 946abf4bc28298390800000000000000
+      internalID: -7815671505844722103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Skeleton Murderer_13
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 295
+        width: 49
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28499c3319180be90800000000000000
+      internalID: -7011962159176772478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Skeleton Murderer_14
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 290
+        width: 43
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26ec4c89515ddbb10800000000000000
+      internalID: 1998988098356432482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Skeleton Murderer_15
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 241
+        width: 18
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85931aec8b3722880800000000000000
+      internalID: -8637213897765340840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Skeleton Murderer_16
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 241
+        width: 23
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cc28ab3f5784a750800000000000000
+      internalID: 6315321420572798148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Skeleton Murderer_17
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 241
+        width: 28
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0da39311a986a4fb0800000000000000
+      internalID: -4662799453265511728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Skeleton Murderer_18
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 241
+        width: 33
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2dfdfd64b6687e50800000000000000
+      internalID: 6807303761896013101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Skeleton Murderer_19
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 192
+        width: 31
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1653ec02523d78530800000000000000
+      internalID: 3857283762283754849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Skeleton Murderer_20
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 192
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a858f242797c52a0800000000000000
+      internalID: -6747384610051041117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Skeleton Murderer_21
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 143
+        width: 44
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf5ed063e50254780800000000000000
+      internalID: -8699511516190349829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Skeleton Murderer_22
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 192
+        width: 43
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a210c38c0dff36d90800000000000000
+      internalID: -7105554514882854614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Skeleton Murderer_23
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 192
+        width: 43
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0200add6908d763f0800000000000000
+      internalID: -907519264882556896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Skeleton Murderer_24
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 143
+        width: 43
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa7b7005fa94bc8e0800000000000000
+      internalID: -1672161819327219793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Skeleton Murderer_25
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 143
+        width: 46
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fcfe3bd56ef66190800000000000000
+      internalID: -7969402777162023693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Skeleton Murderer_26
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 146
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8476e5273d7a4f0f0800000000000000
+      internalID: -1084057083690719416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Skeleton Murderer_27
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 94
+        width: 36
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c815d11f42c2a6450800000000000000
+      internalID: 6082722783892951436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Skeleton Murderer_28
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 94
+        width: 40
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58459235e34bc3a00800000000000000
+      internalID: 737662618758108293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Skeleton Murderer_29
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 97
+        width: 48
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ac438d6d3c555fa0800000000000000
+      internalID: -5812638325151675232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Skeleton Murderer_30
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 62
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 901686fb9be7eaad0800000000000000
+      internalID: -2689072591248269047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Skeleton Murderer_31
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 51
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a2bd9ec192ea4380800000000000000
+      internalID: -8986120990599826775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Skeleton Murderer_32
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 49
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 312256a1c9f5d1410800000000000000
+      internalID: 1449419779145540115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Skeleton Murderer_33
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 50
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa6b082216a1bff40800000000000000
+      internalID: 5763229152643692202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Skeleton Murderer_34
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 45
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7512aa964bf24180800000000000000
+      internalID: -9132460813693348486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Skeleton Murderer_35
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 47
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a4283aa3a99542b0800000000000000
+      internalID: -5600901633350818653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Skeleton Murderer_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 36
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a082d581bcff57b50800000000000000
+      internalID: 6590454877478791178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Skeleton Murderer_37
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 27
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 709bfa9c9d115a5d0800000000000000
+      internalID: -3052013545384331001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Skeleton Murderer_38
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 27
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb9360515b3ef62d0800000000000000
+      internalID: -3283155236448486977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Skeleton Murderer_39
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 28
+        width: 60
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37661182eb4148db0800000000000000
+      internalID: -4790681296666794381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Skeleton Murderer_40
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 27
+        width: 26
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d99d746c2dbba160800000000000000
+      internalID: 7037926841058695634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Skeleton Murderer_41
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 27
+        width: 26
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6807d8d40c8a30ff0800000000000000
+      internalID: -71027625219493754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Skeleton Murderer_42
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 36
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60c8530b4108135f0800000000000000
+      internalID: -778700434214384634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Skeleton Murderer_43
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 36
+        width: 42
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3378d916f2e94c80800000000000000
+      internalID: -8337883688476314817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Skeleton Murderer_44
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 36
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9859eeceb50e1150800000000000000
+      internalID: 5845115683446806687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Skeleton Murderer_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 18
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24f294e98ef548d20800000000000000
+      internalID: 3279851881325211458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Skeleton Murderer_46
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee5f1a7759d0ff070800000000000000
+      internalID: 8142241586917537262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Skeleton Murderer_47
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 18
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be8c07aec061c66b0800000000000000
+      internalID: -5301838416593237781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Skeleton Murderer_48
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 9
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6759fd19be774ed50800000000000000
+      internalID: 6765664393865696630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Skeleton Murderer_49
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 9
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30db46d4ab1865890800000000000000
+      internalID: -7469640294785041149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Skeleton Murderer_50
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 18
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81cf26fe22835c290800000000000000
+      internalID: -7870823051063788520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Skeleton Murderer_51
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 18
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d36b245f34adf61f0800000000000000
+      internalID: -1049380202741582275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Skeleton Murderer_52
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 10
+        width: 55
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55285508a0c79f700800000000000000
+      internalID: 574626812011053653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Skeleton Murderer_53
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 9
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e104e31a61ab4f90800000000000000
+      internalID: -6968298521453395484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Skeleton Murderer_54
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 9
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e01bafe4652fb13d0800000000000000
+      internalID: -3234725454829407986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Skeleton Murderer_55
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 18
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 037f93bc94d3ee030800000000000000
+      internalID: 3525822945429157680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Skeleton Murderer_56
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 18
+        width: 66
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 863e401592256ede0800000000000000
+      internalID: -1304264704670768280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Skeleton Murderer_57
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 9
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 012a1e58b42cb9960800000000000000
+      internalID: 7609889624997077520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Skeleton Murderer_58
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 9
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea0c3edf3425df270800000000000000
+      internalID: 8285869341407428782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Skeleton Murderer_59
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f2b5b53c530a2730800000000000000
+      internalID: 3974993315680858870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Skeleton Murderer_60
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 0
+        width: 26
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50163064f18c10b40800000000000000
+      internalID: 5404821064465473797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Skeleton Murderer_61
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 0
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b68d4202650d55f0800000000000000
+      internalID: -766450443079547212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Skeleton Murderer_62
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 0
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31e251f3848638a30800000000000000
+      internalID: 4216328335654202899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Skeleton Murderer_63
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 0
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a32352b720114d00800000000000000
+      internalID: 955062358660817829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Skeleton Murderer_64
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 42
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5ec7cfe82f5929e0800000000000000
+      internalID: -1645679559401025954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Arcade - Ghouls n Ghosts - Skeleton Murderer_0: -513793947437933218
+      Arcade - Ghouls n Ghosts - Skeleton Murderer_1: 4209517651095147944
+      Arcade - Ghouls n Ghosts - Skeleton Murderer_10: -1383075582514687891
+      Arcade - Ghouls n Ghosts - Skeleton Murderer_11: -8609853053756780311
+      Arcade - Ghouls n Ghosts - Skeleton Murderer_12: -7815671505844722103
+      Arcade - Ghouls n Ghosts - Skeleton Murderer_13: -7011962159176772478
+      Arcade - Ghouls n Ghosts - Skeleton Murderer_14: 1998988098356432482
+      Arcade - Ghouls n Ghosts - Skeleton Murderer_15: -8637213897765340840
+      Arcade - Ghouls n Ghosts - Skeleton Murderer_16: 6315321420572798148
+      Arcade - Ghouls n Ghosts - Skeleton Murderer_17: -4662799453265511728
+      Arcade - Ghouls n Ghosts - Skeleton Murderer_18: 6807303761896013101
+      Arcade - Ghouls n Ghosts - Skeleton Murderer_19: 3857283762283754849
+      Arcade - Ghouls n Ghosts - Skeleton Murderer_2: -521323163710607423
+      Arcade - Ghouls n Ghosts - Skeleton Murderer_20: -6747384610051041117
+      Arcade - Ghouls n Ghosts - Skeleton Murderer_21: -8699511516190349829
+      Arcade - Ghouls n Ghosts - Skeleton Murderer_22: -7105554514882854614
+      Arcade - Ghouls n Ghosts - Skeleton Murderer_23: -907519264882556896
+      Arcade - Ghouls n Ghosts - Skeleton Murderer_24: -1672161819327219793
+      Arcade - Ghouls n Ghosts - Skeleton Murderer_25: -7969402777162023693
+      Arcade - Ghouls n Ghosts - Skeleton Murderer_26: -1084057083690719416
+      Arcade - Ghouls n Ghosts - Skeleton Murderer_27: 6082722783892951436
+      Arcade - Ghouls n Ghosts - Skeleton Murderer_28: 737662618758108293
+      Arcade - Ghouls n Ghosts - Skeleton Murderer_29: -5812638325151675232
+      Arcade - Ghouls n Ghosts - Skeleton Murderer_3: 5752120313224857548
+      Arcade - Ghouls n Ghosts - Skeleton Murderer_30: -2689072591248269047
+      Arcade - Ghouls n Ghosts - Skeleton Murderer_31: -8986120990599826775
+      Arcade - Ghouls n Ghosts - Skeleton Murderer_32: 1449419779145540115
+      Arcade - Ghouls n Ghosts - Skeleton Murderer_33: 5763229152643692202
+      Arcade - Ghouls n Ghosts - Skeleton Murderer_34: -9132460813693348486
+      Arcade - Ghouls n Ghosts - Skeleton Murderer_35: -5600901633350818653
+      Arcade - Ghouls n Ghosts - Skeleton Murderer_36: 6590454877478791178
+      Arcade - Ghouls n Ghosts - Skeleton Murderer_37: -3052013545384331001
+      Arcade - Ghouls n Ghosts - Skeleton Murderer_38: -3283155236448486977
+      Arcade - Ghouls n Ghosts - Skeleton Murderer_39: -4790681296666794381
+      Arcade - Ghouls n Ghosts - Skeleton Murderer_4: 8450166554706645600
+      Arcade - Ghouls n Ghosts - Skeleton Murderer_40: 7037926841058695634
+      Arcade - Ghouls n Ghosts - Skeleton Murderer_41: -71027625219493754
+      Arcade - Ghouls n Ghosts - Skeleton Murderer_42: -778700434214384634
+      Arcade - Ghouls n Ghosts - Skeleton Murderer_43: -8337883688476314817
+      Arcade - Ghouls n Ghosts - Skeleton Murderer_44: 5845115683446806687
+      Arcade - Ghouls n Ghosts - Skeleton Murderer_45: 3279851881325211458
+      Arcade - Ghouls n Ghosts - Skeleton Murderer_46: 8142241586917537262
+      Arcade - Ghouls n Ghosts - Skeleton Murderer_47: -5301838416593237781
+      Arcade - Ghouls n Ghosts - Skeleton Murderer_48: 6765664393865696630
+      Arcade - Ghouls n Ghosts - Skeleton Murderer_49: -7469640294785041149
+      Arcade - Ghouls n Ghosts - Skeleton Murderer_5: -5771667956797556063
+      Arcade - Ghouls n Ghosts - Skeleton Murderer_50: -7870823051063788520
+      Arcade - Ghouls n Ghosts - Skeleton Murderer_51: -1049380202741582275
+      Arcade - Ghouls n Ghosts - Skeleton Murderer_52: 574626812011053653
+      Arcade - Ghouls n Ghosts - Skeleton Murderer_53: -6968298521453395484
+      Arcade - Ghouls n Ghosts - Skeleton Murderer_54: -3234725454829407986
+      Arcade - Ghouls n Ghosts - Skeleton Murderer_55: 3525822945429157680
+      Arcade - Ghouls n Ghosts - Skeleton Murderer_56: -1304264704670768280
+      Arcade - Ghouls n Ghosts - Skeleton Murderer_57: 7609889624997077520
+      Arcade - Ghouls n Ghosts - Skeleton Murderer_58: 8285869341407428782
+      Arcade - Ghouls n Ghosts - Skeleton Murderer_59: 3974993315680858870
+      Arcade - Ghouls n Ghosts - Skeleton Murderer_6: -5044016219277814861
+      Arcade - Ghouls n Ghosts - Skeleton Murderer_60: 5404821064465473797
+      Arcade - Ghouls n Ghosts - Skeleton Murderer_61: -766450443079547212
+      Arcade - Ghouls n Ghosts - Skeleton Murderer_62: 4216328335654202899
+      Arcade - Ghouls n Ghosts - Skeleton Murderer_63: 955062358660817829
+      Arcade - Ghouls n Ghosts - Skeleton Murderer_64: -1645679559401025954
+      Arcade - Ghouls n Ghosts - Skeleton Murderer_7: -1446837842156633439
+      Arcade - Ghouls n Ghosts - Skeleton Murderer_8: 2798378732471268170
+      Arcade - Ghouls n Ghosts - Skeleton Murderer_9: 7505240228149070031
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

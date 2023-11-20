@@ -1,0 +1,3198 @@
+fileFormatVersion: 2
+guid: 9d76688c28427dc41b79c33f34da76a4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3340328313454118886
+    second: Arcade - Ghouls n Ghosts - Shielder_0
+  - first:
+      213: -5039658102791524406
+    second: Arcade - Ghouls n Ghosts - Shielder_1
+  - first:
+      213: 6243788703534131883
+    second: Arcade - Ghouls n Ghosts - Shielder_2
+  - first:
+      213: 6900933984405825181
+    second: Arcade - Ghouls n Ghosts - Shielder_3
+  - first:
+      213: 7200684825779690275
+    second: Arcade - Ghouls n Ghosts - Shielder_4
+  - first:
+      213: 8991503317805263244
+    second: Arcade - Ghouls n Ghosts - Shielder_5
+  - first:
+      213: -8210985648822282568
+    second: Arcade - Ghouls n Ghosts - Shielder_6
+  - first:
+      213: -8706792043333620655
+    second: Arcade - Ghouls n Ghosts - Shielder_7
+  - first:
+      213: -5978608229631773671
+    second: Arcade - Ghouls n Ghosts - Shielder_8
+  - first:
+      213: -5016612446392685037
+    second: Arcade - Ghouls n Ghosts - Shielder_9
+  - first:
+      213: 4357581590122507690
+    second: Arcade - Ghouls n Ghosts - Shielder_10
+  - first:
+      213: 1121140682618497020
+    second: Arcade - Ghouls n Ghosts - Shielder_11
+  - first:
+      213: -872304530225635107
+    second: Arcade - Ghouls n Ghosts - Shielder_12
+  - first:
+      213: 7420751445143655856
+    second: Arcade - Ghouls n Ghosts - Shielder_13
+  - first:
+      213: 2838883385804725811
+    second: Arcade - Ghouls n Ghosts - Shielder_14
+  - first:
+      213: 4479080599836857452
+    second: Arcade - Ghouls n Ghosts - Shielder_15
+  - first:
+      213: 4677254225350863140
+    second: Arcade - Ghouls n Ghosts - Shielder_16
+  - first:
+      213: 4932041582682332254
+    second: Arcade - Ghouls n Ghosts - Shielder_17
+  - first:
+      213: 7805201061272407875
+    second: Arcade - Ghouls n Ghosts - Shielder_18
+  - first:
+      213: 8473072068449702674
+    second: Arcade - Ghouls n Ghosts - Shielder_19
+  - first:
+      213: 1770231589056963140
+    second: Arcade - Ghouls n Ghosts - Shielder_20
+  - first:
+      213: -3739575899576785978
+    second: Arcade - Ghouls n Ghosts - Shielder_21
+  - first:
+      213: -8586007559342065613
+    second: Arcade - Ghouls n Ghosts - Shielder_22
+  - first:
+      213: 749853503450289019
+    second: Arcade - Ghouls n Ghosts - Shielder_23
+  - first:
+      213: 2993694979287263045
+    second: Arcade - Ghouls n Ghosts - Shielder_24
+  - first:
+      213: 1230173224114217840
+    second: Arcade - Ghouls n Ghosts - Shielder_25
+  - first:
+      213: 419755950894644114
+    second: Arcade - Ghouls n Ghosts - Shielder_26
+  - first:
+      213: 2190078624605735995
+    second: Arcade - Ghouls n Ghosts - Shielder_27
+  - first:
+      213: -618535953138641316
+    second: Arcade - Ghouls n Ghosts - Shielder_28
+  - first:
+      213: 6472141422048462128
+    second: Arcade - Ghouls n Ghosts - Shielder_29
+  - first:
+      213: 3383370117917388198
+    second: Arcade - Ghouls n Ghosts - Shielder_30
+  - first:
+      213: -4107998469018273838
+    second: Arcade - Ghouls n Ghosts - Shielder_31
+  - first:
+      213: 1533772514207290706
+    second: Arcade - Ghouls n Ghosts - Shielder_32
+  - first:
+      213: 3550207472833760061
+    second: Arcade - Ghouls n Ghosts - Shielder_33
+  - first:
+      213: 2488889938408707693
+    second: Arcade - Ghouls n Ghosts - Shielder_34
+  - first:
+      213: -3481208109691956148
+    second: Arcade - Ghouls n Ghosts - Shielder_35
+  - first:
+      213: -9069068360728717284
+    second: Arcade - Ghouls n Ghosts - Shielder_36
+  - first:
+      213: -3394759095917174009
+    second: Arcade - Ghouls n Ghosts - Shielder_37
+  - first:
+      213: 5174911977765707846
+    second: Arcade - Ghouls n Ghosts - Shielder_38
+  - first:
+      213: -2056522603088956224
+    second: Arcade - Ghouls n Ghosts - Shielder_39
+  - first:
+      213: -208393774417162723
+    second: Arcade - Ghouls n Ghosts - Shielder_40
+  - first:
+      213: 6247502655230040697
+    second: Arcade - Ghouls n Ghosts - Shielder_41
+  - first:
+      213: 6463284728752438019
+    second: Arcade - Ghouls n Ghosts - Shielder_42
+  - first:
+      213: 5679615624008828834
+    second: Arcade - Ghouls n Ghosts - Shielder_43
+  - first:
+      213: 7596833186912570958
+    second: Arcade - Ghouls n Ghosts - Shielder_44
+  - first:
+      213: 2440170559426149739
+    second: Arcade - Ghouls n Ghosts - Shielder_45
+  - first:
+      213: -1496171633061172342
+    second: Arcade - Ghouls n Ghosts - Shielder_46
+  - first:
+      213: 5534152157944347119
+    second: Arcade - Ghouls n Ghosts - Shielder_47
+  - first:
+      213: -687899371700996525
+    second: Arcade - Ghouls n Ghosts - Shielder_48
+  - first:
+      213: 6511434871024103352
+    second: Arcade - Ghouls n Ghosts - Shielder_49
+  - first:
+      213: 6612170828249723244
+    second: Arcade - Ghouls n Ghosts - Shielder_50
+  - first:
+      213: -4808314675918032026
+    second: Arcade - Ghouls n Ghosts - Shielder_51
+  - first:
+      213: 3232341303197537395
+    second: Arcade - Ghouls n Ghosts - Shielder_52
+  - first:
+      213: 4584728595450845040
+    second: Arcade - Ghouls n Ghosts - Shielder_53
+  - first:
+      213: 4359152677767214396
+    second: Arcade - Ghouls n Ghosts - Shielder_54
+  - first:
+      213: 3757642583137524913
+    second: Arcade - Ghouls n Ghosts - Shielder_55
+  - first:
+      213: 1990908581046373816
+    second: Arcade - Ghouls n Ghosts - Shielder_56
+  - first:
+      213: 423248651989932003
+    second: Arcade - Ghouls n Ghosts - Shielder_57
+  - first:
+      213: -8047887129275813339
+    second: Arcade - Ghouls n Ghosts - Shielder_58
+  - first:
+      213: -5471706555649743823
+    second: Arcade - Ghouls n Ghosts - Shielder_59
+  - first:
+      213: -6277289196193741515
+    second: Arcade - Ghouls n Ghosts - Shielder_60
+  - first:
+      213: -74533115846500552
+    second: Arcade - Ghouls n Ghosts - Shielder_61
+  - first:
+      213: 164649709448658632
+    second: Arcade - Ghouls n Ghosts - Shielder_62
+  - first:
+      213: 3058494938522782578
+    second: Arcade - Ghouls n Ghosts - Shielder_63
+  - first:
+      213: -777612359470090122
+    second: Arcade - Ghouls n Ghosts - Shielder_64
+  - first:
+      213: -8882799618166656621
+    second: Arcade - Ghouls n Ghosts - Shielder_65
+  - first:
+      213: -4134582504517257591
+    second: Arcade - Ghouls n Ghosts - Shielder_66
+  - first:
+      213: 5106047304129178048
+    second: Arcade - Ghouls n Ghosts - Shielder_67
+  - first:
+      213: -8550898096150553695
+    second: Arcade - Ghouls n Ghosts - Shielder_68
+  - first:
+      213: 7984481899983046654
+    second: Arcade - Ghouls n Ghosts - Shielder_69
+  - first:
+      213: 3375360441957282136
+    second: Arcade - Ghouls n Ghosts - Shielder_70
+  - first:
+      213: -2080111545157632250
+    second: Arcade - Ghouls n Ghosts - Shielder_71
+  - first:
+      213: 2238069455399050098
+    second: Arcade - Ghouls n Ghosts - Shielder_72
+  - first:
+      213: -7628129419064346434
+    second: Arcade - Ghouls n Ghosts - Shielder_73
+  - first:
+      213: 1838422450464199923
+    second: Arcade - Ghouls n Ghosts - Shielder_74
+  - first:
+      213: -6176818757908832530
+    second: Arcade - Ghouls n Ghosts - Shielder_75
+  - first:
+      213: 7484111936884260771
+    second: Arcade - Ghouls n Ghosts - Shielder_76
+  - first:
+      213: 6405318528554061885
+    second: Arcade - Ghouls n Ghosts - Shielder_77
+  - first:
+      213: -539369341905752509
+    second: Arcade - Ghouls n Ghosts - Shielder_78
+  - first:
+      213: -7589692769653695522
+    second: Arcade - Ghouls n Ghosts - Shielder_79
+  - first:
+      213: 2702525875134227323
+    second: Arcade - Ghouls n Ghosts - Shielder_80
+  - first:
+      213: 2578953146323363467
+    second: Arcade - Ghouls n Ghosts - Shielder_81
+  - first:
+      213: 3242667573120350595
+    second: Arcade - Ghouls n Ghosts - Shielder_82
+  - first:
+      213: 5177942206710580457
+    second: Arcade - Ghouls n Ghosts - Shielder_83
+  - first:
+      213: 1761689448951486932
+    second: Arcade - Ghouls n Ghosts - Shielder_84
+  - first:
+      213: -3228665858898894913
+    second: Arcade - Ghouls n Ghosts - Shielder_85
+  - first:
+      213: 3675899952557785894
+    second: Arcade - Ghouls n Ghosts - Shielder_86
+  - first:
+      213: -1151053279536266285
+    second: Arcade - Ghouls n Ghosts - Shielder_87
+  - first:
+      213: 6716071873146146325
+    second: Arcade - Ghouls n Ghosts - Shielder_88
+  - first:
+      213: -3487705762409692965
+    second: Arcade - Ghouls n Ghosts - Shielder_89
+  - first:
+      213: 7342057078941854523
+    second: Arcade - Ghouls n Ghosts - Shielder_90
+  - first:
+      213: 2444343405277466940
+    second: Arcade - Ghouls n Ghosts - Shielder_91
+  - first:
+      213: 7768284177609778368
+    second: Arcade - Ghouls n Ghosts - Shielder_92
+  - first:
+      213: 7853904767055322354
+    second: Arcade - Ghouls n Ghosts - Shielder_93
+  - first:
+      213: 1680177499979773277
+    second: Arcade - Ghouls n Ghosts - Shielder_94
+  - first:
+      213: -1824874932580067404
+    second: Arcade - Ghouls n Ghosts - Shielder_95
+  - first:
+      213: -2574117275316260370
+    second: Arcade - Ghouls n Ghosts - Shielder_96
+  - first:
+      213: 852624582138553915
+    second: Arcade - Ghouls n Ghosts - Shielder_97
+  - first:
+      213: -1792771132144379377
+    second: Arcade - Ghouls n Ghosts - Shielder_98
+  - first:
+      213: 9167017689326067988
+    second: Arcade - Ghouls n Ghosts - Shielder_99
+  - first:
+      213: -7233848434557714249
+    second: Arcade - Ghouls n Ghosts - Shielder_100
+  - first:
+      213: 395816777410577189
+    second: Arcade - Ghouls n Ghosts - Shielder_101
+  - first:
+      213: -948860606523740327
+    second: Arcade - Ghouls n Ghosts - Shielder_102
+  - first:
+      213: -7775143216234920724
+    second: Arcade - Ghouls n Ghosts - Shielder_103
+  - first:
+      213: 6057320497213319572
+    second: Arcade - Ghouls n Ghosts - Shielder_104
+  - first:
+      213: 663962122232165445
+    second: Arcade - Ghouls n Ghosts - Shielder_105
+  - first:
+      213: -5821448693681770515
+    second: Arcade - Ghouls n Ghosts - Shielder_106
+  - first:
+      213: -7083442265091268878
+    second: Arcade - Ghouls n Ghosts - Shielder_107
+  - first:
+      213: 2728799827558077773
+    second: Arcade - Ghouls n Ghosts - Shielder_108
+  - first:
+      213: 1052767058026909874
+    second: Arcade - Ghouls n Ghosts - Shielder_109
+  - first:
+      213: 3149419628049826640
+    second: Arcade - Ghouls n Ghosts - Shielder_110
+  - first:
+      213: -8143393927512577427
+    second: Arcade - Ghouls n Ghosts - Shielder_111
+  - first:
+      213: 2312270206253151781
+    second: Arcade - Ghouls n Ghosts - Shielder_112
+  - first:
+      213: 4173197712984481159
+    second: Arcade - Ghouls n Ghosts - Shielder_113
+  - first:
+      213: -8372163313890821299
+    second: Arcade - Ghouls n Ghosts - Shielder_114
+  - first:
+      213: -6537418057981372340
+    second: Arcade - Ghouls n Ghosts - Shielder_115
+  - first:
+      213: -2257828623448473938
+    second: Arcade - Ghouls n Ghosts - Shielder_116
+  - first:
+      213: -2410645775268933955
+    second: Arcade - Ghouls n Ghosts - Shielder_117
+  - first:
+      213: 2119260304272162267
+    second: Arcade - Ghouls n Ghosts - Shielder_118
+  - first:
+      213: 4365147941437658422
+    second: Arcade - Ghouls n Ghosts - Shielder_119
+  - first:
+      213: -5444642752954585472
+    second: Arcade - Ghouls n Ghosts - Shielder_120
+  - first:
+      213: 8872813713078545877
+    second: Arcade - Ghouls n Ghosts - Shielder_121
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Shielder_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 683
+        width: 78
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a183363c815c4a1d0800000000000000
+      internalID: -3340328313454118886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Shielder_1
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 683
+        width: 67
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acf21b128a98f0ab0800000000000000
+      internalID: -5039658102791524406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Shielder_2
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 683
+        width: 105
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baaafbeaeb466a650800000000000000
+      internalID: 6243788703534131883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Shielder_3
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 683
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d962ee665ea05cf50800000000000000
+      internalID: 6900933984405825181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Shielder_4
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 683
+        width: 136
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32bd42cb2b8fde360800000000000000
+      internalID: 7200684825779690275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Shielder_5
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 613
+        width: 53
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c896786e0ac38cc70800000000000000
+      internalID: 8991503317805263244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Shielder_6
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 611
+        width: 55
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b61e1a5e08bc0e80800000000000000
+      internalID: -8210985648822282568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Shielder_7
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 602
+        width: 58
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15ce6e364c24b2780800000000000000
+      internalID: -8706792043333620655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Shielder_8
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 604
+        width: 62
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 914329dbd77b70da0800000000000000
+      internalID: -5978608229631773671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Shielder_9
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 621
+        width: 54
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31ee5f42f89616ab0800000000000000
+      internalID: -5016612446392685037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Shielder_10
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 529
+        width: 71
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aada8076e5d397c30800000000000000
+      internalID: 4357581590122507690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Shielder_11
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 527
+        width: 70
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf7e6b2c2871f8f00800000000000000
+      internalID: 1121140682618497020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Shielder_12
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 522
+        width: 70
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd0efe3c6a3f4e3f0800000000000000
+      internalID: -872304530225635107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Shielder_13
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 522
+        width: 77
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b5114e5f1ecbf660800000000000000
+      internalID: 7420751445143655856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Shielder_14
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 553
+        width: 82
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33e16a9f56db56720800000000000000
+      internalID: 2838883385804725811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Shielder_15
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 449
+        width: 83
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c649e990314e82e30800000000000000
+      internalID: 4479080599836857452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Shielder_16
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 448
+        width: 81
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 429ab32dfe1f8e040800000000000000
+      internalID: 4677254225350863140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Shielder_17
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 446
+        width: 87
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5c5c3930b1227440800000000000000
+      internalID: 4932041582682332254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Shielder_18
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 440
+        width: 86
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34fc4a1f205a15c60800000000000000
+      internalID: 7805201061272407875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Shielder_19
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 483
+        width: 83
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2139a3c6726669570800000000000000
+      internalID: 8473072068449702674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Shielder_20
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 490
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4426aeb4040219810800000000000000
+      internalID: 1770231589056963140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Shielder_21
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 491
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c32d1f488b5a1cc0800000000000000
+      internalID: -3739575899576785978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Shielder_22
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 490
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 338f89a8d9f58d880800000000000000
+      internalID: -8586007559342065613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Shielder_23
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 493
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b739cbad9c3086a00800000000000000
+      internalID: 749853503450289019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Shielder_24
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 491
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 547a94ee8bdbb8920800000000000000
+      internalID: 2993694979287263045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Shielder_25
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 457
+        width: 30
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07366839704721110800000000000000
+      internalID: 1230173224114217840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Shielder_26
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 476
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29b7e6930d543d500800000000000000
+      internalID: 419755950894644114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Shielder_27
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 475
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3c0dc1d7e8b46e10800000000000000
+      internalID: 2190078624605735995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Shielder_28
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 473
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c561d58e3d48a67f0800000000000000
+      internalID: -618535953138641316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Shielder_29
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 473
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0354a4d155aa1d950800000000000000
+      internalID: 6472141422048462128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Shielder_30
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 443
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ad2326423524fe20800000000000000
+      internalID: 3383370117917388198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Shielder_31
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 473
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d7315458257df6c0800000000000000
+      internalID: -4107998469018273838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Shielder_32
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 480
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2555593b9fd094510800000000000000
+      internalID: 1533772514207290706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Shielder_33
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 473
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3b813103eed44130800000000000000
+      internalID: 3550207472833760061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Shielder_34
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 457
+        width: 31
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6615e756305a8220800000000000000
+      internalID: 2488889938408707693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Shielder_35
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 444
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c441a902ba340bfc0800000000000000
+      internalID: -3481208109691956148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Shielder_36
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 439
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c18d70b3062342280800000000000000
+      internalID: -9069068360728717284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Shielder_37
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 375
+        width: 67
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 703a4d5a69463e0d0800000000000000
+      internalID: -3394759095917174009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Shielder_38
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 441
+        width: 32
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 640a3a2a60bf0d740800000000000000
+      internalID: 5174911977765707846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Shielder_39
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 438
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c43252a693c573e0800000000000000
+      internalID: -2056522603088956224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Shielder_40
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 383
+        width: 90
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1e467e57f2ab1df0800000000000000
+      internalID: -208393774417162723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Shielder_41
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 356
+        width: 77
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97adb42709693b650800000000000000
+      internalID: 6247502655230040697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Shielder_42
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 359
+        width: 85
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30bfe73873332b950800000000000000
+      internalID: 6463284728752438019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Shielder_43
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 423
+        width: 32
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a70ec1715c02de40800000000000000
+      internalID: 5679615624008828834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Shielder_44
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 422
+        width: 30
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4e82d3a88f5d6960800000000000000
+      internalID: 7596833186912570958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Shielder_45
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 410
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6d36f9f13a3dd120800000000000000
+      internalID: 2440170559426149739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Shielder_46
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 413
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8b6f58a3d78c3be0800000000000000
+      internalID: -1496171633061172342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Shielder_47
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 423
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe9fb3301124dcc40800000000000000
+      internalID: 5534152157944347119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Shielder_48
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 422
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3563c848a271476f0800000000000000
+      internalID: -687899371700996525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Shielder_49
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 406
+        width: 31
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bfab7124834d5a50800000000000000
+      internalID: 6511434871024103352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Shielder_50
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 406
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c617604e55623cb50800000000000000
+      internalID: 6612170828249723244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Shielder_51
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 382
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 663bb9d174f654db0800000000000000
+      internalID: -4808314675918032026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Shielder_52
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 406
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37499e12a459bdc20800000000000000
+      internalID: 3232341303197537395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Shielder_53
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 406
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0775c6bdd5a30af30800000000000000
+      internalID: 4584728595450845040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Shielder_54
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 389
+        width: 26
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c35f100c342de7c30800000000000000
+      internalID: 4359152677767214396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Shielder_55
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 389
+        width: 25
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bc1bc04504d52430800000000000000
+      internalID: 3757642583137524913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Shielder_56
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 376
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bdcb816ec021ab10800000000000000
+      internalID: 1990908581046373816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Shielder_57
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 372
+        width: 41
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e7d581186eafd500800000000000000
+      internalID: 423248651989932003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Shielder_58
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 370
+        width: 42
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 522b313ab49205090800000000000000
+      internalID: -8047887129275813339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Shielder_59
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 356
+        width: 46
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1342253c0e79014b0800000000000000
+      internalID: -5471706555649743823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Shielder_60
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 353
+        width: 46
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 535897c0cb692e8a0800000000000000
+      internalID: -6277289196193741515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Shielder_61
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 278
+        width: 98
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83f57f9a68437fef0800000000000000
+      internalID: -74533115846500552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Shielder_62
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 281
+        width: 81
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cefe04d904f84200800000000000000
+      internalID: 164649709448658632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Shielder_63
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 279
+        width: 85
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27b0bf521f4f17a20800000000000000
+      internalID: 3058494938522782578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Shielder_64
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 294
+        width: 69
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 678f4d4ddad5535f0800000000000000
+      internalID: -777612359470090122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Shielder_65
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 292
+        width: 68
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39173347fc4f9b480800000000000000
+      internalID: -8882799618166656621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Shielder_66
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 290
+        width: 64
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98634bb3e130f96c0800000000000000
+      internalID: -4134582504517257591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Shielder_67
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 213
+        width: 50
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c9e5f858f25cd640800000000000000
+      internalID: 5106047304129178048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Shielder_68
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 213
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1abd1647c7b155980800000000000000
+      internalID: -8550898096150553695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Shielder_69
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 213
+        width: 58
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef786040cf39ece60800000000000000
+      internalID: 7984481899983046654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Shielder_70
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 216
+        width: 62
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 851f4c34070b7de20800000000000000
+      internalID: 3375360441957282136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Shielder_71
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 218
+        width: 63
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60fb0b11295f123e0800000000000000
+      internalID: -2080111545157632250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Shielder_72
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 221
+        width: 63
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27b56b7df483f0f10800000000000000
+      internalID: 2238069455399050098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Shielder_73
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 225
+        width: 64
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb876fb75b0732690800000000000000
+      internalID: -7628129419064346434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Shielder_74
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 229
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f495037a73638910800000000000000
+      internalID: 1838422450464199923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Shielder_75
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 167
+        width: 51
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeedfdcd018874aa0800000000000000
+      internalID: -6176818757908832530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Shielder_76
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 168
+        width: 50
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3af3f317728ecd760800000000000000
+      internalID: 7484111936884260771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Shielder_77
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 166
+        width: 46
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3051bfc34344e850800000000000000
+      internalID: 6405318528554061885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Shielder_78
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 163
+        width: 39
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34ea8f4f076c388f0800000000000000
+      internalID: -539369341905752509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Shielder_79
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 163
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edbd07e43aefba690800000000000000
+      internalID: -7589692769653695522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Shielder_80
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 163
+        width: 29
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b736daff6fc418520800000000000000
+      internalID: 2702525875134227323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Shielder_81
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 163
+        width: 33
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b86eaf209384ac320800000000000000
+      internalID: 2578953146323363467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Shielder_82
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 164
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38934843af4400d20800000000000000
+      internalID: 3242667573120350595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Shielder_83
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 167
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e48c7ac00fbbd740800000000000000
+      internalID: 5177942206710580457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Shielder_84
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 111
+        width: 73
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d99e415837c27810800000000000000
+      internalID: 1761689448951486932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Shielder_85
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 88
+        width: 75
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbf56ede1897133d0800000000000000
+      internalID: -3228665858898894913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Shielder_86
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 92
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6230516f78b630330800000000000000
+      internalID: 3675899952557785894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Shielder_87
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 105
+        width: 47
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d341bb0423a600f0800000000000000
+      internalID: -1151053279536266285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Shielder_88
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 77
+        width: 48
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51e4edc09c7443d50800000000000000
+      internalID: 6716071873146146325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Shielder_89
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 75
+        width: 32
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd0cc76761e299fc0800000000000000
+      internalID: -3487705762409692965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Shielder_90
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 56
+        width: 50
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3ba8fe630a34e560800000000000000
+      internalID: 7342057078941854523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Shielder_91
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 95
+        width: 66
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c31d1ac506d0ce120800000000000000
+      internalID: 2444343405277466940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Shielder_92
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 38
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c4e7b82d4d7ecb60800000000000000
+      internalID: 7768284177609778368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Shielder_93
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 30
+        width: 60
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fc541c16ccaefc60800000000000000
+      internalID: 7853904767055322354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Shielder_94
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 38
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d55f5e5c880315710800000000000000
+      internalID: 1680177499979773277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Shielder_95
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 38
+        width: 42
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b7dc0cdaedbca6e0800000000000000
+      internalID: -1824874932580067404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Shielder_96
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 38
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee1f392f9f5e64cd0800000000000000
+      internalID: -2574117275316260370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Shielder_97
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 48
+        width: 82
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3662214a8125db00800000000000000
+      internalID: 852624582138553915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Shielder_98
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 29
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0a95f0672cce17e0800000000000000
+      internalID: -1792771132144379377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Shielder_99
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 20
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 411a00ef40ac73f70800000000000000
+      internalID: 9167017689326067988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Shielder_100
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 20
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b00c23ec253c9b90800000000000000
+      internalID: -7233848434557714249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Shielder_101
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 29
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52382bd03493e7500800000000000000
+      internalID: 395816777410577189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Shielder_102
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 20
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95f6ace3e48f4d2f0800000000000000
+      internalID: -948860606523740327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Shielder_103
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 20
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce487867074291490800000000000000
+      internalID: -7775143216234920724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Shielder_104
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 12
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 499a71f26ecef0450800000000000000
+      internalID: 6057320497213319572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Shielder_105
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 29
+        width: 26
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54476f7480ed63900800000000000000
+      internalID: 663962122232165445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Shielder_106
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 20
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: defafe6a14f063fa0800000000000000
+      internalID: -5821448693681770515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Shielder_107
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 29
+        width: 26
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fe1f322ace82bd90800000000000000
+      internalID: -7083442265091268878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Shielder_108
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 20
+        width: 42
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d451fb04cf4aed520800000000000000
+      internalID: 2728799827558077773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Shielder_109
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 11
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b05decbf0e2c9e00800000000000000
+      internalID: 1052767058026909874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Shielder_110
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0538d82277cf4bb20800000000000000
+      internalID: 3149419628049826640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Shielder_111
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 2
+        width: 26
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6a2a845e5adcfe80800000000000000
+      internalID: -8143393927512577427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Shielder_112
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 11
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 526307c6085d61020800000000000000
+      internalID: 2312270206253151781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Shielder_113
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 11
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78d99eb953d2ae930800000000000000
+      internalID: 4173197712984481159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Shielder_114
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 2
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4bfaf9d2d910db80800000000000000
+      internalID: -8372163313890821299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Shielder_115
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 2
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c48dbc9b9ec6645a0800000000000000
+      internalID: -6537418057981372340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Shielder_116
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 11
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaef4a754d49aa0e0800000000000000
+      internalID: -2257828623448473938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Shielder_117
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 2
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbe8cc5807aab8ed0800000000000000
+      internalID: -2410645775268933955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Shielder_118
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 2
+        width: 42
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdd7ab6b400296d10800000000000000
+      internalID: 2119260304272162267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Shielder_119
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 11
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6355b69dcee149c30800000000000000
+      internalID: 4365147941437658422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Shielder_120
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 11
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08eac3d534eb074b0800000000000000
+      internalID: -5444642752954585472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Shielder_121
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 11
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dde246df01922b70800000000000000
+      internalID: 8872813713078545877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Arcade - Ghouls n Ghosts - Shielder_0: -3340328313454118886
+      Arcade - Ghouls n Ghosts - Shielder_1: -5039658102791524406
+      Arcade - Ghouls n Ghosts - Shielder_10: 4357581590122507690
+      Arcade - Ghouls n Ghosts - Shielder_100: -7233848434557714249
+      Arcade - Ghouls n Ghosts - Shielder_101: 395816777410577189
+      Arcade - Ghouls n Ghosts - Shielder_102: -948860606523740327
+      Arcade - Ghouls n Ghosts - Shielder_103: -7775143216234920724
+      Arcade - Ghouls n Ghosts - Shielder_104: 6057320497213319572
+      Arcade - Ghouls n Ghosts - Shielder_105: 663962122232165445
+      Arcade - Ghouls n Ghosts - Shielder_106: -5821448693681770515
+      Arcade - Ghouls n Ghosts - Shielder_107: -7083442265091268878
+      Arcade - Ghouls n Ghosts - Shielder_108: 2728799827558077773
+      Arcade - Ghouls n Ghosts - Shielder_109: 1052767058026909874
+      Arcade - Ghouls n Ghosts - Shielder_11: 1121140682618497020
+      Arcade - Ghouls n Ghosts - Shielder_110: 3149419628049826640
+      Arcade - Ghouls n Ghosts - Shielder_111: -8143393927512577427
+      Arcade - Ghouls n Ghosts - Shielder_112: 2312270206253151781
+      Arcade - Ghouls n Ghosts - Shielder_113: 4173197712984481159
+      Arcade - Ghouls n Ghosts - Shielder_114: -8372163313890821299
+      Arcade - Ghouls n Ghosts - Shielder_115: -6537418057981372340
+      Arcade - Ghouls n Ghosts - Shielder_116: -2257828623448473938
+      Arcade - Ghouls n Ghosts - Shielder_117: -2410645775268933955
+      Arcade - Ghouls n Ghosts - Shielder_118: 2119260304272162267
+      Arcade - Ghouls n Ghosts - Shielder_119: 4365147941437658422
+      Arcade - Ghouls n Ghosts - Shielder_12: -872304530225635107
+      Arcade - Ghouls n Ghosts - Shielder_120: -5444642752954585472
+      Arcade - Ghouls n Ghosts - Shielder_121: 8872813713078545877
+      Arcade - Ghouls n Ghosts - Shielder_13: 7420751445143655856
+      Arcade - Ghouls n Ghosts - Shielder_14: 2838883385804725811
+      Arcade - Ghouls n Ghosts - Shielder_15: 4479080599836857452
+      Arcade - Ghouls n Ghosts - Shielder_16: 4677254225350863140
+      Arcade - Ghouls n Ghosts - Shielder_17: 4932041582682332254
+      Arcade - Ghouls n Ghosts - Shielder_18: 7805201061272407875
+      Arcade - Ghouls n Ghosts - Shielder_19: 8473072068449702674
+      Arcade - Ghouls n Ghosts - Shielder_2: 6243788703534131883
+      Arcade - Ghouls n Ghosts - Shielder_20: 1770231589056963140
+      Arcade - Ghouls n Ghosts - Shielder_21: -3739575899576785978
+      Arcade - Ghouls n Ghosts - Shielder_22: -8586007559342065613
+      Arcade - Ghouls n Ghosts - Shielder_23: 749853503450289019
+      Arcade - Ghouls n Ghosts - Shielder_24: 2993694979287263045
+      Arcade - Ghouls n Ghosts - Shielder_25: 1230173224114217840
+      Arcade - Ghouls n Ghosts - Shielder_26: 419755950894644114
+      Arcade - Ghouls n Ghosts - Shielder_27: 2190078624605735995
+      Arcade - Ghouls n Ghosts - Shielder_28: -618535953138641316
+      Arcade - Ghouls n Ghosts - Shielder_29: 6472141422048462128
+      Arcade - Ghouls n Ghosts - Shielder_3: 6900933984405825181
+      Arcade - Ghouls n Ghosts - Shielder_30: 3383370117917388198
+      Arcade - Ghouls n Ghosts - Shielder_31: -4107998469018273838
+      Arcade - Ghouls n Ghosts - Shielder_32: 1533772514207290706
+      Arcade - Ghouls n Ghosts - Shielder_33: 3550207472833760061
+      Arcade - Ghouls n Ghosts - Shielder_34: 2488889938408707693
+      Arcade - Ghouls n Ghosts - Shielder_35: -3481208109691956148
+      Arcade - Ghouls n Ghosts - Shielder_36: -9069068360728717284
+      Arcade - Ghouls n Ghosts - Shielder_37: -3394759095917174009
+      Arcade - Ghouls n Ghosts - Shielder_38: 5174911977765707846
+      Arcade - Ghouls n Ghosts - Shielder_39: -2056522603088956224
+      Arcade - Ghouls n Ghosts - Shielder_4: 7200684825779690275
+      Arcade - Ghouls n Ghosts - Shielder_40: -208393774417162723
+      Arcade - Ghouls n Ghosts - Shielder_41: 6247502655230040697
+      Arcade - Ghouls n Ghosts - Shielder_42: 6463284728752438019
+      Arcade - Ghouls n Ghosts - Shielder_43: 5679615624008828834
+      Arcade - Ghouls n Ghosts - Shielder_44: 7596833186912570958
+      Arcade - Ghouls n Ghosts - Shielder_45: 2440170559426149739
+      Arcade - Ghouls n Ghosts - Shielder_46: -1496171633061172342
+      Arcade - Ghouls n Ghosts - Shielder_47: 5534152157944347119
+      Arcade - Ghouls n Ghosts - Shielder_48: -687899371700996525
+      Arcade - Ghouls n Ghosts - Shielder_49: 6511434871024103352
+      Arcade - Ghouls n Ghosts - Shielder_5: 8991503317805263244
+      Arcade - Ghouls n Ghosts - Shielder_50: 6612170828249723244
+      Arcade - Ghouls n Ghosts - Shielder_51: -4808314675918032026
+      Arcade - Ghouls n Ghosts - Shielder_52: 3232341303197537395
+      Arcade - Ghouls n Ghosts - Shielder_53: 4584728595450845040
+      Arcade - Ghouls n Ghosts - Shielder_54: 4359152677767214396
+      Arcade - Ghouls n Ghosts - Shielder_55: 3757642583137524913
+      Arcade - Ghouls n Ghosts - Shielder_56: 1990908581046373816
+      Arcade - Ghouls n Ghosts - Shielder_57: 423248651989932003
+      Arcade - Ghouls n Ghosts - Shielder_58: -8047887129275813339
+      Arcade - Ghouls n Ghosts - Shielder_59: -5471706555649743823
+      Arcade - Ghouls n Ghosts - Shielder_6: -8210985648822282568
+      Arcade - Ghouls n Ghosts - Shielder_60: -6277289196193741515
+      Arcade - Ghouls n Ghosts - Shielder_61: -74533115846500552
+      Arcade - Ghouls n Ghosts - Shielder_62: 164649709448658632
+      Arcade - Ghouls n Ghosts - Shielder_63: 3058494938522782578
+      Arcade - Ghouls n Ghosts - Shielder_64: -777612359470090122
+      Arcade - Ghouls n Ghosts - Shielder_65: -8882799618166656621
+      Arcade - Ghouls n Ghosts - Shielder_66: -4134582504517257591
+      Arcade - Ghouls n Ghosts - Shielder_67: 5106047304129178048
+      Arcade - Ghouls n Ghosts - Shielder_68: -8550898096150553695
+      Arcade - Ghouls n Ghosts - Shielder_69: 7984481899983046654
+      Arcade - Ghouls n Ghosts - Shielder_7: -8706792043333620655
+      Arcade - Ghouls n Ghosts - Shielder_70: 3375360441957282136
+      Arcade - Ghouls n Ghosts - Shielder_71: -2080111545157632250
+      Arcade - Ghouls n Ghosts - Shielder_72: 2238069455399050098
+      Arcade - Ghouls n Ghosts - Shielder_73: -7628129419064346434
+      Arcade - Ghouls n Ghosts - Shielder_74: 1838422450464199923
+      Arcade - Ghouls n Ghosts - Shielder_75: -6176818757908832530
+      Arcade - Ghouls n Ghosts - Shielder_76: 7484111936884260771
+      Arcade - Ghouls n Ghosts - Shielder_77: 6405318528554061885
+      Arcade - Ghouls n Ghosts - Shielder_78: -539369341905752509
+      Arcade - Ghouls n Ghosts - Shielder_79: -7589692769653695522
+      Arcade - Ghouls n Ghosts - Shielder_8: -5978608229631773671
+      Arcade - Ghouls n Ghosts - Shielder_80: 2702525875134227323
+      Arcade - Ghouls n Ghosts - Shielder_81: 2578953146323363467
+      Arcade - Ghouls n Ghosts - Shielder_82: 3242667573120350595
+      Arcade - Ghouls n Ghosts - Shielder_83: 5177942206710580457
+      Arcade - Ghouls n Ghosts - Shielder_84: 1761689448951486932
+      Arcade - Ghouls n Ghosts - Shielder_85: -3228665858898894913
+      Arcade - Ghouls n Ghosts - Shielder_86: 3675899952557785894
+      Arcade - Ghouls n Ghosts - Shielder_87: -1151053279536266285
+      Arcade - Ghouls n Ghosts - Shielder_88: 6716071873146146325
+      Arcade - Ghouls n Ghosts - Shielder_89: -3487705762409692965
+      Arcade - Ghouls n Ghosts - Shielder_9: -5016612446392685037
+      Arcade - Ghouls n Ghosts - Shielder_90: 7342057078941854523
+      Arcade - Ghouls n Ghosts - Shielder_91: 2444343405277466940
+      Arcade - Ghouls n Ghosts - Shielder_92: 7768284177609778368
+      Arcade - Ghouls n Ghosts - Shielder_93: 7853904767055322354
+      Arcade - Ghouls n Ghosts - Shielder_94: 1680177499979773277
+      Arcade - Ghouls n Ghosts - Shielder_95: -1824874932580067404
+      Arcade - Ghouls n Ghosts - Shielder_96: -2574117275316260370
+      Arcade - Ghouls n Ghosts - Shielder_97: 852624582138553915
+      Arcade - Ghouls n Ghosts - Shielder_98: -1792771132144379377
+      Arcade - Ghouls n Ghosts - Shielder_99: 9167017689326067988
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

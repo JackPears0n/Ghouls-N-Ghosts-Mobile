@@ -1,0 +1,1073 @@
+fileFormatVersion: 2
+guid: 0d47372e041407e47832536286fb4f33
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1274388331636857016
+    second: Arcade - Ghouls n Ghosts - Axe Magic_0
+  - first:
+      213: -5170542012319754965
+    second: Arcade - Ghouls n Ghosts - Axe Magic_1
+  - first:
+      213: -1702269322367075361
+    second: Arcade - Ghouls n Ghosts - Axe Magic_2
+  - first:
+      213: -4095766272826445578
+    second: Arcade - Ghouls n Ghosts - Axe Magic_3
+  - first:
+      213: -3876997894673846007
+    second: Arcade - Ghouls n Ghosts - Axe Magic_4
+  - first:
+      213: -2967185629316186439
+    second: Arcade - Ghouls n Ghosts - Axe Magic_5
+  - first:
+      213: 5285960943571390057
+    second: Arcade - Ghouls n Ghosts - Axe Magic_6
+  - first:
+      213: -5969549633481872833
+    second: Arcade - Ghouls n Ghosts - Axe Magic_7
+  - first:
+      213: 3167285357903416038
+    second: Arcade - Ghouls n Ghosts - Axe Magic_8
+  - first:
+      213: -9048459607225406163
+    second: Arcade - Ghouls n Ghosts - Axe Magic_9
+  - first:
+      213: 3952989847053666131
+    second: Arcade - Ghouls n Ghosts - Axe Magic_10
+  - first:
+      213: -6321329489026273301
+    second: Arcade - Ghouls n Ghosts - Axe Magic_11
+  - first:
+      213: 570195184157355337
+    second: Arcade - Ghouls n Ghosts - Axe Magic_12
+  - first:
+      213: 1309481975246144781
+    second: Arcade - Ghouls n Ghosts - Axe Magic_13
+  - first:
+      213: 5812505363689027046
+    second: Arcade - Ghouls n Ghosts - Axe Magic_14
+  - first:
+      213: 8428391631102066755
+    second: Arcade - Ghouls n Ghosts - Axe Magic_15
+  - first:
+      213: 6801126015140734846
+    second: Arcade - Ghouls n Ghosts - Axe Magic_16
+  - first:
+      213: -3526200550965884528
+    second: Arcade - Ghouls n Ghosts - Axe Magic_17
+  - first:
+      213: -8199261276096358160
+    second: Arcade - Ghouls n Ghosts - Axe Magic_18
+  - first:
+      213: 7637783153933921782
+    second: Arcade - Ghouls n Ghosts - Axe Magic_19
+  - first:
+      213: -1523240044979071769
+    second: Arcade - Ghouls n Ghosts - Axe Magic_20
+  - first:
+      213: 8811734064549919966
+    second: Arcade - Ghouls n Ghosts - Axe Magic_21
+  - first:
+      213: 2631576118414317150
+    second: Arcade - Ghouls n Ghosts - Axe Magic_22
+  - first:
+      213: -1852779372356368684
+    second: Arcade - Ghouls n Ghosts - Axe Magic_23
+  - first:
+      213: 6892178702731706457
+    second: Arcade - Ghouls n Ghosts - Axe Magic_24
+  - first:
+      213: 1138581923565223824
+    second: Arcade - Ghouls n Ghosts - Axe Magic_25
+  - first:
+      213: -1260481715421118055
+    second: Arcade - Ghouls n Ghosts - Axe Magic_26
+  - first:
+      213: 7238698089601061512
+    second: Arcade - Ghouls n Ghosts - Axe Magic_27
+  - first:
+      213: 2890220231899228523
+    second: Arcade - Ghouls n Ghosts - Axe Magic_28
+  - first:
+      213: -1715405221967241156
+    second: Arcade - Ghouls n Ghosts - Axe Magic_29
+  - first:
+      213: -6764117862237494159
+    second: Arcade - Ghouls n Ghosts - Axe Magic_30
+  - first:
+      213: -3269616839591535910
+    second: Arcade - Ghouls n Ghosts - Axe Magic_31
+  - first:
+      213: -8237717832733135209
+    second: Arcade - Ghouls n Ghosts - Axe Magic_32
+  - first:
+      213: -1052572252235938199
+    second: Arcade - Ghouls n Ghosts - Axe Magic_33
+  - first:
+      213: -309309768897011808
+    second: Arcade - Ghouls n Ghosts - Axe Magic_34
+  - first:
+      213: -3316464921838201370
+    second: Arcade - Ghouls n Ghosts - Axe Magic_35
+  - first:
+      213: 8999559167832139865
+    second: Arcade - Ghouls n Ghosts - Axe Magic_36
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Axe Magic_0
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 37
+        width: 46
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b81e158f698fa110800000000000000
+      internalID: 1274388331636857016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Axe Magic_1
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 45
+        width: 65
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b25927b3f6b8e38b0800000000000000
+      internalID: -5170542012319754965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Axe Magic_2
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 45
+        width: 97
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdbf34002135068e0800000000000000
+      internalID: -1702269322367075361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Axe Magic_3
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 45
+        width: 10
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f07721764ae827c0800000000000000
+      internalID: -4095766272826445578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Axe Magic_4
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 45
+        width: 87
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 901370db4f2223ac0800000000000000
+      internalID: -3876997894673846007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Axe Magic_5
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 79
+        width: 94
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bef6f5146072d6d0800000000000000
+      internalID: -2967185629316186439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Axe Magic_6
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 47
+        width: 8
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96e4922d8718b5940800000000000000
+      internalID: 5285960943571390057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Axe Magic_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 36
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3aef338c36e72da0800000000000000
+      internalID: -5969549633481872833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Axe Magic_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 27
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ea0124804574fb20800000000000000
+      internalID: 3167285357903416038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Axe Magic_9
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 19
+        width: 39
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2debd29de96d6280800000000000000
+      internalID: -9048459607225406163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Axe Magic_10
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 36
+        width: 55
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3570c527257dbd630800000000000000
+      internalID: 3952989847053666131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Axe Magic_11
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 27
+        width: 26
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bef236252502648a0800000000000000
+      internalID: -6321329489026273301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Axe Magic_12
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 27
+        width: 26
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94d665cbf7db9e700800000000000000
+      internalID: 570195184157355337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Axe Magic_13
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 36
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d05c2562be63c2210800000000000000
+      internalID: 1309481975246144781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Axe Magic_14
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 36
+        width: 42
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e5bcb115da2aa050800000000000000
+      internalID: 5812505363689027046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Axe Magic_15
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 36
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 340c6bf6889a7f470800000000000000
+      internalID: 8428391631102066755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Axe Magic_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 18
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e77a12da314726e50800000000000000
+      internalID: 6801126015140734846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Axe Magic_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09944e0184b601fc0800000000000000
+      internalID: -3526200550965884528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Axe Magic_18
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 18
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f819a99f4f563e80800000000000000
+      internalID: -8199261276096358160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Axe Magic_19
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 9
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fda1b1df4bdef960800000000000000
+      internalID: 7637783153933921782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Axe Magic_20
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1
+        width: 39
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e45f53ef3d5cdae0800000000000000
+      internalID: -1523240044979071769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Axe Magic_21
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 18
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edcf4b4f171994a70800000000000000
+      internalID: 8811734064549919966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Axe Magic_22
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 18
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e569c79798c358420800000000000000
+      internalID: 2631576118414317150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Axe Magic_23
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 18
+        width: 26
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d6078f2afa9946e0800000000000000
+      internalID: -1852779372356368684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Axe Magic_24
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 9
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95006d88300f5af50800000000000000
+      internalID: 6892178702731706457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Axe Magic_25
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 18
+        width: 26
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09f39cd1a3e0dcf00800000000000000
+      internalID: 1138581923565223824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Axe Magic_26
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 9
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9910372ee8ed18ee0800000000000000
+      internalID: -1260481715421118055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Axe Magic_27
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 18
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88258fa6f85057460800000000000000
+      internalID: 7238698089601061512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Axe Magic_28
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 18
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b692005ecff1c1820800000000000000
+      internalID: 2890220231899228523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Axe Magic_29
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 9
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c30eaca0a08a138e0800000000000000
+      internalID: -1715405221967241156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Axe Magic_30
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 9
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 174a57264a60122a0800000000000000
+      internalID: -6764117862237494159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Axe Magic_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adad28cbeccff92d0800000000000000
+      internalID: -3269616839591535910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Axe Magic_32
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 0
+        width: 26
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79e6a04c64fbdad80800000000000000
+      internalID: -8237717832733135209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Axe Magic_33
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 0
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9664b050d138461f0800000000000000
+      internalID: -1052572252235938199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Axe Magic_34
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 0
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0afd55b676c15bbf0800000000000000
+      internalID: -309309768897011808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Axe Magic_35
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 0
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e55ac799bc89f1d0800000000000000
+      internalID: -3316464921838201370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Axe Magic_36
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 42
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 958aeb5a16bd4ec70800000000000000
+      internalID: 8999559167832139865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Arcade - Ghouls n Ghosts - Axe Magic_0: 1274388331636857016
+      Arcade - Ghouls n Ghosts - Axe Magic_1: -5170542012319754965
+      Arcade - Ghouls n Ghosts - Axe Magic_10: 3952989847053666131
+      Arcade - Ghouls n Ghosts - Axe Magic_11: -6321329489026273301
+      Arcade - Ghouls n Ghosts - Axe Magic_12: 570195184157355337
+      Arcade - Ghouls n Ghosts - Axe Magic_13: 1309481975246144781
+      Arcade - Ghouls n Ghosts - Axe Magic_14: 5812505363689027046
+      Arcade - Ghouls n Ghosts - Axe Magic_15: 8428391631102066755
+      Arcade - Ghouls n Ghosts - Axe Magic_16: 6801126015140734846
+      Arcade - Ghouls n Ghosts - Axe Magic_17: -3526200550965884528
+      Arcade - Ghouls n Ghosts - Axe Magic_18: -8199261276096358160
+      Arcade - Ghouls n Ghosts - Axe Magic_19: 7637783153933921782
+      Arcade - Ghouls n Ghosts - Axe Magic_2: -1702269322367075361
+      Arcade - Ghouls n Ghosts - Axe Magic_20: -1523240044979071769
+      Arcade - Ghouls n Ghosts - Axe Magic_21: 8811734064549919966
+      Arcade - Ghouls n Ghosts - Axe Magic_22: 2631576118414317150
+      Arcade - Ghouls n Ghosts - Axe Magic_23: -1852779372356368684
+      Arcade - Ghouls n Ghosts - Axe Magic_24: 6892178702731706457
+      Arcade - Ghouls n Ghosts - Axe Magic_25: 1138581923565223824
+      Arcade - Ghouls n Ghosts - Axe Magic_26: -1260481715421118055
+      Arcade - Ghouls n Ghosts - Axe Magic_27: 7238698089601061512
+      Arcade - Ghouls n Ghosts - Axe Magic_28: 2890220231899228523
+      Arcade - Ghouls n Ghosts - Axe Magic_29: -1715405221967241156
+      Arcade - Ghouls n Ghosts - Axe Magic_3: -4095766272826445578
+      Arcade - Ghouls n Ghosts - Axe Magic_30: -6764117862237494159
+      Arcade - Ghouls n Ghosts - Axe Magic_31: -3269616839591535910
+      Arcade - Ghouls n Ghosts - Axe Magic_32: -8237717832733135209
+      Arcade - Ghouls n Ghosts - Axe Magic_33: -1052572252235938199
+      Arcade - Ghouls n Ghosts - Axe Magic_34: -309309768897011808
+      Arcade - Ghouls n Ghosts - Axe Magic_35: -3316464921838201370
+      Arcade - Ghouls n Ghosts - Axe Magic_36: 8999559167832139865
+      Arcade - Ghouls n Ghosts - Axe Magic_4: -3876997894673846007
+      Arcade - Ghouls n Ghosts - Axe Magic_5: -2967185629316186439
+      Arcade - Ghouls n Ghosts - Axe Magic_6: 5285960943571390057
+      Arcade - Ghouls n Ghosts - Axe Magic_7: -5969549633481872833
+      Arcade - Ghouls n Ghosts - Axe Magic_8: 3167285357903416038
+      Arcade - Ghouls n Ghosts - Axe Magic_9: -9048459607225406163
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

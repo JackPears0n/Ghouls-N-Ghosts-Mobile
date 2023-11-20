@@ -1,0 +1,1573 @@
+fileFormatVersion: 2
+guid: 455d6dbf6b3b84f4c9b35224dcc343bb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1130065410385895089
+    second: Arcade - Ghouls n Ghosts - Pig Man_0
+  - first:
+      213: -8939199388170014892
+    second: Arcade - Ghouls n Ghosts - Pig Man_1
+  - first:
+      213: 5030038606951141551
+    second: Arcade - Ghouls n Ghosts - Pig Man_2
+  - first:
+      213: -8832684015733852017
+    second: Arcade - Ghouls n Ghosts - Pig Man_3
+  - first:
+      213: 938781924117424849
+    second: Arcade - Ghouls n Ghosts - Pig Man_4
+  - first:
+      213: -2404259583720225467
+    second: Arcade - Ghouls n Ghosts - Pig Man_5
+  - first:
+      213: -8761972145089859722
+    second: Arcade - Ghouls n Ghosts - Pig Man_6
+  - first:
+      213: 51546468334058342
+    second: Arcade - Ghouls n Ghosts - Pig Man_7
+  - first:
+      213: -3656189326765532649
+    second: Arcade - Ghouls n Ghosts - Pig Man_8
+  - first:
+      213: 2642017966739617816
+    second: Arcade - Ghouls n Ghosts - Pig Man_9
+  - first:
+      213: -7130203744037974934
+    second: Arcade - Ghouls n Ghosts - Pig Man_10
+  - first:
+      213: -8977011789317968327
+    second: Arcade - Ghouls n Ghosts - Pig Man_11
+  - first:
+      213: 5877649983143466017
+    second: Arcade - Ghouls n Ghosts - Pig Man_12
+  - first:
+      213: 6149803640304204353
+    second: Arcade - Ghouls n Ghosts - Pig Man_13
+  - first:
+      213: 3937342686436351788
+    second: Arcade - Ghouls n Ghosts - Pig Man_14
+  - first:
+      213: 8389858307567258977
+    second: Arcade - Ghouls n Ghosts - Pig Man_15
+  - first:
+      213: -6534521175969422533
+    second: Arcade - Ghouls n Ghosts - Pig Man_16
+  - first:
+      213: -1697965108650912303
+    second: Arcade - Ghouls n Ghosts - Pig Man_17
+  - first:
+      213: 5662726768309124414
+    second: Arcade - Ghouls n Ghosts - Pig Man_18
+  - first:
+      213: -3412409847972535667
+    second: Arcade - Ghouls n Ghosts - Pig Man_19
+  - first:
+      213: 9211124490094711727
+    second: Arcade - Ghouls n Ghosts - Pig Man_20
+  - first:
+      213: -2351070716455925204
+    second: Arcade - Ghouls n Ghosts - Pig Man_21
+  - first:
+      213: 6839941481814912379
+    second: Arcade - Ghouls n Ghosts - Pig Man_22
+  - first:
+      213: 303858184909313791
+    second: Arcade - Ghouls n Ghosts - Pig Man_23
+  - first:
+      213: 7681115288979296174
+    second: Arcade - Ghouls n Ghosts - Pig Man_24
+  - first:
+      213: 3949640213833185378
+    second: Arcade - Ghouls n Ghosts - Pig Man_25
+  - first:
+      213: 8519785438217966955
+    second: Arcade - Ghouls n Ghosts - Pig Man_26
+  - first:
+      213: 431260186534541325
+    second: Arcade - Ghouls n Ghosts - Pig Man_27
+  - first:
+      213: -1396229093740444952
+    second: Arcade - Ghouls n Ghosts - Pig Man_28
+  - first:
+      213: 2153817020920941731
+    second: Arcade - Ghouls n Ghosts - Pig Man_29
+  - first:
+      213: -2986764711899696747
+    second: Arcade - Ghouls n Ghosts - Pig Man_30
+  - first:
+      213: -4812819128672215585
+    second: Arcade - Ghouls n Ghosts - Pig Man_31
+  - first:
+      213: -2972064740464997376
+    second: Arcade - Ghouls n Ghosts - Pig Man_32
+  - first:
+      213: -898254735258242128
+    second: Arcade - Ghouls n Ghosts - Pig Man_33
+  - first:
+      213: 522876873840009753
+    second: Arcade - Ghouls n Ghosts - Pig Man_34
+  - first:
+      213: 2448302457883632176
+    second: Arcade - Ghouls n Ghosts - Pig Man_35
+  - first:
+      213: 822884214260985413
+    second: Arcade - Ghouls n Ghosts - Pig Man_36
+  - first:
+      213: -7468576954955990068
+    second: Arcade - Ghouls n Ghosts - Pig Man_37
+  - first:
+      213: -2403630863645321012
+    second: Arcade - Ghouls n Ghosts - Pig Man_38
+  - first:
+      213: 4560644777423478061
+    second: Arcade - Ghouls n Ghosts - Pig Man_39
+  - first:
+      213: 7778665155120655161
+    second: Arcade - Ghouls n Ghosts - Pig Man_40
+  - first:
+      213: -3598168432181235384
+    second: Arcade - Ghouls n Ghosts - Pig Man_41
+  - first:
+      213: -4463116144269024980
+    second: Arcade - Ghouls n Ghosts - Pig Man_42
+  - first:
+      213: 2931226317289344664
+    second: Arcade - Ghouls n Ghosts - Pig Man_43
+  - first:
+      213: -5011741840304805449
+    second: Arcade - Ghouls n Ghosts - Pig Man_44
+  - first:
+      213: 7111251844115782361
+    second: Arcade - Ghouls n Ghosts - Pig Man_45
+  - first:
+      213: 1287294824791311858
+    second: Arcade - Ghouls n Ghosts - Pig Man_46
+  - first:
+      213: -7241423715992607398
+    second: Arcade - Ghouls n Ghosts - Pig Man_47
+  - first:
+      213: 5318207287844141897
+    second: Arcade - Ghouls n Ghosts - Pig Man_48
+  - first:
+      213: 2016525742803811208
+    second: Arcade - Ghouls n Ghosts - Pig Man_49
+  - first:
+      213: -6579599124271415880
+    second: Arcade - Ghouls n Ghosts - Pig Man_50
+  - first:
+      213: -431872273235749646
+    second: Arcade - Ghouls n Ghosts - Pig Man_51
+  - first:
+      213: 2346343376372280258
+    second: Arcade - Ghouls n Ghosts - Pig Man_52
+  - first:
+      213: -8638414301041211919
+    second: Arcade - Ghouls n Ghosts - Pig Man_53
+  - first:
+      213: -4799277505859235484
+    second: Arcade - Ghouls n Ghosts - Pig Man_54
+  - first:
+      213: -6758136270029559822
+    second: Arcade - Ghouls n Ghosts - Pig Man_55
+  - first:
+      213: 6315048507596220181
+    second: Arcade - Ghouls n Ghosts - Pig Man_56
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Pig Man_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 240
+        width: 64
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bed10fd08cceaf00800000000000000
+      internalID: 1130065410385895089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Pig Man_1
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 240
+        width: 64
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45facb3b48591f380800000000000000
+      internalID: -8939199388170014892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Pig Man_2
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 240
+        width: 64
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa0d2d576794ec540800000000000000
+      internalID: 5030038606951141551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Pig Man_3
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 175
+        width: 64
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f88b9ec6fa00c6580800000000000000
+      internalID: -8832684015733852017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Pig Man_4
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 178
+        width: 64
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1daa394af29370d00800000000000000
+      internalID: 938781924117424849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Pig Man_5
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 175
+        width: 64
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 545078c95aa52aed0800000000000000
+      internalID: -2404259583720225467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Pig Man_6
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 158
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67f2d08c1c8376680800000000000000
+      internalID: -8761972145089859722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Pig Man_7
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 158
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66b3a766d3127b000800000000000000
+      internalID: 51546468334058342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Pig Man_8
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 158
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71ad09abd2b924dc0800000000000000
+      internalID: -3656189326765532649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Pig Man_9
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 110
+        width: 63
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 818f6bdb7555aa420800000000000000
+      internalID: 2642017966739617816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Pig Man_10
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 110
+        width: 64
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6cc474e87d6c0d90800000000000000
+      internalID: -7130203744037974934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Pig Man_11
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 141
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93e6531075f3b6380800000000000000
+      internalID: -8977011789317968327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Pig Man_12
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 125
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 124d85fb48b919150800000000000000
+      internalID: 5877649983143466017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Pig Man_13
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 141
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14a7cbae3dd785550800000000000000
+      internalID: 6149803640304204353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Pig Man_14
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 125
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2f5508ff4044a630800000000000000
+      internalID: 3937342686436351788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Pig Man_15
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 126
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16d086aeda3ce6470800000000000000
+      internalID: 8389858307567258977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Pig Man_16
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 90
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b332311ac97b055a0800000000000000
+      internalID: -6534521175969422533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Pig Man_17
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 107
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d5dad9dabd9f68e0800000000000000
+      internalID: -1697965108650912303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Pig Man_18
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 90
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3d392d4efb069e40800000000000000
+      internalID: 5662726768309124414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Pig Man_19
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 90
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d826d8fa25fa4a0d0800000000000000
+      internalID: -3412409847972535667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Pig Man_20
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 37
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa31ffdcbec74df70800000000000000
+      internalID: 9211124490094711727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Pig Man_21
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 40
+        width: 61
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2a42dfc3a15f5fd0800000000000000
+      internalID: -2351070716455925204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Pig Man_22
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 73
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7d6904c98a5cee50800000000000000
+      internalID: 6839941481814912379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Pig Man_23
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 56
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff65d95c865873400800000000000000
+      internalID: 303858184909313791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Pig Man_24
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 73
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eafce66b8adc89a60800000000000000
+      internalID: 7681115288979296174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Pig Man_25
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 73
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 268ff1039d0ffc630800000000000000
+      internalID: 3949640213833185378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Pig Man_26
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 56
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b65178f57bb5c3670800000000000000
+      internalID: 8519785438217966955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Pig Man_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 36
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d08f820dad42cf500800000000000000
+      internalID: 431260186534541325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Pig Man_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 27
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e2098a69099f9ce0800000000000000
+      internalID: -1396229093740444952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Pig Man_29
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 19
+        width: 39
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3acce2b4b25e3ed10800000000000000
+      internalID: 2153817020920941731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Pig Man_30
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 36
+        width: 50
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 591fb8fa151ec86d0800000000000000
+      internalID: -2986764711899696747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Pig Man_31
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 22
+        width: 26
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdd994b708e653db0800000000000000
+      internalID: -4812819128672215585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Pig Man_32
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 27
+        width: 26
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00cce1f7dda11c6d0800000000000000
+      internalID: -2972064740464997376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Pig Man_33
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 36
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b3be13d312c883f0800000000000000
+      internalID: -898254735258242128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Pig Man_34
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 36
+        width: 42
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91220861fb1a14700800000000000000
+      internalID: 522876873840009753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Pig Man_35
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 36
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 032aed02d1e1af120800000000000000
+      internalID: 2448302457883632176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Pig Man_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 18
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54e6d4245d87b6b00800000000000000
+      internalID: 822884214260985413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Pig Man_37
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccbfd2664d84a5890800000000000000
+      internalID: -7468576954955990068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Pig Man_38
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 18
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc85149e67694aed0800000000000000
+      internalID: -2403630863645321012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Pig Man_39
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 9
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2d1111034aaa4f30800000000000000
+      internalID: 4560644777423478061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Pig Man_40
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1
+        width: 39
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93beca5debe53fb60800000000000000
+      internalID: 7778665155120655161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Pig Man_41
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 18
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84130d5ffdcb01ec0800000000000000
+      internalID: -3598168432181235384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Pig Man_42
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 18
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c21a88d6383df02c0800000000000000
+      internalID: -4463116144269024980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Pig Man_43
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 9
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89ece462ececda820800000000000000
+      internalID: 2931226317289344664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Pig Man_44
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 18
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b96bae7957b27ab0800000000000000
+      internalID: -5011741840304805449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Pig Man_45
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 18
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dadcdc00ed30b260800000000000000
+      internalID: 7111251844115782361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Pig Man_46
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 18
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f582e0a2d36dd110800000000000000
+      internalID: 1287294824791311858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Pig Man_47
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 18
+        width: 31
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a55eb2c3f7b418b90800000000000000
+      internalID: -7241423715992607398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Pig Man_48
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 9
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94bf7d9e9511ec940800000000000000
+      internalID: 5318207287844141897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Pig Man_49
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 9
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88b7044aa732cfb10800000000000000
+      internalID: 2016525742803811208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Pig Man_50
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 9
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bdb459e47190b4a0800000000000000
+      internalID: -6579599124271415880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Pig Man_51
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f45175a47ea10af0800000000000000
+      internalID: -431872273235749646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Pig Man_52
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 0
+        width: 26
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cba2cd8ed2ef8020800000000000000
+      internalID: 2346343376372280258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Pig Man_53
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 0
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f5c8c326ff2e1880800000000000000
+      internalID: -8638414301041211919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Pig Man_54
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 0
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 461dcbc398a856db0800000000000000
+      internalID: -4799277505859235484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Pig Man_55
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 0
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f764395ed64632a0800000000000000
+      internalID: -6758136270029559822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Pig Man_56
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 42
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51722aab82f83a750800000000000000
+      internalID: 6315048507596220181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Arcade - Ghouls n Ghosts - Pig Man_0: 1130065410385895089
+      Arcade - Ghouls n Ghosts - Pig Man_1: -8939199388170014892
+      Arcade - Ghouls n Ghosts - Pig Man_10: -7130203744037974934
+      Arcade - Ghouls n Ghosts - Pig Man_11: -8977011789317968327
+      Arcade - Ghouls n Ghosts - Pig Man_12: 5877649983143466017
+      Arcade - Ghouls n Ghosts - Pig Man_13: 6149803640304204353
+      Arcade - Ghouls n Ghosts - Pig Man_14: 3937342686436351788
+      Arcade - Ghouls n Ghosts - Pig Man_15: 8389858307567258977
+      Arcade - Ghouls n Ghosts - Pig Man_16: -6534521175969422533
+      Arcade - Ghouls n Ghosts - Pig Man_17: -1697965108650912303
+      Arcade - Ghouls n Ghosts - Pig Man_18: 5662726768309124414
+      Arcade - Ghouls n Ghosts - Pig Man_19: -3412409847972535667
+      Arcade - Ghouls n Ghosts - Pig Man_2: 5030038606951141551
+      Arcade - Ghouls n Ghosts - Pig Man_20: 9211124490094711727
+      Arcade - Ghouls n Ghosts - Pig Man_21: -2351070716455925204
+      Arcade - Ghouls n Ghosts - Pig Man_22: 6839941481814912379
+      Arcade - Ghouls n Ghosts - Pig Man_23: 303858184909313791
+      Arcade - Ghouls n Ghosts - Pig Man_24: 7681115288979296174
+      Arcade - Ghouls n Ghosts - Pig Man_25: 3949640213833185378
+      Arcade - Ghouls n Ghosts - Pig Man_26: 8519785438217966955
+      Arcade - Ghouls n Ghosts - Pig Man_27: 431260186534541325
+      Arcade - Ghouls n Ghosts - Pig Man_28: -1396229093740444952
+      Arcade - Ghouls n Ghosts - Pig Man_29: 2153817020920941731
+      Arcade - Ghouls n Ghosts - Pig Man_3: -8832684015733852017
+      Arcade - Ghouls n Ghosts - Pig Man_30: -2986764711899696747
+      Arcade - Ghouls n Ghosts - Pig Man_31: -4812819128672215585
+      Arcade - Ghouls n Ghosts - Pig Man_32: -2972064740464997376
+      Arcade - Ghouls n Ghosts - Pig Man_33: -898254735258242128
+      Arcade - Ghouls n Ghosts - Pig Man_34: 522876873840009753
+      Arcade - Ghouls n Ghosts - Pig Man_35: 2448302457883632176
+      Arcade - Ghouls n Ghosts - Pig Man_36: 822884214260985413
+      Arcade - Ghouls n Ghosts - Pig Man_37: -7468576954955990068
+      Arcade - Ghouls n Ghosts - Pig Man_38: -2403630863645321012
+      Arcade - Ghouls n Ghosts - Pig Man_39: 4560644777423478061
+      Arcade - Ghouls n Ghosts - Pig Man_4: 938781924117424849
+      Arcade - Ghouls n Ghosts - Pig Man_40: 7778665155120655161
+      Arcade - Ghouls n Ghosts - Pig Man_41: -3598168432181235384
+      Arcade - Ghouls n Ghosts - Pig Man_42: -4463116144269024980
+      Arcade - Ghouls n Ghosts - Pig Man_43: 2931226317289344664
+      Arcade - Ghouls n Ghosts - Pig Man_44: -5011741840304805449
+      Arcade - Ghouls n Ghosts - Pig Man_45: 7111251844115782361
+      Arcade - Ghouls n Ghosts - Pig Man_46: 1287294824791311858
+      Arcade - Ghouls n Ghosts - Pig Man_47: -7241423715992607398
+      Arcade - Ghouls n Ghosts - Pig Man_48: 5318207287844141897
+      Arcade - Ghouls n Ghosts - Pig Man_49: 2016525742803811208
+      Arcade - Ghouls n Ghosts - Pig Man_5: -2404259583720225467
+      Arcade - Ghouls n Ghosts - Pig Man_50: -6579599124271415880
+      Arcade - Ghouls n Ghosts - Pig Man_51: -431872273235749646
+      Arcade - Ghouls n Ghosts - Pig Man_52: 2346343376372280258
+      Arcade - Ghouls n Ghosts - Pig Man_53: -8638414301041211919
+      Arcade - Ghouls n Ghosts - Pig Man_54: -4799277505859235484
+      Arcade - Ghouls n Ghosts - Pig Man_55: -6758136270029559822
+      Arcade - Ghouls n Ghosts - Pig Man_56: 6315048507596220181
+      Arcade - Ghouls n Ghosts - Pig Man_6: -8761972145089859722
+      Arcade - Ghouls n Ghosts - Pig Man_7: 51546468334058342
+      Arcade - Ghouls n Ghosts - Pig Man_8: -3656189326765532649
+      Arcade - Ghouls n Ghosts - Pig Man_9: 2642017966739617816
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

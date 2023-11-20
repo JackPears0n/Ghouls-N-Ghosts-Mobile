@@ -1,0 +1,1198 @@
+fileFormatVersion: 2
+guid: 84270342df15eec4587b09bdd5c6010f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -50505308172860981
+    second: Arcade - Ghouls n Ghosts - Hit and Block_0
+  - first:
+      213: 5507743180412450990
+    second: Arcade - Ghouls n Ghosts - Hit and Block_1
+  - first:
+      213: -2219849431360231654
+    second: Arcade - Ghouls n Ghosts - Hit and Block_2
+  - first:
+      213: 4453748184093805359
+    second: Arcade - Ghouls n Ghosts - Hit and Block_3
+  - first:
+      213: 1319033464317874151
+    second: Arcade - Ghouls n Ghosts - Hit and Block_4
+  - first:
+      213: -3441100386855574005
+    second: Arcade - Ghouls n Ghosts - Hit and Block_5
+  - first:
+      213: 7203691429224581555
+    second: Arcade - Ghouls n Ghosts - Hit and Block_6
+  - first:
+      213: -6628117681976264445
+    second: Arcade - Ghouls n Ghosts - Hit and Block_7
+  - first:
+      213: 3058555147121628580
+    second: Arcade - Ghouls n Ghosts - Hit and Block_8
+  - first:
+      213: 5552483317819258823
+    second: Arcade - Ghouls n Ghosts - Hit and Block_9
+  - first:
+      213: 1677734234000860046
+    second: Arcade - Ghouls n Ghosts - Hit and Block_10
+  - first:
+      213: 4461451400787786865
+    second: Arcade - Ghouls n Ghosts - Hit and Block_11
+  - first:
+      213: 3103094191949903542
+    second: Arcade - Ghouls n Ghosts - Hit and Block_12
+  - first:
+      213: 5979728123804175055
+    second: Arcade - Ghouls n Ghosts - Hit and Block_13
+  - first:
+      213: 2948341537576107850
+    second: Arcade - Ghouls n Ghosts - Hit and Block_14
+  - first:
+      213: 6838899840788796311
+    second: Arcade - Ghouls n Ghosts - Hit and Block_15
+  - first:
+      213: 7674356971083275371
+    second: Arcade - Ghouls n Ghosts - Hit and Block_16
+  - first:
+      213: 4427452685992162375
+    second: Arcade - Ghouls n Ghosts - Hit and Block_17
+  - first:
+      213: -3817236116995085826
+    second: Arcade - Ghouls n Ghosts - Hit and Block_18
+  - first:
+      213: 2419709800759446702
+    second: Arcade - Ghouls n Ghosts - Hit and Block_19
+  - first:
+      213: -2372976598553608443
+    second: Arcade - Ghouls n Ghosts - Hit and Block_20
+  - first:
+      213: -3267657468229884251
+    second: Arcade - Ghouls n Ghosts - Hit and Block_21
+  - first:
+      213: -2999719685920919479
+    second: Arcade - Ghouls n Ghosts - Hit and Block_22
+  - first:
+      213: 7856938382507078956
+    second: Arcade - Ghouls n Ghosts - Hit and Block_23
+  - first:
+      213: 5938220822775843570
+    second: Arcade - Ghouls n Ghosts - Hit and Block_24
+  - first:
+      213: 3598122028700614106
+    second: Arcade - Ghouls n Ghosts - Hit and Block_25
+  - first:
+      213: 2088735357873764215
+    second: Arcade - Ghouls n Ghosts - Hit and Block_26
+  - first:
+      213: 3969391170304937270
+    second: Arcade - Ghouls n Ghosts - Hit and Block_27
+  - first:
+      213: -8729471094797977731
+    second: Arcade - Ghouls n Ghosts - Hit and Block_28
+  - first:
+      213: 2167413254466859410
+    second: Arcade - Ghouls n Ghosts - Hit and Block_29
+  - first:
+      213: -3222958097591196186
+    second: Arcade - Ghouls n Ghosts - Hit and Block_30
+  - first:
+      213: 6035458934337749113
+    second: Arcade - Ghouls n Ghosts - Hit and Block_31
+  - first:
+      213: -3970657089989148172
+    second: Arcade - Ghouls n Ghosts - Hit and Block_32
+  - first:
+      213: -5338877322463178642
+    second: Arcade - Ghouls n Ghosts - Hit and Block_33
+  - first:
+      213: -2208632943933616484
+    second: Arcade - Ghouls n Ghosts - Hit and Block_34
+  - first:
+      213: 6506585943501597760
+    second: Arcade - Ghouls n Ghosts - Hit and Block_35
+  - first:
+      213: 7202543250593465559
+    second: Arcade - Ghouls n Ghosts - Hit and Block_36
+  - first:
+      213: -8260443065592087829
+    second: Arcade - Ghouls n Ghosts - Hit and Block_37
+  - first:
+      213: 9070669446079369364
+    second: Arcade - Ghouls n Ghosts - Hit and Block_38
+  - first:
+      213: -1097944689089510236
+    second: Arcade - Ghouls n Ghosts - Hit and Block_39
+  - first:
+      213: 8701710062929090936
+    second: Arcade - Ghouls n Ghosts - Hit and Block_40
+  - first:
+      213: 298732032302186143
+    second: Arcade - Ghouls n Ghosts - Hit and Block_41
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Hit and Block_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 56
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc1c51790b19c4ff0800000000000000
+      internalID: -50505308172860981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Hit and Block_1
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 53
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea87096cd3f6f6c40800000000000000
+      internalID: 5507743180412450990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Hit and Block_2
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 53
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a17abe414b28131e0800000000000000
+      internalID: -2219849431360231654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Hit and Block_3
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 53
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2bc3ff5064eecd30800000000000000
+      internalID: 4453748184093805359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Hit and Block_4
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 58
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ef058f72f52e4210800000000000000
+      internalID: 1319033464317874151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Hit and Block_5
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 69
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b06a30d0e61ce30d0800000000000000
+      internalID: -3441100386855574005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Hit and Block_6
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 62
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b905762037a8f360800000000000000
+      internalID: 7203691429224581555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Hit and Block_7
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 52
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 309b154e5123404a0800000000000000
+      internalID: -6628117681976264445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Hit and Block_8
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 48
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a5902e83bb227a20800000000000000
+      internalID: 3058555147121628580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Hit and Block_9
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 53
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c736e3c8226e0d40800000000000000
+      internalID: 5552483317819258823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Hit and Block_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 36
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8322259562884710800000000000000
+      internalID: 1677734234000860046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Hit and Block_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 27
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17cff9649624aed30800000000000000
+      internalID: 4461451400787786865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Hit and Block_12
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 27
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b670c70ab7601b20800000000000000
+      internalID: 3103094191949903542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Hit and Block_13
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 28
+        width: 60
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcac2c0fb034cf250800000000000000
+      internalID: 5979728123804175055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Hit and Block_14
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 27
+        width: 26
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4fb0c7e10d9ae820800000000000000
+      internalID: 2948341537576107850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Hit and Block_15
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 27
+        width: 26
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79311b0db27a8ee50800000000000000
+      internalID: 6838899840788796311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Hit and Block_16
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 36
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6c16f4310bc08a60800000000000000
+      internalID: 7674356971083275371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Hit and Block_17
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 36
+        width: 42
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7447960a2c8717d30800000000000000
+      internalID: 4427452685992162375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Hit and Block_18
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 36
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef967b6e9f3760bc0800000000000000
+      internalID: -3817236116995085826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Hit and Block_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 18
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eac4ccd5e39849120800000000000000
+      internalID: 2419709800759446702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Hit and Block_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50fb5ee2b5e711fd0800000000000000
+      internalID: -2372976598553608443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Hit and Block_21
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 18
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a6618e68d2f6a2d0800000000000000
+      internalID: -3267657468229884251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Hit and Block_22
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 9
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 940ffeeb6dade56d0800000000000000
+      internalID: -2999719685920919479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Hit and Block_23
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 9
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c25777fb4d3790d60800000000000000
+      internalID: 7856938382507078956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Hit and Block_24
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 18
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fac163506cc86250800000000000000
+      internalID: 5938220822775843570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Hit and Block_25
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 18
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: add3533ebe81fe130800000000000000
+      internalID: 3598122028700614106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Hit and Block_26
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 10
+        width: 55
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7773ddbcdbdacfc10800000000000000
+      internalID: 2088735357873764215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Hit and Block_27
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 9
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63d09981d3c161730800000000000000
+      internalID: 3969391170304937270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Hit and Block_28
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 9
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d77b68d3a40bad680800000000000000
+      internalID: -8729471094797977731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Hit and Block_29
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 18
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29178f91fd2341e10800000000000000
+      internalID: 2167413254466859410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Hit and Block_30
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 18
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e5ab1bafa0c543d0800000000000000
+      internalID: -3222958097591196186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Hit and Block_31
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 18
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 970c8ad6ce142c350800000000000000
+      internalID: 6035458934337749113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Hit and Block_32
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 9
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f18f420a6465e8c0800000000000000
+      internalID: -3970657089989148172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Hit and Block_33
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 9
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e60913f9c5f78e5b0800000000000000
+      internalID: -5338877322463178642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Hit and Block_34
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 18
+        width: 41
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9e8c911a0c5951e0800000000000000
+      internalID: -2208632943933616484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Hit and Block_35
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 18
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04c66f631790c4a50800000000000000
+      internalID: 6506585943501597760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Hit and Block_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d4c20bfce294f360800000000000000
+      internalID: 7202543250593465559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Hit and Block_37
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 0
+        width: 26
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bea7b0c2cc20d5d80800000000000000
+      internalID: -8260443065592087829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Hit and Block_38
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 0
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 490dc808dcd71ed70800000000000000
+      internalID: 9070669446079369364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Hit and Block_39
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 0
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a40bc75f1153c0f0800000000000000
+      internalID: -1097944689089510236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Hit and Block_40
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 0
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8799457d23fa2c870800000000000000
+      internalID: 8701710062929090936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Hit and Block_41
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 42
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9ef66c533f452400800000000000000
+      internalID: 298732032302186143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Arcade - Ghouls n Ghosts - Hit and Block_0: -50505308172860981
+      Arcade - Ghouls n Ghosts - Hit and Block_1: 5507743180412450990
+      Arcade - Ghouls n Ghosts - Hit and Block_10: 1677734234000860046
+      Arcade - Ghouls n Ghosts - Hit and Block_11: 4461451400787786865
+      Arcade - Ghouls n Ghosts - Hit and Block_12: 3103094191949903542
+      Arcade - Ghouls n Ghosts - Hit and Block_13: 5979728123804175055
+      Arcade - Ghouls n Ghosts - Hit and Block_14: 2948341537576107850
+      Arcade - Ghouls n Ghosts - Hit and Block_15: 6838899840788796311
+      Arcade - Ghouls n Ghosts - Hit and Block_16: 7674356971083275371
+      Arcade - Ghouls n Ghosts - Hit and Block_17: 4427452685992162375
+      Arcade - Ghouls n Ghosts - Hit and Block_18: -3817236116995085826
+      Arcade - Ghouls n Ghosts - Hit and Block_19: 2419709800759446702
+      Arcade - Ghouls n Ghosts - Hit and Block_2: -2219849431360231654
+      Arcade - Ghouls n Ghosts - Hit and Block_20: -2372976598553608443
+      Arcade - Ghouls n Ghosts - Hit and Block_21: -3267657468229884251
+      Arcade - Ghouls n Ghosts - Hit and Block_22: -2999719685920919479
+      Arcade - Ghouls n Ghosts - Hit and Block_23: 7856938382507078956
+      Arcade - Ghouls n Ghosts - Hit and Block_24: 5938220822775843570
+      Arcade - Ghouls n Ghosts - Hit and Block_25: 3598122028700614106
+      Arcade - Ghouls n Ghosts - Hit and Block_26: 2088735357873764215
+      Arcade - Ghouls n Ghosts - Hit and Block_27: 3969391170304937270
+      Arcade - Ghouls n Ghosts - Hit and Block_28: -8729471094797977731
+      Arcade - Ghouls n Ghosts - Hit and Block_29: 2167413254466859410
+      Arcade - Ghouls n Ghosts - Hit and Block_3: 4453748184093805359
+      Arcade - Ghouls n Ghosts - Hit and Block_30: -3222958097591196186
+      Arcade - Ghouls n Ghosts - Hit and Block_31: 6035458934337749113
+      Arcade - Ghouls n Ghosts - Hit and Block_32: -3970657089989148172
+      Arcade - Ghouls n Ghosts - Hit and Block_33: -5338877322463178642
+      Arcade - Ghouls n Ghosts - Hit and Block_34: -2208632943933616484
+      Arcade - Ghouls n Ghosts - Hit and Block_35: 6506585943501597760
+      Arcade - Ghouls n Ghosts - Hit and Block_36: 7202543250593465559
+      Arcade - Ghouls n Ghosts - Hit and Block_37: -8260443065592087829
+      Arcade - Ghouls n Ghosts - Hit and Block_38: 9070669446079369364
+      Arcade - Ghouls n Ghosts - Hit and Block_39: -1097944689089510236
+      Arcade - Ghouls n Ghosts - Hit and Block_4: 1319033464317874151
+      Arcade - Ghouls n Ghosts - Hit and Block_40: 8701710062929090936
+      Arcade - Ghouls n Ghosts - Hit and Block_41: 298732032302186143
+      Arcade - Ghouls n Ghosts - Hit and Block_5: -3441100386855574005
+      Arcade - Ghouls n Ghosts - Hit and Block_6: 7203691429224581555
+      Arcade - Ghouls n Ghosts - Hit and Block_7: -6628117681976264445
+      Arcade - Ghouls n Ghosts - Hit and Block_8: 3058555147121628580
+      Arcade - Ghouls n Ghosts - Hit and Block_9: 5552483317819258823
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

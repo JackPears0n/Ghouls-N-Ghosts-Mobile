@@ -1,0 +1,1348 @@
+fileFormatVersion: 2
+guid: 4d1280d70d28a974486f929f66fda9ab
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8295015579838030611
+    second: Arcade - Ghouls n Ghosts - Sword Magic_0
+  - first:
+      213: -3112303101560569022
+    second: Arcade - Ghouls n Ghosts - Sword Magic_1
+  - first:
+      213: 3837325104011010268
+    second: Arcade - Ghouls n Ghosts - Sword Magic_2
+  - first:
+      213: -630129176263941945
+    second: Arcade - Ghouls n Ghosts - Sword Magic_3
+  - first:
+      213: 1063635116632522584
+    second: Arcade - Ghouls n Ghosts - Sword Magic_4
+  - first:
+      213: 6593761758639031903
+    second: Arcade - Ghouls n Ghosts - Sword Magic_5
+  - first:
+      213: 489627574059040938
+    second: Arcade - Ghouls n Ghosts - Sword Magic_6
+  - first:
+      213: 4248350231548343656
+    second: Arcade - Ghouls n Ghosts - Sword Magic_7
+  - first:
+      213: -7054879793374885622
+    second: Arcade - Ghouls n Ghosts - Sword Magic_8
+  - first:
+      213: -3787254907725737178
+    second: Arcade - Ghouls n Ghosts - Sword Magic_9
+  - first:
+      213: -5860704470823864549
+    second: Arcade - Ghouls n Ghosts - Sword Magic_10
+  - first:
+      213: 4795312939908088292
+    second: Arcade - Ghouls n Ghosts - Sword Magic_11
+  - first:
+      213: 6536666123538436030
+    second: Arcade - Ghouls n Ghosts - Sword Magic_12
+  - first:
+      213: 7349582663684980107
+    second: Arcade - Ghouls n Ghosts - Sword Magic_13
+  - first:
+      213: -8746887874766643437
+    second: Arcade - Ghouls n Ghosts - Sword Magic_14
+  - first:
+      213: 8601709586575786857
+    second: Arcade - Ghouls n Ghosts - Sword Magic_15
+  - first:
+      213: 8179471349011429325
+    second: Arcade - Ghouls n Ghosts - Sword Magic_16
+  - first:
+      213: 45922096163104331
+    second: Arcade - Ghouls n Ghosts - Sword Magic_17
+  - first:
+      213: -8502823778662360172
+    second: Arcade - Ghouls n Ghosts - Sword Magic_18
+  - first:
+      213: 3771812031492728660
+    second: Arcade - Ghouls n Ghosts - Sword Magic_19
+  - first:
+      213: 4251533190069411039
+    second: Arcade - Ghouls n Ghosts - Sword Magic_20
+  - first:
+      213: 3719941678093876277
+    second: Arcade - Ghouls n Ghosts - Sword Magic_21
+  - first:
+      213: -491497830664893841
+    second: Arcade - Ghouls n Ghosts - Sword Magic_22
+  - first:
+      213: 116840076784269549
+    second: Arcade - Ghouls n Ghosts - Sword Magic_23
+  - first:
+      213: -1019632656320656692
+    second: Arcade - Ghouls n Ghosts - Sword Magic_24
+  - first:
+      213: -5665881578621168298
+    second: Arcade - Ghouls n Ghosts - Sword Magic_25
+  - first:
+      213: -3530015819589470553
+    second: Arcade - Ghouls n Ghosts - Sword Magic_26
+  - first:
+      213: -5098401019317104270
+    second: Arcade - Ghouls n Ghosts - Sword Magic_27
+  - first:
+      213: -4262936885683563998
+    second: Arcade - Ghouls n Ghosts - Sword Magic_28
+  - first:
+      213: -5355985593788255732
+    second: Arcade - Ghouls n Ghosts - Sword Magic_29
+  - first:
+      213: 1831831606489416104
+    second: Arcade - Ghouls n Ghosts - Sword Magic_30
+  - first:
+      213: 3070145307479304098
+    second: Arcade - Ghouls n Ghosts - Sword Magic_31
+  - first:
+      213: 7321520895614877498
+    second: Arcade - Ghouls n Ghosts - Sword Magic_32
+  - first:
+      213: 5205197024355812016
+    second: Arcade - Ghouls n Ghosts - Sword Magic_33
+  - first:
+      213: 7252081282881826729
+    second: Arcade - Ghouls n Ghosts - Sword Magic_34
+  - first:
+      213: 5109697457683215488
+    second: Arcade - Ghouls n Ghosts - Sword Magic_35
+  - first:
+      213: 6185288578541084974
+    second: Arcade - Ghouls n Ghosts - Sword Magic_36
+  - first:
+      213: -6484657334730092298
+    second: Arcade - Ghouls n Ghosts - Sword Magic_37
+  - first:
+      213: -8033408586026722896
+    second: Arcade - Ghouls n Ghosts - Sword Magic_38
+  - first:
+      213: 6040195401402966425
+    second: Arcade - Ghouls n Ghosts - Sword Magic_39
+  - first:
+      213: 3200608344417631031
+    second: Arcade - Ghouls n Ghosts - Sword Magic_40
+  - first:
+      213: -1721541283603175279
+    second: Arcade - Ghouls n Ghosts - Sword Magic_41
+  - first:
+      213: 5907917206505765193
+    second: Arcade - Ghouls n Ghosts - Sword Magic_42
+  - first:
+      213: 9182507361504100489
+    second: Arcade - Ghouls n Ghosts - Sword Magic_43
+  - first:
+      213: 6030954115188595646
+    second: Arcade - Ghouls n Ghosts - Sword Magic_44
+  - first:
+      213: -5571391089132856701
+    second: Arcade - Ghouls n Ghosts - Sword Magic_45
+  - first:
+      213: 2770206170314998366
+    second: Arcade - Ghouls n Ghosts - Sword Magic_46
+  - first:
+      213: -7527625912977491963
+    second: Arcade - Ghouls n Ghosts - Sword Magic_47
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Sword Magic_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 111
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 313a39298b0dd1370800000000000000
+      internalID: 8295015579838030611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Sword Magic_1
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 115
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 243c22e91d0eec4d0800000000000000
+      internalID: -3112303101560569022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Sword Magic_2
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 115
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd0e340e9dae04530800000000000000
+      internalID: 3837325104011010268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Sword Magic_3
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 111
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c0ad2e4ad45147f0800000000000000
+      internalID: -630129176263941945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Sword Magic_4
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 111
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85f3381d08ac2ce00800000000000000
+      internalID: 1063635116632522584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Sword Magic_5
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 112
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f560c3d526fb18b50800000000000000
+      internalID: 6593761758639031903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Sword Magic_6
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 79
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa086083fa18bc600800000000000000
+      internalID: 489627574059040938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Sword Magic_7
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 86
+        width: 29
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86533e0e60c25fa30800000000000000
+      internalID: 4248350231548343656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Sword Magic_8
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 83
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a090fcec438081e90800000000000000
+      internalID: -7054879793374885622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Sword Magic_9
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 80
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62317272ab7f07bc0800000000000000
+      internalID: -3787254907725737178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Sword Magic_10
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 81
+        width: 34
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b17fffac5589aaea0800000000000000
+      internalID: -5860704470823864549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Sword Magic_11
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 78
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e14e0256bf5c8240800000000000000
+      internalID: 4795312939908088292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Sword Magic_12
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 48
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebf86d4e437e6ba50800000000000000
+      internalID: 6536666123538436030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Sword Magic_13
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 55
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8dff4c2e76fef560800000000000000
+      internalID: 7349582663684980107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Sword Magic_14
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 47
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31fdc5622dfcc9680800000000000000
+      internalID: -8746887874766643437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Sword Magic_15
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 49
+        width: 34
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9630ce09b496f5770800000000000000
+      internalID: 8601709586575786857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Sword Magic_16
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 53
+        width: 34
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc7bf40fad1538170800000000000000
+      internalID: 8179471349011429325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Sword Magic_17
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 55
+        width: 33
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b46a42537e523a000800000000000000
+      internalID: 45922096163104331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Sword Magic_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 36
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49bd51db2d6eff980800000000000000
+      internalID: -8502823778662360172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Sword Magic_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 27
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4572ba80f0b285430800000000000000
+      internalID: 3771812031492728660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Sword Magic_20
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 27
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdcded829ea700b30800000000000000
+      internalID: 4251533190069411039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Sword Magic_21
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 28
+        width: 60
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53cb4f34f33ef9330800000000000000
+      internalID: 3719941678093876277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Sword Magic_22
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 27
+        width: 26
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6a085bb359dd29f0800000000000000
+      internalID: -491497830664893841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Sword Magic_23
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 27
+        width: 26
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de871484e691f9100800000000000000
+      internalID: 116840076784269549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Sword Magic_24
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 36
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cca8e96508989d1f0800000000000000
+      internalID: -1019632656320656692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Sword Magic_25
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 36
+        width: 42
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6551bde29bebe51b0800000000000000
+      internalID: -5665881578621168298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Sword Magic_26
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 36
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a63cdd905dd20fc0800000000000000
+      internalID: -3530015819589470553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Sword Magic_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 18
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2715d111947de39b0800000000000000
+      internalID: -5098401019317104270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Sword Magic_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 222dbec0d7107d4c0800000000000000
+      internalID: -4262936885683563998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Sword Magic_29
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 18
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c02342cca77bba5b0800000000000000
+      internalID: -5355985593788255732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Sword Magic_30
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 9
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a182210429fb6910800000000000000
+      internalID: 1831831606489416104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Sword Magic_31
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 9
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a7e22d04e85b9a20800000000000000
+      internalID: 3070145307479304098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Sword Magic_32
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 18
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3f79b6a6744b9560800000000000000
+      internalID: 7321520895614877498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Sword Magic_33
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 18
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b206a68d139c3840800000000000000
+      internalID: 5205197024355812016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Sword Magic_34
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 10
+        width: 47
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9af2e6ce08194a460800000000000000
+      internalID: 7252081282881826729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Sword Magic_35
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 9
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 084bce2f3ca49e640800000000000000
+      internalID: 5109697457683215488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Sword Magic_36
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 9
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e21e83de03f86d550800000000000000
+      internalID: 6185288578541084974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Sword Magic_37
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 18
+        width: 26
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f01841e28ed106a0800000000000000
+      internalID: -6484657334730092298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Sword Magic_38
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 18
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b9dd4e2479938090800000000000000
+      internalID: -8033408586026722896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Sword Magic_39
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 9
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 991629a17b513d350800000000000000
+      internalID: 6040195401402966425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Sword Magic_40
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 18
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73bf92ae458da6c20800000000000000
+      internalID: 3200608344417631031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Sword Magic_41
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 9
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 198a9acd25bdb18e0800000000000000
+      internalID: -1721541283603175279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Sword Magic_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 949b138d5632df150800000000000000
+      internalID: 5907917206505765193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Sword Magic_43
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 0
+        width: 26
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9808cd55bc1de6f70800000000000000
+      internalID: 9182507361504100489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Sword Magic_44
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 0
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebb1f7c70d042b350800000000000000
+      internalID: 6030954115188595646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Sword Magic_45
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 0
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38a957ba2517ea2b0800000000000000
+      internalID: -5571391089132856701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Sword Magic_46
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 0
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e528830b5dfb17620800000000000000
+      internalID: 2770206170314998366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Sword Magic_47
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 42
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50873fe7d10888790800000000000000
+      internalID: -7527625912977491963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Arcade - Ghouls n Ghosts - Sword Magic_0: 8295015579838030611
+      Arcade - Ghouls n Ghosts - Sword Magic_1: -3112303101560569022
+      Arcade - Ghouls n Ghosts - Sword Magic_10: -5860704470823864549
+      Arcade - Ghouls n Ghosts - Sword Magic_11: 4795312939908088292
+      Arcade - Ghouls n Ghosts - Sword Magic_12: 6536666123538436030
+      Arcade - Ghouls n Ghosts - Sword Magic_13: 7349582663684980107
+      Arcade - Ghouls n Ghosts - Sword Magic_14: -8746887874766643437
+      Arcade - Ghouls n Ghosts - Sword Magic_15: 8601709586575786857
+      Arcade - Ghouls n Ghosts - Sword Magic_16: 8179471349011429325
+      Arcade - Ghouls n Ghosts - Sword Magic_17: 45922096163104331
+      Arcade - Ghouls n Ghosts - Sword Magic_18: -8502823778662360172
+      Arcade - Ghouls n Ghosts - Sword Magic_19: 3771812031492728660
+      Arcade - Ghouls n Ghosts - Sword Magic_2: 3837325104011010268
+      Arcade - Ghouls n Ghosts - Sword Magic_20: 4251533190069411039
+      Arcade - Ghouls n Ghosts - Sword Magic_21: 3719941678093876277
+      Arcade - Ghouls n Ghosts - Sword Magic_22: -491497830664893841
+      Arcade - Ghouls n Ghosts - Sword Magic_23: 116840076784269549
+      Arcade - Ghouls n Ghosts - Sword Magic_24: -1019632656320656692
+      Arcade - Ghouls n Ghosts - Sword Magic_25: -5665881578621168298
+      Arcade - Ghouls n Ghosts - Sword Magic_26: -3530015819589470553
+      Arcade - Ghouls n Ghosts - Sword Magic_27: -5098401019317104270
+      Arcade - Ghouls n Ghosts - Sword Magic_28: -4262936885683563998
+      Arcade - Ghouls n Ghosts - Sword Magic_29: -5355985593788255732
+      Arcade - Ghouls n Ghosts - Sword Magic_3: -630129176263941945
+      Arcade - Ghouls n Ghosts - Sword Magic_30: 1831831606489416104
+      Arcade - Ghouls n Ghosts - Sword Magic_31: 3070145307479304098
+      Arcade - Ghouls n Ghosts - Sword Magic_32: 7321520895614877498
+      Arcade - Ghouls n Ghosts - Sword Magic_33: 5205197024355812016
+      Arcade - Ghouls n Ghosts - Sword Magic_34: 7252081282881826729
+      Arcade - Ghouls n Ghosts - Sword Magic_35: 5109697457683215488
+      Arcade - Ghouls n Ghosts - Sword Magic_36: 6185288578541084974
+      Arcade - Ghouls n Ghosts - Sword Magic_37: -6484657334730092298
+      Arcade - Ghouls n Ghosts - Sword Magic_38: -8033408586026722896
+      Arcade - Ghouls n Ghosts - Sword Magic_39: 6040195401402966425
+      Arcade - Ghouls n Ghosts - Sword Magic_4: 1063635116632522584
+      Arcade - Ghouls n Ghosts - Sword Magic_40: 3200608344417631031
+      Arcade - Ghouls n Ghosts - Sword Magic_41: -1721541283603175279
+      Arcade - Ghouls n Ghosts - Sword Magic_42: 5907917206505765193
+      Arcade - Ghouls n Ghosts - Sword Magic_43: 9182507361504100489
+      Arcade - Ghouls n Ghosts - Sword Magic_44: 6030954115188595646
+      Arcade - Ghouls n Ghosts - Sword Magic_45: -5571391089132856701
+      Arcade - Ghouls n Ghosts - Sword Magic_46: 2770206170314998366
+      Arcade - Ghouls n Ghosts - Sword Magic_47: -7527625912977491963
+      Arcade - Ghouls n Ghosts - Sword Magic_5: 6593761758639031903
+      Arcade - Ghouls n Ghosts - Sword Magic_6: 489627574059040938
+      Arcade - Ghouls n Ghosts - Sword Magic_7: 4248350231548343656
+      Arcade - Ghouls n Ghosts - Sword Magic_8: -7054879793374885622
+      Arcade - Ghouls n Ghosts - Sword Magic_9: -3787254907725737178
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

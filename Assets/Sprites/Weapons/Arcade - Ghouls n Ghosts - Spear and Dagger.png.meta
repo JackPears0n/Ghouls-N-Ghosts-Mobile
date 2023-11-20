@@ -1,0 +1,465 @@
+fileFormatVersion: 2
+guid: c0cfc464d9328754e8a82cb83df416dd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5311341490464464234
+    second: Arcade - Ghouls n Ghosts - Spear and Dagger_0
+  - first:
+      213: 2528979352281774368
+    second: Arcade - Ghouls n Ghosts - Spear and Dagger_1
+  - first:
+      213: -3211703977900558525
+    second: Arcade - Ghouls n Ghosts - Spear and Dagger_2
+  - first:
+      213: -5033390063977774292
+    second: Arcade - Ghouls n Ghosts - Spear and Dagger_3
+  - first:
+      213: -8750849567448782966
+    second: Arcade - Ghouls n Ghosts - Spear and Dagger_4
+  - first:
+      213: -8175202657828707856
+    second: Arcade - Ghouls n Ghosts - Spear and Dagger_5
+  - first:
+      213: -8323115370745857522
+    second: Arcade - Ghouls n Ghosts - Spear and Dagger_6
+  - first:
+      213: 5793791001840872706
+    second: Arcade - Ghouls n Ghosts - Spear and Dagger_7
+  - first:
+      213: -2157321397140632635
+    second: Arcade - Ghouls n Ghosts - Spear and Dagger_8
+  - first:
+      213: 5795090503848142666
+    second: Arcade - Ghouls n Ghosts - Spear and Dagger_9
+  - first:
+      213: 7656999910067909835
+    second: Arcade - Ghouls n Ghosts - Spear and Dagger_10
+  - first:
+      213: 8277795273339371682
+    second: Arcade - Ghouls n Ghosts - Spear and Dagger_11
+  - first:
+      213: 8177082970956977444
+    second: Arcade - Ghouls n Ghosts - Spear and Dagger_12
+  - first:
+      213: 3121108940793555941
+    second: Arcade - Ghouls n Ghosts - Spear and Dagger_13
+  - first:
+      213: 5403209300098223222
+    second: Arcade - Ghouls n Ghosts - Spear and Dagger_14
+  - first:
+      213: 2515635488462248323
+    second: Arcade - Ghouls n Ghosts - Spear and Dagger_15
+  - first:
+      213: -7856766220452082157
+    second: Arcade - Ghouls n Ghosts - Spear and Dagger_16
+  - first:
+      213: 2778626724836353239
+    second: Arcade - Ghouls n Ghosts - Spear and Dagger_17
+  - first:
+      213: -6278933735906725530
+    second: Arcade - Ghouls n Ghosts - Spear and Dagger_18
+  - first:
+      213: 4250322761349338820
+    second: Arcade - Ghouls n Ghosts - Spear and Dagger_19
+  - first:
+      213: 7712880895938249548
+    second: Arcade - Ghouls n Ghosts - Spear and Dagger_20
+  - first:
+      213: -7764521036709421039
+    second: Arcade - Ghouls n Ghosts - Spear and Dagger_21
+  - first:
+      213: -8251957740830396506
+    second: Arcade - Ghouls n Ghosts - Spear and Dagger_22
+  - first:
+      213: 1211679311300960302
+    second: Arcade - Ghouls n Ghosts - Spear and Dagger_23
+  - first:
+      213: 6938890840805848926
+    second: Arcade - Ghouls n Ghosts - Spear and Dagger_24
+  - first:
+      213: -4614367345621491697
+    second: Arcade - Ghouls n Ghosts - Spear and Dagger_25
+  - first:
+      213: -8097790234550385750
+    second: Arcade - Ghouls n Ghosts - Spear and Dagger_26
+  - first:
+      213: 6131604394073189495
+    second: Arcade - Ghouls n Ghosts - Spear and Dagger_27
+  - first:
+      213: 2996917295605983052
+    second: Arcade - Ghouls n Ghosts - Spear and Dagger_28
+  - first:
+      213: 8462503640973933185
+    second: Arcade - Ghouls n Ghosts - Spear and Dagger_29
+  - first:
+      213: 302124693167954459
+    second: Arcade - Ghouls n Ghosts - Spear and Dagger_30
+  - first:
+      213: -5365024625951653211
+    second: Arcade - Ghouls n Ghosts - Spear and Dagger_31
+  - first:
+      213: -163393006002585511
+    second: Arcade - Ghouls n Ghosts - Spear and Dagger_32
+  - first:
+      213: 8061292797950177652
+    second: Arcade - Ghouls n Ghosts - Spear and Dagger_33
+  - first:
+      213: -2497273351362556395
+    second: Arcade - Ghouls n Ghosts - Spear and Dagger_34
+  - first:
+      213: 264019551822180283
+    second: Arcade - Ghouls n Ghosts - Spear and Dagger_35
+  - first:
+      213: 417944596330819949
+    second: Arcade - Ghouls n Ghosts - Spear and Dagger_36
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Spear and Dagger_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 82
+        width: 43
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6d9de3e1fca5b940800000000000000
+      internalID: 5311341490464464234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Spear and Dagger_1
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 50
+        width: 8
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0297d01625db81320800000000000000
+      internalID: 2528979352281774368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Spear and Dagger_2
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 54
+        width: 8
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34737899f3cbd63d0800000000000000
+      internalID: -3211703977900558525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Spear and Dagger_3
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 75
+        width: 8
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c23cf94a76ec52ab0800000000000000
+      internalID: -5033390063977774292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Spear and Dagger_4
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 82
+        width: 25
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a87a551beacbe8680800000000000000
+      internalID: -8750849567448782966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Spear and Dagger_5
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 65
+        width: 43
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f16a4d2f78db8e80800000000000000
+      internalID: -8175202657828707856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Spear and Dagger_6
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 61
+        width: 8
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0a79160baa5e7c80800000000000000
+      internalID: -8323115370745857522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls n Ghosts - Spear and Dagger_7
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 65
+        width: 25
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20d6497283ea76050800000000000000
+      internalID: 5793791001840872706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 3174c162f53085f448c49397ac0d9909
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Arcade - Ghouls n Ghosts - Spear and Dagger_0: 5311341490464464234
+      Arcade - Ghouls n Ghosts - Spear and Dagger_1: 2528979352281774368
+      Arcade - Ghouls n Ghosts - Spear and Dagger_10: 7656999910067909835
+      Arcade - Ghouls n Ghosts - Spear and Dagger_11: 8277795273339371682
+      Arcade - Ghouls n Ghosts - Spear and Dagger_12: 8177082970956977444
+      Arcade - Ghouls n Ghosts - Spear and Dagger_13: 3121108940793555941
+      Arcade - Ghouls n Ghosts - Spear and Dagger_14: 5403209300098223222
+      Arcade - Ghouls n Ghosts - Spear and Dagger_15: 2515635488462248323
+      Arcade - Ghouls n Ghosts - Spear and Dagger_16: -7856766220452082157
+      Arcade - Ghouls n Ghosts - Spear and Dagger_17: 2778626724836353239
+      Arcade - Ghouls n Ghosts - Spear and Dagger_18: -6278933735906725530
+      Arcade - Ghouls n Ghosts - Spear and Dagger_19: 4250322761349338820
+      Arcade - Ghouls n Ghosts - Spear and Dagger_2: -3211703977900558525
+      Arcade - Ghouls n Ghosts - Spear and Dagger_20: 7712880895938249548
+      Arcade - Ghouls n Ghosts - Spear and Dagger_21: -7764521036709421039
+      Arcade - Ghouls n Ghosts - Spear and Dagger_22: -8251957740830396506
+      Arcade - Ghouls n Ghosts - Spear and Dagger_23: 1211679311300960302
+      Arcade - Ghouls n Ghosts - Spear and Dagger_24: 6938890840805848926
+      Arcade - Ghouls n Ghosts - Spear and Dagger_25: -4614367345621491697
+      Arcade - Ghouls n Ghosts - Spear and Dagger_26: -8097790234550385750
+      Arcade - Ghouls n Ghosts - Spear and Dagger_27: 6131604394073189495
+      Arcade - Ghouls n Ghosts - Spear and Dagger_28: 2996917295605983052
+      Arcade - Ghouls n Ghosts - Spear and Dagger_29: 8462503640973933185
+      Arcade - Ghouls n Ghosts - Spear and Dagger_3: -5033390063977774292
+      Arcade - Ghouls n Ghosts - Spear and Dagger_30: 302124693167954459
+      Arcade - Ghouls n Ghosts - Spear and Dagger_31: -5365024625951653211
+      Arcade - Ghouls n Ghosts - Spear and Dagger_32: -163393006002585511
+      Arcade - Ghouls n Ghosts - Spear and Dagger_33: 8061292797950177652
+      Arcade - Ghouls n Ghosts - Spear and Dagger_34: -2497273351362556395
+      Arcade - Ghouls n Ghosts - Spear and Dagger_35: 264019551822180283
+      Arcade - Ghouls n Ghosts - Spear and Dagger_36: 417944596330819949
+      Arcade - Ghouls n Ghosts - Spear and Dagger_37: -1596982989
+      Arcade - Ghouls n Ghosts - Spear and Dagger_4: -8750849567448782966
+      Arcade - Ghouls n Ghosts - Spear and Dagger_5: -8175202657828707856
+      Arcade - Ghouls n Ghosts - Spear and Dagger_6: -8323115370745857522
+      Arcade - Ghouls n Ghosts - Spear and Dagger_7: 5793791001840872706
+      Arcade - Ghouls n Ghosts - Spear and Dagger_8: -2157321397140632635
+      Arcade - Ghouls n Ghosts - Spear and Dagger_9: 5795090503848142666
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
