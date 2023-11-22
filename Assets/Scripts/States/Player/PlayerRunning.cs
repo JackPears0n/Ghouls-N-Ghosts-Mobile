@@ -15,8 +15,13 @@ public class PlayerRunning : State
         }
         else if (ps.xInput < 0)
         {
+            //Flip player
+
             ps.vel = ps.baseVel * -1;
         }
+
+        //Play the run animation
+
     }
 
     public override void HandleInput()
