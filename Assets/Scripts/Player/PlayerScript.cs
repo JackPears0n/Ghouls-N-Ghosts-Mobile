@@ -4,24 +4,25 @@ using UnityEngine;
 
 public class PlayerScript : MonoBehaviour
 {
+    public GameObject playerParent;
+
     [Header ("Components")]
     public Rigidbody2D rb;
     public Animator anim;
-    public PlayerHealth pH;
-    public PlayerCombat pC;
+    public PlayerCombatScript pC;
+    public GameObject[] sprites;
+    public GameObject currentSprite;
 
     [Header("Variables")]
     //Movement
-    public float baseVel;
-    public float vel;
+    public float baseVel, vel;
     public int xInput, yInput;
     public Vector2 moveDirect;
 
     //Jumping
     public LayerMask groundLayerMask;
-    public float rayLength;
+    public float rayLength, jumpStrength;
     public bool isGrounded;
-    public float jumpStrength;
 
     [Header("Player status")]
     public PlayerIdle pIdle;
@@ -36,7 +37,9 @@ public class PlayerScript : MonoBehaviour
     void Start()
     {
         sm = gameObject.GetComponent<StateMachine>();
-        rb = GetComponent<Rigidbody2D>();
+        rb = GetComponent<Rigidbody2D>();  
+
+        pC = GetComponent<PlayerCombatScript>();
 
         pIdle = new PlayerIdle(this, sm);
         pRunning = new PlayerRunning(this, sm);
@@ -49,7 +52,8 @@ public class PlayerScript : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        isGrounded = DoRayCollisionCheck();
+        anim = currentSprite.GetComponent<Animator>();
+        isGrounded = GroundCheck();
 
         sm.CurrentState.HandleInput();
         sm.CurrentState.LogicUpdate();
@@ -69,7 +73,7 @@ public class PlayerScript : MonoBehaviour
         yInput = input;
     }
 
-    public bool DoRayCollisionCheck()
+    public bool GroundCheck()
     {
         //cast a ray downward
         RaycastHit2D hit = Physics2D.Raycast(transform.position, -Vector2.up, rayLength, groundLayerMask);
@@ -80,6 +84,8 @@ public class PlayerScript : MonoBehaviour
 
         return hit.collider != null;
     }
+
+
 
     #region State Checks
     public void CheckForXInput()

@@ -27,12 +27,18 @@ public class PlayerFalling : State
     {
         if (ps.xInput > 0)
         {
+            //Flips player
+            ps.playerParent.transform.rotation = new Quaternion(0, 0, 0, 0);
+
+            //Sets the velocity to go right
             ps.vel = ps.baseVel;
         }
         else if (ps.xInput < 0)
         {
-            //Flip player
+            //Flips player
+            ps.playerParent.transform.rotation = new Quaternion(0, 180, 0, 0);
 
+            //Sets the velocity to go left
             ps.vel = ps.baseVel * -1;
         }
 
