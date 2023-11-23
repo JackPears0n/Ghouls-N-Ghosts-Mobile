@@ -94,7 +94,7 @@ public class PlayerCombatScript : MonoBehaviour
             rb.transform.position = new Vector2(weaponSpawn.transform.position.x, weaponSpawn.transform.position.y);
 
             // set the velocity
-            rb.AddForce(direction.normalized * 1.5F * 10f, ForceMode2D.Force);
+            rb.AddForce(direction.normalized * 75, ForceMode2D.Force);
             
         }
         //sword

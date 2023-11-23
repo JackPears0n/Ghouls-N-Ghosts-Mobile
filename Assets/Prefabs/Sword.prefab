@@ -15,7 +15,7 @@ GameObject:
   - component: {fileID: 5396250190798336584}
   m_Layer: 0
   m_Name: Sword
-  m_TagString: Untagged
+  m_TagString: Sword
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -107,7 +107,10 @@ MonoBehaviour:
     m_Bits: 128
   playerLayerMask:
     serializedVersion: 2
-    m_Bits: 0
+    m_Bits: 8
+  groundLayerMask:
+    serializedVersion: 2
+    m_Bits: 64
 --- !u!70 &1120973233435663029
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -157,7 +160,7 @@ Rigidbody2D:
   m_Simulated: 1
   m_UseFullKinematicContacts: 0
   m_UseAutoMass: 0
-  m_Mass: 1
+  m_Mass: 0.1
   m_LinearDrag: 0
   m_AngularDrag: 0.05
   m_GravityScale: 1
@@ -171,4 +174,4 @@ Rigidbody2D:
   m_Interpolate: 1
   m_SleepingMode: 1
   m_CollisionDetection: 1
-  m_Constraints: 7
+  m_Constraints: 4
