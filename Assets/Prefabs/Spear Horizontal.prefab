@@ -14,7 +14,7 @@ GameObject:
   - component: {fileID: 2219380638999545431}
   - component: {fileID: 6043213672258626190}
   m_Layer: 0
-  m_Name: Spear
+  m_Name: Spear Horizontal
   m_TagString: Spear
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -111,6 +111,9 @@ MonoBehaviour:
   groundLayerMask:
     serializedVersion: 2
     m_Bits: 64
+  rayLLength: 1
+  rayRLength: 1
+  rayDLength: 0.15
 --- !u!70 &2219380638999545431
 CapsuleCollider2D:
   m_ObjectHideFlags: 0

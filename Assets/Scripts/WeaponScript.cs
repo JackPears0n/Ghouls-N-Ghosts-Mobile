@@ -12,7 +12,11 @@ public class WeaponScript : MonoBehaviour
     public LayerMask enemyLayerMask;
     public LayerMask playerLayerMask;
     public LayerMask groundLayerMask;
-    float axeDuration = 5;
+    float weaponDuration = 2;
+
+    public float rayLLength;
+    public float rayRLength;
+    public float rayDLength;
 
     void Start()
     {
@@ -21,14 +25,11 @@ public class WeaponScript : MonoBehaviour
 
     void Update()
     {
-        if(weaponType == "Axe")
-        {
-            axeDuration -= Time.deltaTime;
+        weaponDuration -= Time.deltaTime;
 
-            if(axeDuration <= 0)
-            {
-                Destroy(gameObject);
-            }
+        if(weaponDuration <= 0)
+        {
+            Destroy(gameObject);
         }
 
         if (GroundCheck())
@@ -69,13 +70,36 @@ public class WeaponScript : MonoBehaviour
 
     public bool GroundCheck()
     {
-        //cast a ray downward
-        RaycastHit2D hit = Physics2D.Raycast(transform.position, -Vector2.up, 0.15F, groundLayerMask);
+        //cast a ray to the left
+        RaycastHit2D hitLeft = Physics2D.Raycast(transform.position, Vector2.left, rayLLength, groundLayerMask);
 
-        hit = Physics2D.Raycast(transform.position, -Vector2.up, 0.15F, groundLayerMask);
+        hitLeft = Physics2D.Raycast(transform.position, Vector2.left, rayLLength, groundLayerMask);
 
-        Debug.DrawRay(transform.position, -Vector2.up * 0.15F, (hit.collider != null) ? Color.green : Color.white);
+        Debug.DrawRay(transform.position, Vector2.left * rayLLength, (hitLeft.collider != null) ? Color.green : Color.white);
 
-        return hit.collider != null;
+        //cast a ray to the right
+        RaycastHit2D hitRight = Physics2D.Raycast(transform.position, Vector2.left, rayRLength, groundLayerMask);
+
+        hitLeft = Physics2D.Raycast(transform.position, -Vector2.left, rayRLength, groundLayerMask);
+
+        Debug.DrawRay(transform.position, -Vector2.left * rayRLength, (hitRight.collider != null) ? Color.green : Color.white);
+
+        //cast a ray to the down
+        RaycastHit2D hitDown = Physics2D.Raycast(transform.position, -Vector2.up, rayDLength, groundLayerMask);
+
+        hitLeft = Physics2D.Raycast(transform.position, -Vector2.up, rayDLength, groundLayerMask);
+
+        Debug.DrawRay(transform.position, -Vector2.up * rayDLength, (hitDown.collider != null) ? Color.green : Color.white);
+
+        if(hitLeft.collider != null || hitRight.collider != null || hitDown.collider != null)
+        {
+            return true;
+        }
+        else
+        {
+            return false;
+        }
+
+
     }
 }
