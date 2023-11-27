@@ -99,6 +99,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 12527bc16eef0a34c9f3bd1c9aecac4a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  damage: 1
   rb: {fileID: 3509765465274152949}
   col: {fileID: 5008695363596383667}
   weaponType: fire water
@@ -111,6 +112,10 @@ MonoBehaviour:
   groundLayerMask:
     serializedVersion: 2
     m_Bits: 64
+  rayLLength: 0
+  rayRLength: 0
+  rayULength: 0
+  rayDLength: 0
 --- !u!58 &5008695363596383667
 CircleCollider2D:
   m_ObjectHideFlags: 0
