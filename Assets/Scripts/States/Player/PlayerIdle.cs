@@ -9,7 +9,8 @@ public class PlayerIdle : State
     }
     public override void Enter()
     {
-
+        string animClip = ps.animC[0].name;
+        ps.anim.Play(animClip);
     }
 
     public override void HandleInput()

@@ -27,6 +27,8 @@ public class PlayerRunning : State
         }
 
         //Play the run animation
+        string animClip = ps.animC[1].name;
+        ps.anim.Play(animClip);
 
     }
 

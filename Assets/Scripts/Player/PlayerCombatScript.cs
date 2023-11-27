@@ -1,7 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using UnityEngine.EventSystems;
+using UnityEngine.Events;
 using UnityEngine.UI;
 
 public class PlayerCombatScript : MonoBehaviour
@@ -46,9 +46,12 @@ public class PlayerCombatScript : MonoBehaviour
     }
 
     //Makes the player take damage
-    public void TakeDamage(int dmg)
+    public void TakeDamage(int dmg, GameObject enemy)
     {
         currentHP -= dmg;
+
+        Vector2 dircetion = (transform.position - enemy.transform.position).normalized;
+        ps.rb.AddForce(dircetion * 25, ForceMode2D.Impulse);     
     }
 
     //Shows the magic UI
@@ -80,6 +83,8 @@ public class PlayerCombatScript : MonoBehaviour
     //Attacks with the current weapon horisontally
     public void UseWeaponHorisontal()
     {
+        string animClip = ps.animC[5].name;
+        ps.anim.Play(animClip);
 
         //spear
         if (currentWeapon == "spear")
@@ -391,7 +396,13 @@ public class PlayerCombatScript : MonoBehaviour
     //End the game
     public IEnumerator Die()
     {
-        yield return new WaitForSeconds(1F); 
+        //play death anim
+
+        yield return new WaitForSeconds(1F);
+
+        //return to main menu
+        UnityEditor.EditorApplication.isPlaying = false;
+        Application.Quit();
     }
 
     //Updates the sprite to represent the player's status

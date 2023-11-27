@@ -10,6 +10,8 @@ public class PlayerJumping : State
     public override void Enter()
     {
         //Play jump animation
+        string animClip = ps.animC[2].name;
+        ps.anim.Play(animClip);
 
         Vector2 moveDirect = new Vector2(0, 1);
         ps.rb.AddForce(moveDirect.normalized * ps.jumpStrength * 10f, ForceMode2D.Force);

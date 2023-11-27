@@ -12,6 +12,8 @@ public class PlayerFalling : State
         ps.xInput = 0;
         ps.yInput = 0;
         ps.vel = 0;
+        string animClip = ps.animC[3].name;
+        ps.anim.Play(animClip);
     }
 
     public override void HandleInput()
@@ -48,5 +50,7 @@ public class PlayerFalling : State
 
     public override void Exit()
     {
+        string animClip = ps.animC[4].name;
+        ps.anim.Play(animClip);
     }
 }

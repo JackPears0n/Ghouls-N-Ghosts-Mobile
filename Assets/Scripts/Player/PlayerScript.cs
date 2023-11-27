@@ -8,10 +8,13 @@ public class PlayerScript : MonoBehaviour
 
     [Header ("Components")]
     public Rigidbody2D rb;
-    public Animator anim;
+
     public PlayerCombatScript pC;
+
     public GameObject[] sprites;
     public GameObject currentSprite;
+    public Animator anim;
+    public AnimationClip[] animC;
 
     [Header("Variables")]
     //Movement
@@ -53,6 +56,9 @@ public class PlayerScript : MonoBehaviour
     void Update()
     {
         anim = currentSprite.GetComponent<Animator>();
+        SpriteScript sPS = currentSprite.GetComponent<SpriteScript>();
+        animC = sPS.anims;
+
         isGrounded = GroundCheck();
 
         sm.CurrentState.HandleInput();
