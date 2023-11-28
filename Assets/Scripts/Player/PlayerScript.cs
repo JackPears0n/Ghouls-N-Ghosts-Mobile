@@ -8,6 +8,7 @@ public class PlayerScript : MonoBehaviour
 
     [Header ("Components")]
     public Rigidbody2D rb;
+    public CapsuleCollider2D col;
 
     public PlayerCombatScript pC;
 
@@ -21,6 +22,7 @@ public class PlayerScript : MonoBehaviour
     public float baseVel, vel;
     public int xInput, yInput;
     public Vector2 moveDirect;
+    public bool crouch = false;
 
     //Jumping
     public LayerMask groundLayerMask;
@@ -32,6 +34,7 @@ public class PlayerScript : MonoBehaviour
     public PlayerRunning pRunning;
     public PlayerJumping pJumping;
     public PlayerFalling pFalling;
+    public PlayerCrouch pCrouch;
 
     [Header("State Mahchine")]
     public StateMachine sm;
@@ -40,7 +43,8 @@ public class PlayerScript : MonoBehaviour
     void Start()
     {
         sm = gameObject.GetComponent<StateMachine>();
-        rb = GetComponent<Rigidbody2D>();  
+        rb = GetComponent<Rigidbody2D>();
+        col = GetComponent<CapsuleCollider2D>();
 
         pC = GetComponent<PlayerCombatScript>();
 
@@ -48,6 +52,7 @@ public class PlayerScript : MonoBehaviour
         pRunning = new PlayerRunning(this, sm);
         pJumping = new PlayerJumping(this, sm);
         pFalling = new PlayerFalling(this, sm);
+        pCrouch = new PlayerCrouch(this, sm);
 
         sm.Init(pIdle);
     }
@@ -78,6 +83,17 @@ public class PlayerScript : MonoBehaviour
     {
         yInput = input;
     }
+    public void ChangeCrouch()
+    {
+        if (crouch)
+        {
+            crouch = false;
+        }
+        else
+        {
+            crouch = true;
+        }
+    }
 
     public bool GroundCheck()
     {
@@ -101,19 +117,32 @@ public class PlayerScript : MonoBehaviour
             sm.ChangeState(pRunning);
         }
     }
+
+    public void CheckForCrouchInput()
+    {
+        if (crouch)
+        {
+            sm.ChangeState(pCrouch);
+        }
+    }
+
     public void CheckForIdle()
     {
         if(isGrounded)
         {
             if(Input.touchCount == 0)
             {
-                xInput = 0;
-                yInput = 0;
-                sm.ChangeState(pIdle);
+                if (!crouch)
+                {
+                    xInput = 0;
+                    yInput = 0;
+                    sm.ChangeState(pIdle);
+                }
             }
         }
 
     }
+
     public void CheckForJump()
     { 
         if (isGrounded)
@@ -121,6 +150,7 @@ public class PlayerScript : MonoBehaviour
             sm.ChangeState(pJumping);
         }
     }
+
     public void CheckPlayerIsFalling()
     {
         if(rb.velocityY > 0)

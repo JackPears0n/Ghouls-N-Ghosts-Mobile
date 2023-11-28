@@ -191,6 +191,128 @@ public class PlayerCombatScript : MonoBehaviour
         }*/
     }
 
+    public void UseWeaponCrouchedHorisontal()
+    {
+        string animClip = ps.animC[9].name;
+        ps.anim.Play(animClip);
+
+        //spear
+        if (currentWeapon == "spear")
+        {
+            if (playerParent.transform.rotation.y == 0)
+            {
+                Vector2 direction = new Vector2(1, 0);
+
+                //Instanciate weapon with a velocity
+                GameObject weapon;
+                weapon = Instantiate(weapons[12]);
+
+                // get the rigidbody component
+                Rigidbody2D rb = weapon.GetComponent<Rigidbody2D>();
+
+                // set the position
+                rb.transform.position = new Vector2(weaponSpawnH.transform.position.x, weaponSpawnH.transform.position.y - 0.2F);
+
+                // set the velocity
+                rb.AddForce(direction.normalized * 75, ForceMode2D.Force);
+            }
+            else
+            {
+                Vector2 direction = new Vector2(-1, 0);
+
+                //Instanciate weapon with a velocity
+                GameObject weapon;
+                weapon = Instantiate(weapons[12]);
+
+                // get the rigidbody component
+                Rigidbody2D rb = weapon.GetComponent<Rigidbody2D>();
+
+                // set the position
+                rb.transform.position = new Vector2(weaponSpawnH.transform.position.x , weaponSpawnH.transform.position.y - 0.2F);
+
+                //rotate the weapon
+                weapon.transform.rotation = new Quaternion(0, 180, 0, 0);
+
+                // set the velocity
+                rb.AddForce(direction.normalized * 75, ForceMode2D.Force);
+            }
+
+
+        }
+        /*
+        //sword
+        if (currentWeapon == "sword")
+        {
+            //shoot raycast at enemy layer
+            RaycastHit2D hit = Physics2D.Raycast(transform.position, direction, 2, enemyLayerMask);
+
+            hit = Physics2D.Raycast(transform.position, direction, 2, enemyLayerMask);
+            //select 1st enemy
+            //play animation
+            //damage enemy
+        }
+
+        //axe
+        if (currentWeapon == "axe")
+        {
+            //shoot raycast at enemy layer
+            RaycastHit2D hit = Physics2D.Raycast(transform.position, direction, 5, enemyLayerMask);
+
+            hit = Physics2D.Raycast(transform.position, direction, 5, enemyLayerMask);
+            //select 1st enemy
+            //play animation
+            //damage enemy
+        }
+
+        //fire water
+        if (currentWeapon == "fire water")
+        {
+            //shoot raycast at enemy layer
+            RaycastHit2D hit = Physics2D.Raycast(transform.position, direction, 4, enemyLayerMask);
+
+            hit = Physics2D.Raycast(transform.position, direction, 4, enemyLayerMask);
+            //select 1st enemy
+            //play animation
+            //damage enemy
+        }
+
+        //discus
+        if (currentWeapon == "discus")
+        {
+            //shoot raycast at enemy layer
+            RaycastHit2D hit = Physics2D.Raycast(transform.position, direction, 10, enemyLayerMask);
+
+            hit = Physics2D.Raycast(transform.position, direction, 10, enemyLayerMask);
+            //select 1st enemy
+            //play animation
+            //damage enemy
+        }
+
+        //dagger
+        if (currentWeapon == "dagger")
+        {
+            //shoot raycast at enemy layer
+            RaycastHit2D hit = Physics2D.Raycast(transform.position, direction, 10, enemyLayerMask);
+
+            hit = Physics2D.Raycast(transform.position, direction, 10, enemyLayerMask);
+            //select 1st enemy
+            //play animation
+            //damage enemy
+        }*/
+    }
+
+    public void PlayerThrowHorisontal()
+    {
+        if(ps.crouch)
+        {
+            UseWeaponCrouchedHorisontal();
+        }
+        else
+        {
+            UseWeaponHorisontal();
+        }
+    }
+
     public void UseWeaponUp()
     {
         string animClip = ps.animC[6].name;

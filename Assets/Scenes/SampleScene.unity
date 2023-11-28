@@ -2923,8 +2923,10 @@ MonoBehaviour:
   - {fileID: 7400000, guid: dddc9c1d734e0b5438f6fea2e74c4bd6, type: 2}
   - {fileID: 7400000, guid: 7ab4939b9d2cc3b4a979f430995bbb85, type: 2}
   - {fileID: 7400000, guid: 4463673ae0ebc9741944147c9fbe6d54, type: 2}
-  - {fileID: 0}
-  - {fileID: 0}
+  - {fileID: 7400000, guid: 9b5260aaa03a96a4ab148427779d1c71, type: 2}
+  - {fileID: 7400000, guid: 56bab3b1e2c57984c870c1cc1ca58aba, type: 2}
+  - {fileID: 7400000, guid: 1cfeee9dc9944fe49a8dd0b1d52f744a, type: 2}
+  - {fileID: 7400000, guid: 7fb05725c278c584bb4554930fd5615f, type: 2}
 --- !u!1 &1049121921
 GameObject:
   m_ObjectHideFlags: 0
@@ -4050,7 +4052,7 @@ MonoBehaviour:
         m_Calls:
         - m_Target: {fileID: 1678938300}
           m_TargetAssemblyTypeName: PlayerCombatScript, Assembly-CSharp
-          m_MethodName: UseWeaponHorisontal
+          m_MethodName: PlayerThrowHorisontal
           m_Mode: 1
           m_Arguments:
             m_ObjectArgument: {fileID: 0}
@@ -4506,6 +4508,8 @@ MonoBehaviour:
   - {fileID: 7400000, guid: 350c15d976c2a744886628c5c62df65e, type: 2}
   - {fileID: 7400000, guid: a844220155af93647ae9585ecdff8eff, type: 2}
   - {fileID: 7400000, guid: 4aa466d780202ec40925a5d431c8dce9, type: 2}
+  - {fileID: 7400000, guid: 787205ea1be02b1489a71ba42377a000, type: 2}
+  - {fileID: 7400000, guid: c1e138ccc86bf9644a2bb1aa37a47624, type: 2}
 --- !u!1 &1678938295
 GameObject:
   m_ObjectHideFlags: 0
@@ -4565,6 +4569,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   playerParent: {fileID: 1678938295}
   rb: {fileID: 1678938303}
+  col: {fileID: 1678938305}
   pC: {fileID: 1678938300}
   sprites:
   - {fileID: 1046529586}
@@ -4580,6 +4585,7 @@ MonoBehaviour:
   xInput: 0
   yInput: 0
   moveDirect: {x: 0, y: 0}
+  crouch: 0
   groundLayerMask:
     serializedVersion: 2
     m_Bits: 64
@@ -5082,7 +5088,7 @@ SpriteRenderer:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1714516476}
-  m_Enabled: 0
+  m_Enabled: 1
   m_CastShadows: 0
   m_ReceiveShadows: 0
   m_DynamicOccludee: 1
@@ -5146,8 +5152,8 @@ MonoBehaviour:
         m_Calls:
         - m_Target: {fileID: 1678938297}
           m_TargetAssemblyTypeName: PlayerScript, Assembly-CSharp
-          m_MethodName: AddYInput
-          m_Mode: 3
+          m_MethodName: ChangeCrouch
+          m_Mode: 1
           m_Arguments:
             m_ObjectArgument: {fileID: 0}
             m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine

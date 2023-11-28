@@ -1,9 +1,6 @@
 GNGM
 
 To do:	
-	Create a crouch state
-	Put in crouch functionality
-
 	Add flying weasel, pigman, flower and Shielder
 	Make enemy animations
 
@@ -26,7 +23,13 @@ To do:
 	Put in duck functionality
 	Make duck anims
 
+	Create magic functionality
+
+
 Complete (28/1/23):
+Made 1 and 2 HP player animations
 Fixed the weapon up and down
 Made vulture and skeleton animations
 Made Skeleton spawn points
+Create a crouch state
+Put in crouch functionality
