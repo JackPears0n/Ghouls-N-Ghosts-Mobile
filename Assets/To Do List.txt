@@ -1,0 +1,32 @@
+GNGM
+
+To do:	
+	Create a crouch state
+	Put in crouch functionality
+
+	Add flying weasel, pigman, flower and Shielder
+	Make enemy animations
+
+	Add the guillotines
+	Add guillotine animation and script
+
+	Add the sword, discus, fire water, axe and daggar
+	
+	Add ladders
+	Create climb animations
+
+	Create chests
+
+	Make the evil magician
+	Make the magician animations
+
+	Put in old man functionality
+	Make old man anims
+
+	Put in duck functionality
+	Make duck anims
+
+Complete (28/1/23):
+Fixed the weapon up and down
+Made vulture and skeleton animations
+Made Skeleton spawn points

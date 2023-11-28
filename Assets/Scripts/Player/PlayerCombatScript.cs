@@ -193,6 +193,8 @@ public class PlayerCombatScript : MonoBehaviour
 
     public void UseWeaponUp()
     {
+        string animClip = ps.animC[6].name;
+        ps.anim.Play(animClip);
 
         //spear
         if (currentWeapon == "spear")
@@ -210,7 +212,7 @@ public class PlayerCombatScript : MonoBehaviour
             rb.transform.position = new Vector2(weaponSpawnU.transform.position.x, weaponSpawnU.transform.position.y);
 
             // set the velocity
-            rb.AddForce(direction.normalized * 75, ForceMode2D.Force);
+            rb.AddForce(direction.normalized * 20, ForceMode2D.Impulse);
 
         }
         /*
@@ -277,6 +279,8 @@ public class PlayerCombatScript : MonoBehaviour
 
     public void UseWeaponDown()
     {
+        string animClip = ps.animC[7].name;
+        ps.anim.Play(animClip);
 
         //spear
         if (currentWeapon == "spear")

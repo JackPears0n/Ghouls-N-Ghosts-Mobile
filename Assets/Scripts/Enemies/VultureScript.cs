@@ -32,17 +32,22 @@ public class VultureScript : MonoBehaviour
     {
         // Check sight and attack range
         playerInFOV  = Physics2D.OverlapCircle(transform.position, fOV, whatIsPlayer);
-        //playerInFOV = Physics.CheckCircle(transform.position, fOV, whatIsPlayer);
 
         if (playerInFOV)
         {
             Chase();
+        }
+        else
+        {
+            anim.Play("VIdle");
         }
     }
 
     public void Chase()
     {
         //play run anim
+        anim.Play("VChase");
+
         transform.position = Vector2.MoveTowards(transform.position, player.transform.position, speed * Time.deltaTime);
     }
 
@@ -52,8 +57,12 @@ public class VultureScript : MonoBehaviour
         if (!alreadyAttacked)
         {
             if (collision.gameObject.tag == "Player")
+            {
+                anim.Play("VAttack");
                 pCS.TakeDamage(1, gameObject);
-            alreadyAttacked = true;
+                alreadyAttacked = true;
+            }
+
         }
         Invoke(nameof(resetAttack), attackCooldown);
     }

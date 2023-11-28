@@ -18,10 +18,12 @@ public class SkeletonMurdererScript : MonoBehaviour
     bool alreadyAttacked = false;
 
     // Start is called before the first frame update
-    void Start()
+    void Awake()
     {
         player = GameObject.FindGameObjectWithTag("Player");
         pCS = player.GetComponent<PlayerCombatScript>();
+
+        //StartCoroutine(Spawning());
     }
 
     // Update is called once per frame
@@ -34,6 +36,7 @@ public class SkeletonMurdererScript : MonoBehaviour
     {
         //play run anim
         transform.position = Vector2.MoveTowards(transform.position, player.transform.position, speed * Time.deltaTime);
+        anim.Play("SWalk");
     }
 
     public void OnTriggerEnter2D(Collider2D collision)
@@ -42,8 +45,12 @@ public class SkeletonMurdererScript : MonoBehaviour
         if(!alreadyAttacked)
         {
             if (collision.gameObject.tag == "Player")
-            pCS.TakeDamage(1, gameObject);
-            alreadyAttacked = true;
+            {
+                pCS.TakeDamage(1, gameObject);
+                anim.Play("SAttack");
+                alreadyAttacked = true;
+            }
+
         }
         Invoke(nameof(resetAttack), attackCooldown);
     }
@@ -52,5 +59,15 @@ public class SkeletonMurdererScript : MonoBehaviour
 
     {
         alreadyAttacked = false;
+    }
+
+    public IEnumerator Spawning()
+    {
+        //Play spawn anim
+
+        yield return new WaitForSeconds(1);
+
+        player = GameObject.FindGameObjectWithTag("Player");
+        pCS = player.GetComponent<PlayerCombatScript>();
     }
 }
