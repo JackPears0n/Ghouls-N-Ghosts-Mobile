@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: b40b099bd1b779342af19027bf4cdff5
+guid: bce8c5c15bd556a45a86a3bd4ac9b001
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -2221090194690336160
-    second: Section1 Background_0
+      213: -1955448553306655712
+    second: Background_0
   externalObjects: {}
   serializedVersion: 12
   mipmaps:
@@ -75,19 +75,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: 4
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 3
-    buildTarget: WebGL
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
+    textureCompression: 2
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -108,18 +96,6 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: Android
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 3
-    buildTarget: tvOS
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -158,13 +134,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Section1 Background_0
+      name: Background_0
       rect:
         serializedVersion: 2
         x: 0
-        y: 132
-        width: 1540
-        height: 79
+        y: 2
+        width: 1345
+        height: 209
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -172,41 +148,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 06a116b5c3a1d21e0800000000000000
-      internalID: -2221090194690336160
+      spriteID: 024fa93b6e9dcd4e0800000000000000
+      internalID: -1955448553306655712
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Section1 Background_1
+      name: Background_1
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 1540
-        height: 132
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: dd19cc59250690945bf46fcd60fa29b6
-      internalID: 867524884
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Section1 Background_2
-      rect:
-        serializedVersion: 2
-        x: 0
+        x: 1345
         y: 2
-        width: 1537
-        height: 208
+        width: 708
+        height: 209
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -214,8 +169,50 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a3866af96fb01ab438254abe432ecd0c
-      internalID: 821374975
+      spriteID: 88d4a7968fbcc274094f16177f2b0a45
+      internalID: -1161142857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_2
+      rect:
+        serializedVersion: 2
+        x: 2053
+        y: 1
+        width: 289
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 914363e08c9500d46a1fdfaae2090ee1
+      internalID: 517939181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_3
+      rect:
+        serializedVersion: 2
+        x: 2405
+        y: 36
+        width: 413
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9c9fb71b62361f48be948b545e71ce1
+      internalID: 2041909118
       vertices: []
       indices: 
       edges: []
@@ -223,7 +220,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: d1759a5ba66280a4fbdbbe4851fb76b6
+    spriteID: f12c36d0fdcebd3479f2f82731415606
     internalID: 0
     vertices: []
     indices: 
@@ -231,9 +228,10 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Section1 Background_0: -2221090194690336160
-      Section1 Background_1: 867524884
-      Section1 Background_2: 821374975
+      Background_0: -1955448553306655712
+      Background_1: -1161142857
+      Background_2: 517939181
+      Background_3: 2041909118
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: b40b099bd1b779342af19027bf4cdff5
+guid: 07a9e5545f6de5d4db912cff735ac402
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -2221090194690336160
-    second: Section1 Background_0
+      213: 8943365701921409951
+    second: Floor3_0
   externalObjects: {}
   serializedVersion: 12
   mipmaps:
@@ -83,18 +83,6 @@ TextureImporter:
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
-    buildTarget: WebGL
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 3
     buildTarget: Standalone
     maxTextureSize: 2048
     resizeAlgorithm: 0
@@ -108,18 +96,6 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: Android
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 3
-    buildTarget: tvOS
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -158,13 +134,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Section1 Background_0
+      name: Floor3_0
       rect:
         serializedVersion: 2
         x: 0
-        y: 132
-        width: 1540
-        height: 79
+        y: 0
+        width: 1025
+        height: 227
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -172,50 +148,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 06a116b5c3a1d21e0800000000000000
-      internalID: -2221090194690336160
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Section1 Background_1
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 0
-        width: 1540
-        height: 132
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: dd19cc59250690945bf46fcd60fa29b6
-      internalID: 867524884
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Section1 Background_2
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 2
-        width: 1537
-        height: 208
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a3866af96fb01ab438254abe432ecd0c
-      internalID: 821374975
+      spriteID: f9b007fc8b73d1c70800000000000000
+      internalID: 8943365701921409951
       vertices: []
       indices: 
       edges: []
@@ -223,7 +157,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: d1759a5ba66280a4fbdbbe4851fb76b6
+    spriteID: 1724c6a571410c64489d402a51a9838b
     internalID: 0
     vertices: []
     indices: 
@@ -231,9 +165,7 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Section1 Background_0: -2221090194690336160
-      Section1 Background_1: 867524884
-      Section1 Background_2: 821374975
+      Floor3_0: 8943365701921409951
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
