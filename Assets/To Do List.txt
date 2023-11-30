@@ -1,10 +1,8 @@
 GNGM
 
 To do:	
-	Add sickle weasel, pigman, poison flower and Shielder (statue of terror)
-	Make enemy animations
+	Add pigman, poison flower and Shielder (statue of terror)
 
-	Add the guillotines
 	Add guillotine animation and script
 
 	Add the sword, discus, fire water, axe and daggar
@@ -33,3 +31,7 @@ Made vulture and skeleton animations
 Made Skeleton spawn points
 Create a crouch state
 Put in crouch functionality
+
+Complete (30/11/23):
+Added sickle weasel
+Added the guillotines
