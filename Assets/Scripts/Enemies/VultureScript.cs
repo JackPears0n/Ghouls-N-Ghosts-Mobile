@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class VultureScript : MonoBehaviour
 {
+    public Vector3 pos;
     public GameObject enemy;
 
     public GameObject player;
@@ -23,6 +24,7 @@ public class VultureScript : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
+        pos = transform.position;
         player = GameObject.FindGameObjectWithTag("Player");
         pCS = player.GetComponent<PlayerCombatScript>();
     }
@@ -41,7 +43,11 @@ public class VultureScript : MonoBehaviour
         }
         else
         {
-            anim.Play("VIdle");
+            transform.position = Vector2.MoveTowards(transform.position, pos, speed * Time.deltaTime);
+            if(transform.position == pos)
+            {
+                anim.Play("VIdle");
+            }
         }
     }
 
@@ -50,6 +56,7 @@ public class VultureScript : MonoBehaviour
         //play run anim
         anim.Play("VChase");
 
+        
         if (player.transform.position.x > transform.position.x)
         {
             transform.rotation = new Quaternion(0, 180, 0, 0);

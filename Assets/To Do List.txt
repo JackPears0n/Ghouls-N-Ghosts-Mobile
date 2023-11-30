@@ -1,7 +1,7 @@
 GNGM
 
 To do:	
-	Add sickle weasel, pigman, poison flower and Shielder
+	Add sickle weasel, pigman, poison flower and Shielder (statue of terror)
 	Make enemy animations
 
 	Add the guillotines

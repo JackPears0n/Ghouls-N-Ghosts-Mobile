@@ -52,7 +52,7 @@ public class PlayerCombatScript : MonoBehaviour
         currentHP -= dmg;
 
         Vector2 dircetion = (transform.position - enemy.transform.position).normalized;
-        ps.rb.AddForce(dircetion * 25, ForceMode2D.Impulse);     
+        ps.rb.AddForce(dircetion * 10, ForceMode2D.Impulse);     
     }
 
     //Shows the magic UI
