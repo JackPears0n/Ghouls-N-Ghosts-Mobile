@@ -13,7 +13,7 @@ public class VultureScript : MonoBehaviour
     public Animator anim;
 
     public float fOV;
-    public bool playerInFOV;
+    public bool playerInFOV = false;
     public LayerMask whatIsPlayer;
 
     [Header("Attacking")]
@@ -30,8 +30,10 @@ public class VultureScript : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        playerInFOV = false;
         // Check sight and attack range
         playerInFOV  = Physics2D.OverlapCircle(transform.position, fOV, whatIsPlayer);
+        
 
         if (playerInFOV)
         {
@@ -47,6 +49,15 @@ public class VultureScript : MonoBehaviour
     {
         //play run anim
         anim.Play("VChase");
+
+        if (player.transform.position.x > transform.position.x)
+        {
+            transform.rotation = new Quaternion(0, 180, 0, 0);
+        }
+        else
+        {
+            transform.rotation = new Quaternion(0, 0, 0, 0);
+        }
 
         transform.position = Vector2.MoveTowards(transform.position, player.transform.position, speed * Time.deltaTime);
     }

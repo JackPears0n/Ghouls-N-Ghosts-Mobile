@@ -128,11 +128,11 @@ MonoBehaviour:
   pCS: {fileID: 0}
   speed: 2
   anim: {fileID: 2641030437555772160}
-  fOV: 10
+  fOV: 2
   playerInFOV: 0
   whatIsPlayer:
     serializedVersion: 2
-    m_Bits: 128
+    m_Bits: 136
   attackCooldown: 1
 --- !u!114 &4803024955524321136
 MonoBehaviour:
@@ -148,6 +148,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   maxHealth: 2
   currentHealth: 0
+  invulnerable: 0
 --- !u!50 &6923281470161529940
 Rigidbody2D:
   serializedVersion: 4

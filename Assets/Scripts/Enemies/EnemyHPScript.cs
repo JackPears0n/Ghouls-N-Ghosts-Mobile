@@ -6,6 +6,7 @@ public class EnemyHPScript : MonoBehaviour
 {
     public int maxHealth;
     public int currentHealth;
+    public bool invulnerable;
 
     // Start is called before the first frame update
     void Start()
@@ -15,7 +16,10 @@ public class EnemyHPScript : MonoBehaviour
 
     public void TakeDamage(int damage)
     {
-        currentHealth -= damage;
+        if (!invulnerable)
+        {
+            currentHealth -= damage;
+        }
 
         // Play hurt animation
 
@@ -30,7 +34,7 @@ public class EnemyHPScript : MonoBehaviour
         print("Enemy died");
         // Death animation
 
-        Invoke(nameof (DestroyEnemyOBJ), 0.2F);
+        Invoke(nameof (DestroyEnemyOBJ), 0.1F);
 
         // Disable the enemy
         GetComponent<Collider2D>().enabled = false;

@@ -295,6 +295,30 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -307,7 +331,7 @@ TextureImporter:
         width: 22
         height: 29
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -323,12 +347,12 @@ TextureImporter:
       name: Arcade - Ghouls n Ghosts - Tornado Weasel_1
       rect:
         serializedVersion: 2
-        x: 39
+        x: 40
         y: 225
-        width: 24
-        height: 29
+        width: 23
+        height: 31
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -336,27 +360,6 @@ TextureImporter:
       bones: []
       spriteID: 212fbb8d125b6d000800000000000000
       internalID: 60434801990824466
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arcade - Ghouls n Ghosts - Tornado Weasel_2
-      rect:
-        serializedVersion: 2
-        x: 40
-        y: 248
-        width: 13
-        height: 9
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 770db669c5d042c40800000000000000
-      internalID: 5486524937355907191
       vertices: []
       indices: 
       edges: []
@@ -370,7 +373,7 @@ TextureImporter:
         width: 22
         height: 30
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -391,7 +394,7 @@ TextureImporter:
         width: 17
         height: 30
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -412,7 +415,7 @@ TextureImporter:
         width: 22
         height: 44
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -425,36 +428,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Arcade - Ghouls n Ghosts - Tornado Weasel_6
-      rect:
-        serializedVersion: 2
-        x: 34
-        y: 213
-        width: 17
-        height: 9
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 318248a3b8db1c9f0800000000000000
-      internalID: -449870082080495597
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: Arcade - Ghouls n Ghosts - Tornado Weasel_7
       rect:
         serializedVersion: 2
-        x: 34
+        x: 35
         y: 181
-        width: 24
-        height: 35
+        width: 22
+        height: 40
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -471,11 +453,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 66
-        y: 179
+        y: 178
         width: 26
-        height: 43
+        height: 44
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -493,10 +475,10 @@ TextureImporter:
         serializedVersion: 2
         x: 102
         y: 178
-        width: 30
-        height: 38
+        width: 29
+        height: 44
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -509,162 +491,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Arcade - Ghouls n Ghosts - Tornado Weasel_10
-      rect:
-        serializedVersion: 2
-        x: 103
-        y: 216
-        width: 12
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 492a401eb4feb2490800000000000000
-      internalID: -7769853622920895852
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arcade - Ghouls n Ghosts - Tornado Weasel_11
-      rect:
-        serializedVersion: 2
-        x: 112
-        y: 214
-        width: 16
-        height: 9
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 43707a00415ea1e30800000000000000
-      internalID: 4475141053819062068
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arcade - Ghouls n Ghosts - Tornado Weasel_12
-      rect:
-        serializedVersion: 2
-        x: 113
-        y: 210
-        width: 14
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 0367a1b0574549020800000000000000
-      internalID: 2347594167441061424
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arcade - Ghouls n Ghosts - Tornado Weasel_13
-      rect:
-        serializedVersion: 2
-        x: 101
-        y: 207
-        width: 13
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 7e5c15d575470dcc0800000000000000
-      internalID: -3688320176239819289
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arcade - Ghouls n Ghosts - Tornado Weasel_14
-      rect:
-        serializedVersion: 2
-        x: 114
-        y: 207
-        width: 13
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 191f2e30fd1ba5b30800000000000000
-      internalID: 4276926367542735249
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arcade - Ghouls n Ghosts - Tornado Weasel_15
-      rect:
-        serializedVersion: 2
-        x: 87
-        y: 177
-        width: 6
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 6150ca019729c6a60800000000000000
-      internalID: 7668665314173519126
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arcade - Ghouls n Ghosts - Tornado Weasel_16
-      rect:
-        serializedVersion: 2
-        x: 4
-        y: 158
-        width: 29
-        height: 10
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ea5a6035ae8c2cee0800000000000000
-      internalID: -1242209638459988562
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: Arcade - Ghouls n Ghosts - Tornado Weasel_17
       rect:
         serializedVersion: 2
         x: 4
         y: 115
-        width: 30
-        height: 46
+        width: 28
+        height: 52
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -685,7 +520,7 @@ TextureImporter:
         width: 25
         height: 56
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -701,12 +536,12 @@ TextureImporter:
       name: Arcade - Ghouls n Ghosts - Tornado Weasel_19
       rect:
         serializedVersion: 2
-        x: 70
+        x: 71
         y: 116
-        width: 23
-        height: 43
+        width: 21
+        height: 44
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -714,27 +549,6 @@ TextureImporter:
       bones: []
       spriteID: 85d2029a93e73beb0800000000000000
       internalID: -4705278399556342440
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arcade - Ghouls n Ghosts - Tornado Weasel_20
-      rect:
-        serializedVersion: 2
-        x: 71
-        y: 152
-        width: 14
-        height: 9
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 0aa72244ea94e9730800000000000000
-      internalID: 4007721731222567584
       vertices: []
       indices: 
       edges: []
@@ -748,7 +562,7 @@ TextureImporter:
         width: 25
         height: 47
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -769,7 +583,7 @@ TextureImporter:
         width: 33
         height: 27
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -790,7 +604,7 @@ TextureImporter:
         width: 34
         height: 30
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -811,7 +625,7 @@ TextureImporter:
         width: 31
         height: 33
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -829,10 +643,10 @@ TextureImporter:
         serializedVersion: 2
         x: 2
         y: 47
-        width: 32
+        width: 31
         height: 30
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -848,12 +662,12 @@ TextureImporter:
       name: Arcade - Ghouls n Ghosts - Tornado Weasel_26
       rect:
         serializedVersion: 2
-        x: 33
-        y: 37
-        width: 34
-        height: 42
+        x: 34
+        y: 46
+        width: 32
+        height: 33
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -865,619 +679,10 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
-    - serializedVersion: 2
-      name: Arcade - Ghouls n Ghosts - Tornado Weasel_27
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 36
-        width: 34
-        height: 10
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a4faa4a60158babd0800000000000000
-      internalID: -2617852452836561078
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arcade - Ghouls n Ghosts - Tornado Weasel_28
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 27
-        width: 18
-        height: 10
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 73c7d8d00fad3b030800000000000000
-      internalID: 3509389259206130743
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arcade - Ghouls n Ghosts - Tornado Weasel_29
-      rect:
-        serializedVersion: 2
-        x: 16
-        y: 19
-        width: 39
-        height: 18
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 37c3e590dfab318d0800000000000000
-      internalID: -2876750141012951949
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arcade - Ghouls n Ghosts - Tornado Weasel_30
-      rect:
-        serializedVersion: 2
-        x: 56
-        y: 36
-        width: 55
-        height: 10
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 08a4202037cf0c070800000000000000
-      internalID: 8124771298661517952
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arcade - Ghouls n Ghosts - Tornado Weasel_31
-      rect:
-        serializedVersion: 2
-        x: 56
-        y: 22
-        width: 26
-        height: 15
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 16904f1ece0dc8c00800000000000000
-      internalID: 904327341016353121
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arcade - Ghouls n Ghosts - Tornado Weasel_32
-      rect:
-        serializedVersion: 2
-        x: 80
-        y: 27
-        width: 26
-        height: 10
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e4b1253ceeda3e3f0800000000000000
-      internalID: -872662661788984498
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arcade - Ghouls n Ghosts - Tornado Weasel_33
-      rect:
-        serializedVersion: 2
-        x: 112
-        y: 36
-        width: 10
-        height: 10
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 5710812e1265e00f0800000000000000
-      internalID: -1148886151405764235
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arcade - Ghouls n Ghosts - Tornado Weasel_34
-      rect:
-        serializedVersion: 2
-        x: 128
-        y: 36
-        width: 42
-        height: 10
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 48f7001b8c9aca620800000000000000
-      internalID: 2786788948863647620
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arcade - Ghouls n Ghosts - Tornado Weasel_35
-      rect:
-        serializedVersion: 2
-        x: 168
-        y: 36
-        width: 10
-        height: 10
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 030a26477e6a432c0800000000000000
-      internalID: -4452750618542301136
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arcade - Ghouls n Ghosts - Tornado Weasel_36
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 18
-        width: 10
-        height: 10
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 444a07869c5d459b0800000000000000
-      internalID: -5092210217631833020
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arcade - Ghouls n Ghosts - Tornado Weasel_37
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 9
-        width: 10
-        height: 10
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 11b28f5c4970aa400800000000000000
-      internalID: 336089457750453009
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arcade - Ghouls n Ghosts - Tornado Weasel_38
-      rect:
-        serializedVersion: 2
-        x: 8
-        y: 18
-        width: 18
-        height: 10
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 3c599280358c96d20800000000000000
-      internalID: 3272366863206159811
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arcade - Ghouls n Ghosts - Tornado Weasel_39
-      rect:
-        serializedVersion: 2
-        x: 10
-        y: 9
-        width: 6
-        height: 10
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 0004495cdceb900b0800000000000000
-      internalID: -5761864457251438592
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arcade - Ghouls n Ghosts - Tornado Weasel_40
-      rect:
-        serializedVersion: 2
-        x: 16
-        y: 1
-        width: 39
-        height: 18
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 8cde4b371c6a87440800000000000000
-      internalID: 4933876741584514504
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arcade - Ghouls n Ghosts - Tornado Weasel_41
-      rect:
-        serializedVersion: 2
-        x: 26
-        y: 18
-        width: 6
-        height: 10
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e03bebad7d7ebb560800000000000000
-      internalID: 7330707732749529870
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arcade - Ghouls n Ghosts - Tornado Weasel_42
-      rect:
-        serializedVersion: 2
-        x: 32
-        y: 18
-        width: 10
-        height: 10
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a23537970c0fa2400800000000000000
-      internalID: 300317034635547434
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arcade - Ghouls n Ghosts - Tornado Weasel_43
-      rect:
-        serializedVersion: 2
-        x: 56
-        y: 9
-        width: 34
-        height: 10
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e89a0f425fb870390800000000000000
-      internalID: -7852153540294170226
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arcade - Ghouls n Ghosts - Tornado Weasel_44
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 18
-        width: 10
-        height: 10
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 82e58e7a2ea0dd310800000000000000
-      internalID: 1431312225169595944
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arcade - Ghouls n Ghosts - Tornado Weasel_45
-      rect:
-        serializedVersion: 2
-        x: 72
-        y: 18
-        width: 50
-        height: 10
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e3e08e55d58daefb0800000000000000
-      internalID: -4617640572530192834
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arcade - Ghouls n Ghosts - Tornado Weasel_46
-      rect:
-        serializedVersion: 2
-        x: 96
-        y: 9
-        width: 34
-        height: 10
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: efd24671ee0aa4420800000000000000
-      internalID: 2615079478097096190
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arcade - Ghouls n Ghosts - Tornado Weasel_47
-      rect:
-        serializedVersion: 2
-        x: 128
-        y: 18
-        width: 55
-        height: 10
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 285bbf39712541c30800000000000000
-      internalID: 4329175403030361474
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arcade - Ghouls n Ghosts - Tornado Weasel_48
-      rect:
-        serializedVersion: 2
-        x: 130
-        y: 9
-        width: 6
-        height: 10
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 8a3535b0bf773cea0800000000000000
-      internalID: -5853703170541005912
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arcade - Ghouls n Ghosts - Tornado Weasel_49
-      rect:
-        serializedVersion: 2
-        x: 136
-        y: 9
-        width: 10
-        height: 10
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 21f6e4e6477c7bc10800000000000000
-      internalID: 2069341856680800018
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arcade - Ghouls n Ghosts - Tornado Weasel_50
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 0
-        width: 10
-        height: 10
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 718fc060391d88b80800000000000000
-      internalID: -8392227476213008361
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arcade - Ghouls n Ghosts - Tornado Weasel_51
-      rect:
-        serializedVersion: 2
-        x: 8
-        y: 0
-        width: 26
-        height: 10
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ef5e027786b002390800000000000000
-      internalID: -7845258007576254978
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arcade - Ghouls n Ghosts - Tornado Weasel_52
-      rect:
-        serializedVersion: 2
-        x: 34
-        y: 0
-        width: 6
-        height: 10
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: cf1b2baf5740e6be0800000000000000
-      internalID: -1482242322594614788
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arcade - Ghouls n Ghosts - Tornado Weasel_53
-      rect:
-        serializedVersion: 2
-        x: 40
-        y: 0
-        width: 10
-        height: 10
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 2fe5f09451196bed0800000000000000
-      internalID: -2398570230922125582
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arcade - Ghouls n Ghosts - Tornado Weasel_54
-      rect:
-        serializedVersion: 2
-        x: 56
-        y: 0
-        width: 10
-        height: 10
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ede879f9b443aaf10800000000000000
-      internalID: 2281693660621278942
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arcade - Ghouls n Ghosts - Tornado Weasel_55
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 0
-        width: 42
-        height: 10
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 92f43448acd534b70800000000000000
-      internalID: 8882046014488530729
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: e504c18f192463a4880db2b36d487c86
     internalID: 0
     vertices: []
     indices: 

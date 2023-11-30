@@ -35,6 +35,16 @@ public class SkeletonMurdererScript : MonoBehaviour
     public void Chase()
     {
         //play run anim
+
+        if (player.transform.position.x > transform.position.x)
+        {
+            transform.rotation = new Quaternion(0, 180, 0, 0);
+        }
+        else
+        {
+            transform.rotation = new Quaternion(0, 0, 0, 0);
+        }
+
         transform.position = Vector2.MoveTowards(transform.position, player.transform.position, speed * Time.deltaTime);
         anim.Play("SWalk");
     }

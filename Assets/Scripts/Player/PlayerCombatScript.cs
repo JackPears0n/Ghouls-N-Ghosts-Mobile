@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Events;
+using UnityEngine.SceneManagement;
 using UnityEngine.UI;
 
 public class PlayerCombatScript : MonoBehaviour
@@ -527,8 +528,7 @@ public class PlayerCombatScript : MonoBehaviour
         yield return new WaitForSeconds(1F);
 
         //return to main menu
-        UnityEditor.EditorApplication.isPlaying = false;
-        Application.Quit();
+        SceneManager.LoadScene(0);
     }
 
     //Updates the sprite to represent the player's status

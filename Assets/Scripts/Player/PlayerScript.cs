@@ -1,10 +1,14 @@
 using System.Collections;
 using System.Collections.Generic;
+using UnityEditor;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class PlayerScript : MonoBehaviour
 {
     public GameObject playerParent;
+    public Button jumpB;
+    public GameObject jumpBHolder;
 
     [Header ("Components")]
     public Rigidbody2D rb;
@@ -85,13 +89,13 @@ public class PlayerScript : MonoBehaviour
     }
     public void ChangeCrouch()
     {
-        if (crouch)
+        if (!crouch && GroundCheck())
         {
-            crouch = false;
+            crouch = true;         
         }
         else
         {
-            crouch = true;
+            crouch = false;
         }
     }
 
@@ -122,7 +126,13 @@ public class PlayerScript : MonoBehaviour
     {
         if (crouch)
         {
+            jumpBHolder.SetActive(false);
             sm.ChangeState(pCrouch);
+        }
+        else
+        {
+            jumpBHolder.SetActive(true);
+            sm.ChangeState(sm.CurrentState);
         }
     }
 
@@ -134,7 +144,7 @@ public class PlayerScript : MonoBehaviour
             {
                 if (!crouch)
                 {
-                    xInput = 0;
+                    jumpBHolder.SetActive(true); xInput = 0;
                     yInput = 0;
                     sm.ChangeState(pIdle);
                 }
