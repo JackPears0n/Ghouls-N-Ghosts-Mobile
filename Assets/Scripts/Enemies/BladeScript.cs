@@ -10,6 +10,8 @@ public class BladeScript : MonoBehaviour
 
     public GameObject player;
 
+    bool hasReachedTop, hasReachedBot;
+
     // Start is called before the first frame update
     void Start()
     {
@@ -19,15 +21,30 @@ public class BladeScript : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (transform.position.y == topPos.transform.position.y || transform.position.y <= topPos.transform.position.y && transform.position.y > botPos.transform.position.y)
+        if (transform.position == topPos.transform.position)
+        {
+            hasReachedTop = true;
+            hasReachedBot = false;
+        }
+        else if (transform.position == botPos.transform.position)
+        {
+            hasReachedTop = false;
+            hasReachedBot = true;
+        }
+        
+        if (hasReachedTop) 
         {
             transform.position = Vector2.MoveTowards(transform.position, botPos.transform.position, 1 * Time.deltaTime);
         }
-
-        else if (transform.position.y == botPos.transform.position.y)
+        else if (hasReachedBot)
         {
-            blade.transform.position = botPos.transform.position;
+            transform.position = Vector2.MoveTowards(transform.position, topPos.transform.position, 1 * Time.deltaTime);
         }
+        else
+        {
+            return;
+        }
+
 
         /*
         else if (transform.position.y <= topPos.transform.position.y && transform.position.y > botPos.transform.position.y)
