@@ -28,6 +28,11 @@ public class PlayerScript : MonoBehaviour
     public Vector2 moveDirect;
     public bool crouch = false;
 
+    //Ladders
+    public float vertical;
+    public bool isLadder;
+    public bool isClimbing;
+
     //Jumping
     public LayerMask groundLayerMask;
     public float rayLength, jumpStrength;
@@ -39,6 +44,7 @@ public class PlayerScript : MonoBehaviour
     public PlayerJumping pJumping;
     public PlayerFalling pFalling;
     public PlayerCrouch pCrouch;
+    public PlayerClimbing pClimbing;
 
     [Header("State Mahchine")]
     public StateMachine sm;
@@ -57,6 +63,7 @@ public class PlayerScript : MonoBehaviour
         pJumping = new PlayerJumping(this, sm);
         pFalling = new PlayerFalling(this, sm);
         pCrouch = new PlayerCrouch(this, sm);
+        pClimbing = new PlayerClimbing(this, sm);
 
         sm.Init(pIdle);
     }
@@ -69,6 +76,15 @@ public class PlayerScript : MonoBehaviour
         animC = sPS.anims;
 
         isGrounded = GroundCheck();
+
+        if (isLadder && Mathf.Abs(yInput) > 0F)
+        {
+            isClimbing = true;
+        }
+        if (!isClimbing)
+        {
+            rb.gravityScale = 1;
+        }
 
         sm.CurrentState.HandleInput();
         sm.CurrentState.LogicUpdate();
@@ -98,7 +114,6 @@ public class PlayerScript : MonoBehaviour
             crouch = false;
         }
     }
-
     public bool GroundCheck()
     {
         //cast a ray downward
@@ -111,8 +126,22 @@ public class PlayerScript : MonoBehaviour
         return hit.collider != null;
     }
 
-
-
+    public void OnTriggerEnter2D(Collider2D collision)
+    {
+        if (collision.CompareTag("Ladder"))
+        {
+            print("Touching ladder");
+            isLadder = true;
+        }
+    }
+    public void OnTriggerExit2D(Collider2D other)
+    {
+        if (other.CompareTag("Ladder"))
+        {
+            isLadder = false;
+            isClimbing = false;
+        }
+    }
     #region State Checks
     public void CheckForXInput()
     {
@@ -169,6 +198,14 @@ public class PlayerScript : MonoBehaviour
             {
                 sm.ChangeState(pFalling);
             }
+        }
+    }
+
+    public void CheckForClimbInput()
+    {
+        if (isClimbing)
+        {
+            sm.ChangeState(pClimbing);
         }
     }
     #endregion

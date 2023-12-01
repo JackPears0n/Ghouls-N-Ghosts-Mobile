@@ -10,6 +10,7 @@ TagManager:
   - Sword
   - Discus
   - Fire Water
+  - Ladder
   layers:
   - Default
   - TransparentFX
