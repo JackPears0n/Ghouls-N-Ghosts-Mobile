@@ -3,11 +3,8 @@ GNGM
 To do:	
 	Add pigman, poison flower and Shielder (statue of terror)
 
-	Add guillotine animation and script
-
 	Add the sword, discus, fire water, axe and daggar
-	
-	Add ladders
+		
 	Create climb animations
 
 	Create chests
@@ -35,3 +32,7 @@ Put in crouch functionality
 Complete (30/11/23):
 Added sickle weasel
 Added the guillotines
+
+Complete (1/12/23):
+Add guillotine animation and script
+Added ladders
